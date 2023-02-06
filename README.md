@@ -1,16 +1,19 @@
-### Hi there 👋
+# こんにちは👋
 
-<!--
-**ringo360/ringo360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ちっちゃいマイクラ鯖を運営している学生です。
 
-Here are some ideas to get you started:
+DiscordのBotを作ったり、マイクラ鯖用にSkriptで独自要素を追加してみたり、色々やってます。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Minecraft Server
+
+MCSV-JE&BEという名前でマイクラ鯖を運営しています。
+
+- 興味がある人は見てってね
+
+  - JMS: https://minecraft.jp/servers/play.mcsvsvr.ml
+
+  - ものくらふと: https://monocraft.net/servers/naUZviTjsHJLerGLgCn1/vote
+
+  - MCServers.JP https://mcservers.jp/server/details/338
+
+  - Github: https://github.com/MCSV-Network
