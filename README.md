@@ -8,12 +8,12 @@ DiscordのBotを作ったり、マイクラ鯖用にSkriptで独自要素を追�
 
 MCSV-JE&BEという名前でマイクラ鯖を運営しています。
 
-- 興味がある人は見てってね
+興味がある人は見てってね
 
-  - JMS: https://minecraft.jp/servers/play.mcsvsvr.ml
+* JMS: https://minecraft.jp/servers/play.mcsvsvr.ml
 
-  - ものくらふと: https://monocraft.net/servers/naUZviTjsHJLerGLgCn1/vote
+* ものくらふと: https://monocraft.net/servers/naUZviTjsHJLerGLgCn1/vote
 
-  - MCServers.JP https://mcservers.jp/server/details/338
+* MCServers.JP: https://mcservers.jp/server/details/338
 
-  - Github: https://github.com/MCSV-Network
+* Github: https://github.com/MCSV-Network
