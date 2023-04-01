@@ -17,3 +17,5 @@ MCSV-JE&BEという名前でマイクラ鯖を運営しています。
 * MCServers.JP: https://mcservers.jp/server/details/338
 
 * Github: https://github.com/MCSV-Network
+
+* Discord: https://mcsvsvr.ml/discord/
