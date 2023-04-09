@@ -4,6 +4,8 @@
 
 DiscordのBotを作ったり、マイクラ鯖用にSkriptで独自要素を追加してみたり、色々やってます。
 
+***
+
 ## Minecraft Server
 
 MCSV-JE&BEという名前でマイクラ鯖を運営しています。
@@ -19,3 +21,8 @@ MCSV-JE&BEという名前でマイクラ鯖を運営しています。
 * Github: https://github.com/MCSV-Network
 
 * Discord: https://mcsvsvr.ml/discord/
+
+***
+
+> ### LINKS
+> [Discord](https://mcsvsvr.ml/discord/) / [Website](https://mcsvsvr.ml) / [YouTube](https://www.youtube.com/@ringo360xd)
