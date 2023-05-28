@@ -4,7 +4,7 @@
 
 DiscordのBotを作ったり、マイクラ鯖用にSkriptで独自要素を追加してみたり、色々やってます。
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ringo360&rank_icon=github&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ringo360&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ***
 
