@@ -18,7 +18,7 @@ MCSV-JE&BEという名前でマイクラ鯖を運営しています。
 
 * ものくらふと: https://monocraft.net/servers/naUZviTjsHJLerGLgCn1/vote
 
-* MCServers.JP: https://mcservers.jp/server/details/338
+* ~~MCServers.JP: https://mcservers.jp/server/details/338~~
 
 * Github: https://github.com/MCSV-Network
 
