@@ -7,7 +7,7 @@ DiscordのBotを作ったり、マイクラ鯖用にSkriptで独自要素を追�
 ## Stats <3
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ringo360&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![My Osu! stats](https://osu-sig.vercel.app/card?user=P360Rythm&mode=std&lang=en&blur=6&animation=true&hue=307)
+[![My Osu! stats](https://osu-sig.vercel.app/card?user=P360Rythm&mode=std&lang=en&blur=6&animation=true&hue=307&mini=true)](https://osu.ppy.sh/users/24734251/)
 
 ***
 
