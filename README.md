@@ -17,7 +17,7 @@ MCSV-JE&BEという名前でマイクラ鯖を運営しています。
 
 興味がある人は見てってね
 
-* JMS: https://minecraft.jp/servers/play.mcsvsvr.ml
+* JMS: https://minecraft.jp/servers/connect.mcsv.life
 
 * ものくらふと: https://monocraft.net/servers/naUZviTjsHJLerGLgCn1/vote
 
@@ -25,12 +25,12 @@ MCSV-JE&BEという名前でマイクラ鯖を運営しています。
 
 * Github: https://github.com/MCSV-Network
 
-* Discord: https://mcsvsvr.ml/discord/
+* Discord: https://mcsv.life/discord/
 
 ***
 
 > ### LINKS
-> [Discord](https://mcsvsvr.ml/discord/) / [Website](https://mcsvsvr.ml) / [YouTube](https://www.youtube.com/@ringo360xd)
+> [Discord](https://mcsv.life/discord/) / [Website](https://mcsv.life) / [YouTube](https://www.youtube.com/@ringo360xd)
 
 
 <p align="center"><img src="https://profile-counter.glitch.me/ringo360/count.svg" /></p>
