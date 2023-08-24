@@ -9,6 +9,7 @@ DiscordのBotをPythonで作ったり、マイクラ鯖用にSkriptで独自要�
 
 [![My Osu! stats](https://osu-sig.vercel.app/card?user=P360Rythm&mode=std&lang=en&blur=6&animation=true&hue=307&mini=true)](https://osu.ppy.sh/users/24734251/)
 
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ringo360&bg_color=000024&color=00ff00&line=8080ff&point=d0d0ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ***
 
 ## Minecraft Server
