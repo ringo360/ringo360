@@ -2,7 +2,7 @@
 
 プログラマー(笑)な、ちっちゃいマイクラ鯖を運営している学生です。
 
-DiscordのBotをPythonで作ったり、マイクラ鯖用にSkriptで独自要素を追加してみたり、色々やってます。
+DiscordのBotをPythonやjsで作ったり、マイクラ鯖用にSkriptで独自要素を追加してみたり、色々やってます。
 
 ## Stats <3
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ringo360&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
