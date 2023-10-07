@@ -12,6 +12,9 @@ DiscordのBotをPythonやjsで作ったり、マイクラ鯖用にSkriptで独�
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ringo360&bg_color=000024&color=00ff00&line=8080ff&point=d0d0ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ***
 
+<!--START_SECTION:activity-->
+
+
 ## Minecraft Server
 
 MCSV-JE&BEという名前でマイクラ鯖を運営しています。
