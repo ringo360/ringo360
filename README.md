@@ -25,7 +25,7 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 
 # Activity <3
 <!--START_SECTION:activity-->
-`[12/02 17:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [ringo360/cdn](https://github.com/ringo360/cdn)  
+`[12/02 17:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [ringo360/cdn](https://github.com/ringo360/cdn)  
 `[12/02 15:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Chuzume/Chuzume-s-Items](https://github.com/Chuzume/Chuzume-s-Items)  
 `[12/02 14:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [MCSV-Network/Core](https://github.com/MCSV-Network/Core)  
 `[12/02 06:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [ringo360/ringo360](https://github.com/ringo360/ringo360)  
@@ -127,7 +127,7 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 `[10/24 05:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tewarid/node-udp-forwarder](https://github.com/tewarid/node-udp-forwarder)  
 `[10/24 05:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [WaterdogPE/WaterdogPE](https://github.com/WaterdogPE/WaterdogPE)  
 `[10/23 15:31]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on `#6` in <span title="Private Repo">`🔒IrrXClient-Dev/IrrX-V2`</span>  
-`[10/23 09:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/Discord-EmbedSender](https://github.com/ringo360/Discord-EmbedSender)  
+`[10/23 09:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/Discord-EmbedSender](https://github.com/ringo360/Discord-EmbedSender)  
 
 </details>
 <!--END_SECTION:activity-->
