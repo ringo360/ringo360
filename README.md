@@ -25,7 +25,7 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 
 # Activity <3
 <!--START_SECTION:activity-->
-`[12/02 06:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [ringo360/ringo360](https://github.com/ringo360/ringo360)  
+`[12/02 06:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [ringo360/ringo360](https://github.com/ringo360/ringo360)  
 `[12/01 06:21]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#9756`](https://github.com//is-a-dev/register/issues/9756 'Update ppy.is-a.dev') in [is-a-dev/register](https://github.com/is-a-dev/register)  
 `[12/01 06:20]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#9756`](https://github.com//is-a-dev/register/pull/9756 'Update ppy.is-a.dev') in [is-a-dev/register](https://github.com/is-a-dev/register)  
 `[12/01 06:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/register](https://github.com/ringo360/register)  
@@ -128,7 +128,6 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 `[10/22 23:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/ringo360](https://github.com/ringo360/ringo360)  
 `[10/22 18:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [plan-player-analytics/Plan](https://github.com/plan-player-analytics/Plan)  
 `[10/22 14:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [ringo360/Discord-EmbedSender](https://github.com/ringo360/Discord-EmbedSender)  
-`[10/22 11:02]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#17`](https://github.com//LOOHP/InteractionVisualizerLanguages/issues/17 'Added Japanese language') in [LOOHP/InteractionVisualizerLanguages](https://github.com/LOOHP/InteractionVisualizerLanguages)  
 
 </details>
 <!--END_SECTION:activity-->
