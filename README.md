@@ -23,6 +23,7 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 <!--[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ringo360&bg_color=000024&color=00ff00&line=8080ff&point=d0d0ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 <!--[![github-chart](https://github-chart.vercel.app/api?user=ringo360)]-->
 
+# Activity <3
 <!--START_SECTION:activity-->
 `[12/02 05:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [ringo360/ringo360](https://github.com/ringo360/ringo360)  
 `[12/01 06:21]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#9756`](https://github.com//is-a-dev/register/issues/9756 'Update ppy.is-a.dev') in [is-a-dev/register](https://github.com/is-a-dev/register)  
