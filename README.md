@@ -25,6 +25,7 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[12/03 05:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 `[12/03 05:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/cdn](https://github.com/ringo360/cdn)  
 `[12/03 04:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 `[12/03 04:31]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#6`](https://github.com//ringo360/Discord.js_Bot/pull/6 'やっほーめよだよ～＾＾') in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
@@ -34,10 +35,10 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 `[12/03 04:12]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//ringo360/cdn/pull/2 'はいどうもみなさんこんにちはかいるんるんです') in [ringo360/cdn](https://github.com/ringo360/cdn)  
 `[12/02 17:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [ringo360/cdn](https://github.com/ringo360/cdn)  
 `[12/02 15:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Chuzume/Chuzume-s-Items](https://github.com/Chuzume/Chuzume-s-Items)  
-`[12/02 14:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [MCSV-Network/Core](https://github.com/MCSV-Network/Core)  
 
 <details><summary>Show More</summary>
 
+`[12/02 14:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [MCSV-Network/Core](https://github.com/MCSV-Network/Core)  
 `[12/02 06:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [ringo360/ringo360](https://github.com/ringo360/ringo360)  
 `[12/01 06:21]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#9756`](https://github.com//is-a-dev/register/issues/9756 'Update ppy.is-a.dev') in [is-a-dev/register](https://github.com/is-a-dev/register)  
 `[12/01 06:20]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#9756`](https://github.com//is-a-dev/register/pull/9756 'Update ppy.is-a.dev') in [is-a-dev/register](https://github.com/is-a-dev/register)  
@@ -128,7 +129,6 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 `[10/27 14:48]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [MCSV-Network/NetworkStatus](https://github.com/MCSV-Network/NetworkStatus)  
 `[10/27 12:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [ringo360/Discord-EmbedSender](https://github.com/ringo360/Discord-EmbedSender)  
 `[10/27 04:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Vendicated/Vencord](https://github.com/Vendicated/Vencord)  
-`[10/26 14:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/Discord-EmbedSender](https://github.com/ringo360/Discord-EmbedSender)  
 
 </details>
 <!--END_SECTION:activity-->
