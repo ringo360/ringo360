@@ -25,19 +25,23 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[12/03 04:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/cdn](https://github.com/ringo360/cdn)  
+`[12/03 04:13]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2`](https://github.com//ringo360/cdn/issues/2 'はいどうもみなさんこんにちはかいるんるんです') in [ringo360/cdn](https://github.com/ringo360/cdn)  
+`[12/03 04:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/cdn](https://github.com/ringo360/cdn)  
+`[12/03 04:12]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//ringo360/cdn/pull/2 'はいどうもみなさんこんにちはかいるんるんです') in [ringo360/cdn](https://github.com/ringo360/cdn)  
 `[12/02 17:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [ringo360/cdn](https://github.com/ringo360/cdn)  
 `[12/02 15:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Chuzume/Chuzume-s-Items](https://github.com/Chuzume/Chuzume-s-Items)  
 `[12/02 14:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [MCSV-Network/Core](https://github.com/MCSV-Network/Core)  
 `[12/02 06:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [ringo360/ringo360](https://github.com/ringo360/ringo360)  
 `[12/01 06:21]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#9756`](https://github.com//is-a-dev/register/issues/9756 'Update ppy.is-a.dev') in [is-a-dev/register](https://github.com/is-a-dev/register)  
 `[12/01 06:20]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#9756`](https://github.com//is-a-dev/register/pull/9756 'Update ppy.is-a.dev') in [is-a-dev/register](https://github.com/is-a-dev/register)  
+
+<details><summary>Show More</summary>
+
 `[12/01 06:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/register](https://github.com/ringo360/register)  
 `[11/28 12:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [MCSV-Network/Core](https://github.com/MCSV-Network/Core)  
 `[11/28 09:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)  
 `[11/28 09:11]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#9680`](https://github.com//is-a-dev/register/pull/9680 'BETA: Register ppy.is-a.dev') in [is-a-dev/register](https://github.com/is-a-dev/register)  
-
-<details><summary>Show More</summary>
-
 `[11/28 09:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/register](https://github.com/ringo360/register)  
 `[11/27 14:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ringo360/MCBE-DiscordBridge`</span>  
 `[11/27 12:24]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7`](https://github.com//faketunaPrivateCamp/SkriptWebAPI/issues/7 'purpur 1.17.1で起動に失敗する(Unsupported API version 1.19)') in [faketunaPrivateCamp/SkriptWebAPI](https://github.com/faketunaPrivateCamp/SkriptWebAPI)  
@@ -124,10 +128,6 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 `[10/26 14:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [ringo360/Discord-EmbedSender](https://github.com/ringo360/Discord-EmbedSender)  
 `[10/26 08:38]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue `#6` in <span title="Private Repo">`🔒IrrXClient-Dev/IrrX-V2`</span>  
 `[10/24 15:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser)  
-`[10/24 05:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tewarid/node-udp-forwarder](https://github.com/tewarid/node-udp-forwarder)  
-`[10/24 05:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [WaterdogPE/WaterdogPE](https://github.com/WaterdogPE/WaterdogPE)  
-`[10/23 15:31]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on `#6` in <span title="Private Repo">`🔒IrrXClient-Dev/IrrX-V2`</span>  
-`[10/23 09:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/Discord-EmbedSender](https://github.com/ringo360/Discord-EmbedSender)  
 
 </details>
 <!--END_SECTION:activity-->
