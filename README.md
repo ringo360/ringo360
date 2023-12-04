@@ -25,6 +25,9 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[12/04 09:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/cdn](https://github.com/ringo360/cdn)  
+`[12/04 09:14]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//ringo360/cdn/pull/3 'はいどうもみなさんこんにちはかいるんるんです') in [ringo360/cdn](https://github.com/ringo360/cdn)  
+`[12/04 09:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3`](https://github.com//ringo360/cdn/issues/3 'はいどうもみなさんこんにちはかいるんるんです') in [ringo360/cdn](https://github.com/ringo360/cdn)  
 `[12/04 07:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 `[12/03 05:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast)  
 `[12/03 05:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [RileCraft/DiscordBot-Template](https://github.com/RileCraft/DiscordBot-Template)  
@@ -32,12 +35,12 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 `[12/03 05:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/cdn](https://github.com/ringo360/cdn)  
 `[12/03 04:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 `[12/03 04:31]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#6`](https://github.com//ringo360/Discord.js_Bot/pull/6 'やっほーめよだよ～＾＾') in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
-`[12/03 04:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [ringo360/cdn](https://github.com/ringo360/cdn)  
-`[12/03 04:13]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2`](https://github.com//ringo360/cdn/issues/2 'はいどうもみなさんこんにちはかいるんるんです') in [ringo360/cdn](https://github.com/ringo360/cdn)  
-`[12/03 04:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/cdn](https://github.com/ringo360/cdn)  
 
 <details><summary>Show More</summary>
 
+`[12/03 04:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [ringo360/cdn](https://github.com/ringo360/cdn)  
+`[12/03 04:13]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2`](https://github.com//ringo360/cdn/issues/2 'はいどうもみなさんこんにちはかいるんるんです') in [ringo360/cdn](https://github.com/ringo360/cdn)  
+`[12/03 04:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/cdn](https://github.com/ringo360/cdn)  
 `[12/03 04:12]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//ringo360/cdn/pull/2 'はいどうもみなさんこんにちはかいるんるんです') in [ringo360/cdn](https://github.com/ringo360/cdn)  
 `[12/02 17:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [ringo360/cdn](https://github.com/ringo360/cdn)  
 `[12/02 15:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Chuzume/Chuzume-s-Items](https://github.com/Chuzume/Chuzume-s-Items)  
@@ -124,7 +127,7 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 `[10/28 15:24]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#7` in <span title="Private Repo">`🔒IrrXClient-Dev/IrrX-V2`</span>  
 `[10/28 15:23]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Reopened issue `#3` in <span title="Private Repo">`🔒IrrXClient-Dev/IrrX-V2`</span>  
 `[10/28 15:23]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on `#3` in <span title="Private Repo">`🔒IrrXClient-Dev/IrrX-V2`</span>  
-`[10/28 12:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
+`[10/28 12:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 
 </details>
 <!--END_SECTION:activity-->
