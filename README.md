@@ -152,7 +152,7 @@ MCSV-JE&BEという名前でマイクラ鯖を運営しています。
 ***
 
 > ### LINKS
-> [About me more!](https://ringoxd.pages.dev) / [Discord](https://mcsv.life/discord/) / [YouTube](https://www.youtube.com/@ringo360xd)
-
+> [About me more!](https://ringoxd.pages.dev) / [Discord](https://mcsv.life/discord/) / [YouTube](https://www.youtube.com/@ringo360xd)<br>
+> Copyright 2022-2023 ringoXD.
 
 <p align="center"><img src="https://profile-counter.glitch.me/ringo360/count.svg" /></p>
