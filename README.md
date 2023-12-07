@@ -25,6 +25,8 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[12/07 07:12]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/codes/tree/main) in [ringo360/codes](https://github.com/ringo360/codes)  
+`[12/07 07:12]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/codes](https://github.com/ringo360/codes)  
 `[12/07 03:28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#746`](https://github.com//CodeCrafter47/BungeeTabListPlus/issues/746 'Not working on 1.20.3 (NoSuchMethodError)') in [CodeCrafter47/BungeeTabListPlus](https://github.com/CodeCrafter47/BungeeTabListPlus)  
 `[12/06 13:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [MCSV-Network/.github](https://github.com/MCSV-Network/.github)  
 `[12/06 13:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/ringo360](https://github.com/ringo360/ringo360)  
@@ -33,11 +35,11 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 `[12/06 04:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [brokiem/BedrockReplay](https://github.com/brokiem/BedrockReplay)  
 `[12/06 03:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Shadowshusky/CVE-2017-11882-](https://github.com/Shadowshusky/CVE-2017-11882-)  
 `[12/05 05:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [yomogi11/vip](https://github.com/yomogi11/vip)  
-`[12/05 05:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Lefraudeur/RiptermsGhost](https://github.com/Lefraudeur/RiptermsGhost)  
-`[12/04 09:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/cdn](https://github.com/ringo360/cdn)  
 
 <details><summary>Show More</summary>
 
+`[12/05 05:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Lefraudeur/RiptermsGhost](https://github.com/Lefraudeur/RiptermsGhost)  
+`[12/04 09:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/cdn](https://github.com/ringo360/cdn)  
 `[12/04 09:14]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//ringo360/cdn/pull/3 'はいどうもみなさんこんにちはかいるんるんです') in [ringo360/cdn](https://github.com/ringo360/cdn)  
 `[12/04 09:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3`](https://github.com//ringo360/cdn/issues/3 'はいどうもみなさんこんにちはかいるんるんです') in [ringo360/cdn](https://github.com/ringo360/cdn)  
 `[12/04 07:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
@@ -127,7 +129,7 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 `[10/30 08:17]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `main` from [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 `[10/30 08:17]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`v14`](https://github.com/ringo360/Discord.js_Bot/tree/v14) in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 `[10/30 08:07]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`v13-code`](https://github.com/ringo360/Discord.js_Bot/tree/v13-code) in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
-`[10/30 07:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `33` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
+`[10/30 07:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `29` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 
 </details>
 <!--END_SECTION:activity-->
