@@ -1,4 +1,5 @@
 # こんにちは👋
+<a href="https://ringoxd.pages.dev"><img src="https://avatars.githubusercontent.com/u/105296365" align="right"></a>
 
 プログラマー(笑)な、ちっちゃいマイクラ鯖を運営している学生です。
 
