@@ -1,5 +1,7 @@
 # こんにちは👋
+<!--
 <a href="https://ringoxd.pages.dev"><img src="https://avatars.githubusercontent.com/u/105296365" align="right"></a>
+-->
 
 どこにでも居る、Node.js好きな学生です。
 
