@@ -28,6 +28,7 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[12/10 13:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 `[12/10 08:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/ringo360](https://github.com/ringo360/ringo360)  
 `[12/10 03:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in <span title="Private Repo">`🔒MCSV-Network/Verify`</span>  
 `[12/09 11:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jhuckaby/performa](https://github.com/jhuckaby/performa)  
@@ -37,10 +38,10 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 `[12/08 17:43]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#746`](https://github.com//CodeCrafter47/BungeeTabListPlus/issues/746 'Not working on 1.20.3 (NoSuchMethodError)') in [CodeCrafter47/BungeeTabListPlus](https://github.com/CodeCrafter47/BungeeTabListPlus)  
 `[12/08 16:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in <span title="Private Repo">`🔒ringo360/codes`</span>  
 `[12/08 10:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
-`[12/08 10:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒ringo360/codes`</span>  
 
 <details><summary>Show More</summary>
 
+`[12/08 10:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒ringo360/codes`</span>  
 `[12/08 08:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [ringo360/cdn](https://github.com/ringo360/cdn)  
 `[12/07 08:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [librespeed/speedtest](https://github.com/librespeed/speedtest)  
 `[12/07 03:28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#746`](https://github.com//CodeCrafter47/BungeeTabListPlus/issues/746 'Not working on 1.20.3 (NoSuchMethodError)') in [CodeCrafter47/BungeeTabListPlus](https://github.com/CodeCrafter47/BungeeTabListPlus)  
@@ -136,7 +137,7 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 `[10/31 15:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 `[10/30 15:29]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#5`](https://github.com//ringo360/Discord.js_Bot/issues/5 'setActivity is not working') in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 `[10/30 15:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [1-Rasky-1/IrrX-Assets](https://github.com/1-Rasky-1/IrrX-Assets)  
-`[10/30 13:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `28` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
+`[10/30 13:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `27` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 
 </details>
 <!--END_SECTION:activity-->
