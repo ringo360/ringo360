@@ -28,7 +28,7 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 
 # Activity <3
 <!--START_SECTION:activity-->
-`[12/15 14:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
+`[12/15 14:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 `[12/15 10:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Vencord/Vesktop](https://github.com/Vencord/Vesktop)  
 `[12/15 08:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jasonlaubb/Matrix-AntiCheat](https://github.com/jasonlaubb/Matrix-AntiCheat)  
 `[12/15 08:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [RaphiMC/ViaBedrock](https://github.com/RaphiMC/ViaBedrock)  
@@ -147,8 +147,6 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 `[10/31 15:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#5`](https://github.com//ringo360/Discord.js_Bot/issues/5 'setActivity is not working') in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 `[10/31 15:12]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#5`](https://github.com//ringo360/Discord.js_Bot/issues/5 'setActivity is not working') in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 `[10/31 15:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
-`[10/30 15:29]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#5`](https://github.com//ringo360/Discord.js_Bot/issues/5 'setActivity is not working') in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
-`[10/30 15:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [1-Rasky-1/IrrX-Assets](https://github.com/1-Rasky-1/IrrX-Assets)  
 
 </details>
 <!--END_SECTION:activity-->
