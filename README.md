@@ -28,7 +28,7 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 
 # Activity <3
 <!--START_SECTION:activity-->
-`[12/20 06:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/SlowLoris](https://github.com/ringo360/SlowLoris)  
+`[12/20 06:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/SlowLoris](https://github.com/ringo360/SlowLoris)  
 `[12/20 04:13]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [m1ntooo/SlowLoris](https://github.com/m1ntooo/SlowLoris) to [ringo360/SlowLoris](https://github.com/ringo360/SlowLoris)  
 `[12/20 02:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [m1ntooo/SlowLoris](https://github.com/m1ntooo/SlowLoris)  
 `[12/20 02:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [1-Rasky-1/PrismLauncher-Crack](https://github.com/1-Rasky-1/PrismLauncher-Crack)  
@@ -147,7 +147,7 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 `[11/02 07:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [VectorClient/PacketV3_For_Everyone](https://github.com/VectorClient/PacketV3_For_Everyone)  
 `[11/01 13:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 `[10/31 16:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [akanora/bhop-music-bot](https://github.com/akanora/bhop-music-bot)  
-`[10/31 16:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
+`[10/31 16:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 
 </details>
 <!--END_SECTION:activity-->
