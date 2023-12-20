@@ -28,6 +28,8 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[12/20 02:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [m1ntooo/SlowLoris](https://github.com/m1ntooo/SlowLoris)  
+`[12/20 02:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [1-Rasky-1/PrismLauncher-Crack](https://github.com/1-Rasky-1/PrismLauncher-Crack)  
 `[12/15 14:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 `[12/15 10:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Vencord/Vesktop](https://github.com/Vencord/Vesktop)  
 `[12/15 08:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jasonlaubb/Matrix-AntiCheat](https://github.com/jasonlaubb/Matrix-AntiCheat)  
@@ -36,11 +38,11 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 `[12/15 08:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tutinoko2048/TNAntiCheat](https://github.com/tutinoko2048/TNAntiCheat)  
 `[12/15 08:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SkriptLang/Skript](https://github.com/SkriptLang/Skript)  
 `[12/13 15:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
-`[12/13 11:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [qKing12/AuctionMaster](https://github.com/qKing12/AuctionMaster)  
-`[12/11 07:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Borion-Updated/Releases](https://github.com/Borion-Updated/Releases)  
 
 <details><summary>Show More</summary>
 
+`[12/13 11:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [qKing12/AuctionMaster](https://github.com/qKing12/AuctionMaster)  
+`[12/11 07:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Borion-Updated/Releases](https://github.com/Borion-Updated/Releases)  
 `[12/11 07:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Scythe-Anticheat/Scythe-AntiCheat](https://github.com/Scythe-Anticheat/Scythe-AntiCheat)  
 `[12/10 15:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Google-Crawler/crawl](https://github.com/Google-Crawler/crawl)  
 `[12/10 13:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
@@ -146,7 +148,7 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 `[10/31 16:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 `[10/31 15:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#5`](https://github.com//ringo360/Discord.js_Bot/issues/5 'setActivity is not working') in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 `[10/31 15:12]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#5`](https://github.com//ringo360/Discord.js_Bot/issues/5 'setActivity is not working') in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
-`[10/31 15:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
+`[10/31 15:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 
 </details>
 <!--END_SECTION:activity-->
