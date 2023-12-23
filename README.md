@@ -12,8 +12,8 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 ## Stats <3
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ringo360&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ringo360&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ringo360&layout=compact&count_private=true&show_icons=true&theme=tokyonight&custom_title=Used%20Languages!" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ringo360&count_private=true&show_icons=true&show_icons=true&theme=tokyonight&custom_title=My%20stats%20<3" />
 </p>
 
 ![Info](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ringo360&theme=tokyonight)
