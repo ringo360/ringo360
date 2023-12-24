@@ -28,7 +28,7 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 
 # Activity <3
 <!--START_SECTION:activity-->
-`[12/24 08:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in <span title="Private Repo">`🔒ringo360/WebhookSpammer`</span>  
+`[12/24 09:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in <span title="Private Repo">`🔒ringo360/WebhookSpammer`</span>  
 `[12/24 07:37]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/WebhookSpammer`</span>  
 `[12/24 07:37]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/WebhookSpammer`</span>  
 `[12/24 06:41]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/Spammer`</span>  
@@ -166,7 +166,7 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 `[11/06 10:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [darkerego/pyloris](https://github.com/darkerego/pyloris)  
 `[11/06 09:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 `[11/06 01:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Faokun1/aaa](https://github.com/Faokun1/aaa)  
-`[11/05 14:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
+`[11/05 14:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 
 </details>
 <!--END_SECTION:activity-->
