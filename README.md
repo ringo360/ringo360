@@ -28,6 +28,7 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[12/27 10:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/Spammer.js`</span>  
 `[12/27 09:11]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/Spammer.js`</span>  
 `[12/27 09:10]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/Spammer.js`</span>  
 `[12/27 08:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
@@ -37,10 +38,10 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 `[12/26 04:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EdamAme-x/r18-image-webhook-bot](https://github.com/EdamAme-x/r18-image-webhook-bot)  
 `[12/25 13:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [ringo360/CDN-Uploader](https://github.com/ringo360/CDN-Uploader)  
 `[12/25 12:20]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/CDN-Uploader/tree/main) in [ringo360/CDN-Uploader](https://github.com/ringo360/CDN-Uploader)  
-`[12/25 12:20]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/CDN-Uploader](https://github.com/ringo360/CDN-Uploader)  
 
 <details><summary>Show More</summary>
 
+`[12/25 12:20]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/CDN-Uploader](https://github.com/ringo360/CDN-Uploader)  
 `[12/24 11:45]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/Learn_Java/tree/main) in [ringo360/Learn_Java](https://github.com/ringo360/Learn_Java)  
 `[12/24 11:45]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/Learn_Java](https://github.com/ringo360/Learn_Java)  
 `[12/24 09:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in <span title="Private Repo">`🔒ringo360/WebhookSpammer`</span>  
@@ -164,7 +165,7 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 `[11/12 09:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Androz2091/discord-backup](https://github.com/Androz2091/discord-backup)  
 `[11/12 02:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/ringo360.github.io](https://github.com/ringo360/ringo360.github.io)  
 `[11/11 02:50]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#7`](https://github.com//faketunaPrivateCamp/SkriptWebAPI/issues/7 'purpur 1.17.1で起動に失敗する(Unsupported API version 1.19)') in [faketunaPrivateCamp/SkriptWebAPI](https://github.com/faketunaPrivateCamp/SkriptWebAPI)  
-`[11/10 13:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
+`[11/10 13:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `17` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 
 </details>
 <!--END_SECTION:activity-->
