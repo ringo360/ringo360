@@ -28,13 +28,10 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 
 # Activity <3
 <!--START_SECTION:activity-->
-`[12/28 16:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in <span title="Private Repo">`🔒ringo360/Spammer.js`</span>  
+
 `[12/28 04:59]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [ethan-davies/InternalNotifications](https://github.com/ethan-davies/InternalNotifications) to [ringo360/InAppNotifications](https://github.com/ringo360/InAppNotifications)  
 `[12/28 04:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Syncxv/vc-message-logger-enhanced](https://github.com/Syncxv/vc-message-logger-enhanced)  
-`[12/27 13:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in <span title="Private Repo">`🔒ringo360/Spammer.js`</span>  
-`[12/27 12:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/Spammer.js`</span>  
-`[12/27 09:11]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/Spammer.js`</span>  
-`[12/27 09:10]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/Spammer.js`</span>  
+
 `[12/27 08:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 `[12/26 13:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [takejohn/SkCoAPI](https://github.com/takejohn/SkCoAPI)  
 `[12/26 12:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
@@ -48,11 +45,6 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 `[12/25 12:20]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/CDN-Uploader](https://github.com/ringo360/CDN-Uploader)  
 `[12/24 11:45]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/Learn_Java/tree/main) in [ringo360/Learn_Java](https://github.com/ringo360/Learn_Java)  
 `[12/24 11:45]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/Learn_Java](https://github.com/ringo360/Learn_Java)  
-`[12/24 09:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in <span title="Private Repo">`🔒ringo360/WebhookSpammer`</span>  
-`[12/24 07:37]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/WebhookSpammer`</span>  
-`[12/24 07:37]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/WebhookSpammer`</span>  
-`[12/24 06:41]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/Spammer`</span>  
-`[12/24 06:41]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/Spammer`</span>  
 `[12/23 12:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [virtkick/http-master](https://github.com/virtkick/http-master)  
 `[12/23 12:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vanten-s/Femboy-Guide](https://github.com/vanten-s/Femboy-Guide)  
 `[12/23 12:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/ringo360](https://github.com/ringo360/ringo360)  
