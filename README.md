@@ -28,7 +28,7 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 
 # Activity <3
 <!--START_SECTION:activity-->
-`[01/10 15:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `19` commits in [MCSV-Network/TestServ-Bot](https://github.com/MCSV-Network/TestServ-Bot)  
+`[01/10 15:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `21` commits in [MCSV-Network/TestServ-Bot](https://github.com/MCSV-Network/TestServ-Bot)  
 `[01/10 13:31]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒MCSV-Network/TestServ-Bot`</span>  
 `[01/10 13:31]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒MCSV-Network/TestServ-Bot`</span>  
 `[01/09 18:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bea4dev/Chiyogami](https://github.com/bea4dev/Chiyogami)  
@@ -171,8 +171,7 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 `[11/28 09:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)  
 `[11/28 09:11]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#9680`](https://github.com//is-a-dev/register/pull/9680 'BETA: Register ppy.is-a.dev') in [is-a-dev/register](https://github.com/is-a-dev/register)  
 `[11/28 09:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/register](https://github.com/ringo360/register)  
-`[11/27 14:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ringo360/MCBE-DiscordBridge`</span>  
-`[11/27 12:24]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7`](https://github.com//faketunaPrivateCamp/SkriptWebAPI/issues/7 'purpur 1.17.1で起動に失敗する(Unsupported API version 1.19)') in [faketunaPrivateCamp/SkriptWebAPI](https://github.com/faketunaPrivateCamp/SkriptWebAPI)  
+`[11/27 14:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/MCBE-DiscordBridge`</span>  
 
 </details>
 <!--END_SECTION:activity-->
