@@ -28,6 +28,8 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[01/10 13:31]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒MCSV-Network/TestServ-Bot`</span>  
+`[01/10 13:31]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒MCSV-Network/TestServ-Bot`</span>  
 `[01/09 18:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bea4dev/Chiyogami](https://github.com/bea4dev/Chiyogami)  
 `[01/09 09:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 `[01/07 13:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [discordtics/token-gen](https://github.com/discordtics/token-gen)  
@@ -36,11 +38,11 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 `[01/07 11:19]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [joinmisskey/api](https://github.com/joinmisskey/api) to [ringo360/misskeyhub](https://github.com/ringo360/misskeyhub)  
 `[01/07 10:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/Sekai.Explode-Misskey](https://github.com/ringo360/Sekai.Explode-Misskey)  
 `[01/07 07:13]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/Sekai.Explode-Misskey/tree/main) in [ringo360/Sekai.Explode-Misskey](https://github.com/ringo360/Sekai.Explode-Misskey)  
-`[01/07 07:13]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/Sekai.Explode-Misskey](https://github.com/ringo360/Sekai.Explode-Misskey)  
-`[01/06 15:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [ringo360/sekai](https://github.com/ringo360/sekai)  
 
 <details><summary>Show More</summary>
 
+`[01/07 07:13]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/Sekai.Explode-Misskey](https://github.com/ringo360/Sekai.Explode-Misskey)  
+`[01/06 15:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [ringo360/sekai](https://github.com/ringo360/sekai)  
 `[01/04 13:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 `[01/03 08:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒MCSV-Network/Verify`</span>  
 `[01/03 08:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒ringo360/VerifyPlus`</span>  
@@ -172,7 +174,7 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 `[11/27 12:24]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7`](https://github.com//faketunaPrivateCamp/SkriptWebAPI/issues/7 'purpur 1.17.1で起動に失敗する(Unsupported API version 1.19)') in [faketunaPrivateCamp/SkriptWebAPI](https://github.com/faketunaPrivateCamp/SkriptWebAPI)  
 `[11/26 16:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [IrrXClient-Dev/IrrX-Public](https://github.com/IrrXClient-Dev/IrrX-Public)  
 `[11/26 14:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
-`[11/26 06:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in <span title="Private Repo">`🔒ringo360/MCBE-DiscordBridge`</span>  
+`[11/26 06:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒ringo360/MCBE-DiscordBridge`</span>  
 
 </details>
 <!--END_SECTION:activity-->
