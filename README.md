@@ -28,6 +28,8 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[01/11 12:47]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/Skript-Example/tree/main) in [ringo360/Skript-Example](https://github.com/ringo360/Skript-Example)  
+`[01/11 12:47]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/Skript-Example](https://github.com/ringo360/Skript-Example)  
 `[01/10 15:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `21` commits in [MCSV-Network/TestServ-Bot](https://github.com/MCSV-Network/TestServ-Bot)  
 `[01/10 13:31]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒MCSV-Network/TestServ-Bot`</span>  
 `[01/10 13:31]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒MCSV-Network/TestServ-Bot`</span>  
@@ -36,11 +38,11 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 `[01/07 13:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [discordtics/token-gen](https://github.com/discordtics/token-gen)  
 `[01/07 11:26]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#44`](https://github.com//joinmisskey/api/pull/44 'Add misskey.pkkis.com') in [joinmisskey/api](https://github.com/joinmisskey/api)  
 `[01/07 11:24]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`add-host`](https://github.com/ringo360/misskeyhub/tree/add-host) in [ringo360/misskeyhub](https://github.com/ringo360/misskeyhub)  
-`[01/07 11:19]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [joinmisskey/api](https://github.com/joinmisskey/api) to [ringo360/misskeyhub](https://github.com/ringo360/misskeyhub)  
-`[01/07 10:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/Sekai.Explode-Misskey](https://github.com/ringo360/Sekai.Explode-Misskey)  
 
 <details><summary>Show More</summary>
 
+`[01/07 11:19]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [joinmisskey/api](https://github.com/joinmisskey/api) to [ringo360/misskeyhub](https://github.com/ringo360/misskeyhub)  
+`[01/07 10:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/Sekai.Explode-Misskey](https://github.com/ringo360/Sekai.Explode-Misskey)  
 `[01/07 07:13]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/Sekai.Explode-Misskey/tree/main) in [ringo360/Sekai.Explode-Misskey](https://github.com/ringo360/Sekai.Explode-Misskey)  
 `[01/07 07:13]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/Sekai.Explode-Misskey](https://github.com/ringo360/Sekai.Explode-Misskey)  
 `[01/06 15:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [ringo360/sekai](https://github.com/ringo360/sekai)  
@@ -171,7 +173,6 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 `[11/28 09:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)  
 `[11/28 09:11]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#9680`](https://github.com//is-a-dev/register/pull/9680 'BETA: Register ppy.is-a.dev') in [is-a-dev/register](https://github.com/is-a-dev/register)  
 `[11/28 09:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/register](https://github.com/ringo360/register)  
-`[11/27 14:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/MCBE-DiscordBridge`</span>  
 
 </details>
 <!--END_SECTION:activity-->
