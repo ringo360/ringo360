@@ -28,6 +28,7 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[01/19 16:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
 `[01/19 08:38]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/bdsx-proxy-protocol-supporter`</span>  
 `[01/19 08:38]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/bdsx-proxy-protocol-supporter`</span>  
 `[01/17 14:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Aspw-w/Manifest-Web](https://github.com/Aspw-w/Manifest-Web)  
@@ -37,10 +38,10 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 `[01/12 17:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [BitCrackers/AmongUsMenu](https://github.com/BitCrackers/AmongUsMenu)  
 `[01/12 09:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [discord/cloudflare-sample-app](https://github.com/discord/cloudflare-sample-app)  
 `[01/11 13:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/Skript-Example](https://github.com/ringo360/Skript-Example)  
-`[01/11 12:47]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/Skript-Example/tree/main) in [ringo360/Skript-Example](https://github.com/ringo360/Skript-Example)  
 
 <details><summary>Show More</summary>
 
+`[01/11 12:47]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/Skript-Example/tree/main) in [ringo360/Skript-Example](https://github.com/ringo360/Skript-Example)  
 `[01/11 12:47]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/Skript-Example](https://github.com/ringo360/Skript-Example)  
 `[01/10 15:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `21` commits in [MCSV-Network/TestServ-Bot](https://github.com/MCSV-Network/TestServ-Bot)  
 `[01/10 13:31]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒MCSV-Network/TestServ-Bot`</span>  
@@ -174,7 +175,7 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 `[12/02 17:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [ringo360/cdn](https://github.com/ringo360/cdn)  
 `[12/02 15:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Chuzume/Chuzume-s-Items](https://github.com/Chuzume/Chuzume-s-Items)  
 `[12/02 14:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [MCSV-Network/Core](https://github.com/MCSV-Network/Core)  
-`[12/02 06:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [ringo360/ringo360](https://github.com/ringo360/ringo360)  
+`[12/02 06:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/ringo360](https://github.com/ringo360/ringo360)  
 
 </details>
 <!--END_SECTION:activity-->
