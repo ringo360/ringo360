@@ -174,7 +174,7 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 `[12/02 17:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [ringo360/cdn](https://github.com/ringo360/cdn)  
 `[12/02 15:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Chuzume/Chuzume-s-Items](https://github.com/Chuzume/Chuzume-s-Items)  
 `[12/02 14:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [MCSV-Network/Core](https://github.com/MCSV-Network/Core)  
-`[12/02 06:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [ringo360/ringo360](https://github.com/ringo360/ringo360)  
+`[12/02 06:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [ringo360/ringo360](https://github.com/ringo360/ringo360)  
 
 </details>
 <!--END_SECTION:activity-->
