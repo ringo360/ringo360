@@ -28,7 +28,7 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 
 # Activity <3
 <!--START_SECTION:activity-->
-`[01/20 03:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
+`[01/20 03:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
 `[01/19 08:38]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/bdsx-proxy-protocol-supporter`</span>  
 `[01/19 08:38]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/bdsx-proxy-protocol-supporter`</span>  
 `[01/17 14:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Aspw-w/Manifest-Web](https://github.com/Aspw-w/Manifest-Web)  
@@ -174,7 +174,6 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 `[12/03 04:12]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#2`](https://github.com//ringo360/cdn/pull/2 'はいどうもみなさんこんにちはかいるんるんです') in [ringo360/cdn](https://github.com/ringo360/cdn)  
 `[12/02 17:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [ringo360/cdn](https://github.com/ringo360/cdn)  
 `[12/02 15:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Chuzume/Chuzume-s-Items](https://github.com/Chuzume/Chuzume-s-Items)  
-`[12/02 14:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [MCSV-Network/Core](https://github.com/MCSV-Network/Core)  
 
 </details>
 <!--END_SECTION:activity-->
