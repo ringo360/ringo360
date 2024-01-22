@@ -28,6 +28,7 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[01/22 06:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SinonomeNetwork/ChatChanBeta](https://github.com/SinonomeNetwork/ChatChanBeta)  
 `[01/21 04:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [ringo360/ping-watcher](https://github.com/ringo360/ping-watcher)  
 `[01/21 02:28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/ping-watcher/tree/main) in [ringo360/ping-watcher](https://github.com/ringo360/ping-watcher)  
 `[01/21 02:28]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/ping-watcher](https://github.com/ringo360/ping-watcher)  
@@ -37,10 +38,10 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 `[01/20 14:28]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#1`](https://github.com//SinonomeNetwork/ChatChanBeta/pull/1 'updateコマンドの追加とpackage.jsonの調整') in [SinonomeNetwork/ChatChanBeta](https://github.com/SinonomeNetwork/ChatChanBeta)  
 `[01/20 14:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/ChatChanBeta](https://github.com/ringo360/ChatChanBeta)  
 `[01/20 14:22]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`uwu`](https://github.com/ringo360/ChatChanBeta/tree/uwu) in [ringo360/ChatChanBeta](https://github.com/ringo360/ChatChanBeta)  
-`[01/20 14:20]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [SinonomeNetwork/ChatChanBeta](https://github.com/SinonomeNetwork/ChatChanBeta) to [ringo360/ChatChanBeta](https://github.com/ringo360/ChatChanBeta)  
 
 <details><summary>Show More</summary>
 
+`[01/20 14:20]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [SinonomeNetwork/ChatChanBeta](https://github.com/SinonomeNetwork/ChatChanBeta) to [ringo360/ChatChanBeta](https://github.com/ringo360/ChatChanBeta)  
 `[01/20 13:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
 `[01/20 07:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in <span title="Private Repo">`🔒ringo360/MCBE-DiscordBridge`</span>  
 `[01/20 03:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
@@ -171,7 +172,6 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 `[12/05 05:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Lefraudeur/RiptermsGhost](https://github.com/Lefraudeur/RiptermsGhost)  
 `[12/04 09:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/cdn](https://github.com/ringo360/cdn)  
 `[12/04 09:14]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//ringo360/cdn/pull/3 'はいどうもみなさんこんにちはかいるんるんです') in [ringo360/cdn](https://github.com/ringo360/cdn)  
-`[12/04 09:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3`](https://github.com//ringo360/cdn/issues/3 'はいどうもみなさんこんにちはかいるんるんです') in [ringo360/cdn](https://github.com/ringo360/cdn)  
 
 </details>
 <!--END_SECTION:activity-->
