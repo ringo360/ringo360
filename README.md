@@ -28,7 +28,7 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 
 # Activity <3
 <!--START_SECTION:activity-->
-`[01/25 07:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
+`[01/25 08:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
 `[01/24 00:47]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//ringo360/ping-watcher/issues/1 'Webhookの送信カウントがリセットされない') in [ringo360/ping-watcher](https://github.com/ringo360/ping-watcher)  
 `[01/24 00:47]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1`](https://github.com//ringo360/ping-watcher/issues/1 'Webhookの送信カウントがリセットされない') in [ringo360/ping-watcher](https://github.com/ringo360/ping-watcher)  
 `[01/24 00:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/ping-watcher](https://github.com/ringo360/ping-watcher)  
@@ -166,10 +166,6 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 `[12/08 10:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒ringo360/codes`</span>  
 `[12/08 08:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [ringo360/cdn](https://github.com/ringo360/cdn)  
 `[12/07 08:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [librespeed/speedtest](https://github.com/librespeed/speedtest)  
-`[12/07 03:28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#746`](https://github.com//CodeCrafter47/BungeeTabListPlus/issues/746 'Not working on 1.20.3 (NoSuchMethodError)') in [CodeCrafter47/BungeeTabListPlus](https://github.com/CodeCrafter47/BungeeTabListPlus)  
-`[12/06 13:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [MCSV-Network/.github](https://github.com/MCSV-Network/.github)  
-`[12/06 13:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/ringo360](https://github.com/ringo360/ringo360)  
-`[12/06 13:05]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#746`](https://github.com//CodeCrafter47/BungeeTabListPlus/issues/746 'Not working on 1.20.3 (NoSuchMethodError)') in [CodeCrafter47/BungeeTabListPlus](https://github.com/CodeCrafter47/BungeeTabListPlus)  
 
 </details>
 <!--END_SECTION:activity-->
