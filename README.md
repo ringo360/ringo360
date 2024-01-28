@@ -28,7 +28,7 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 
 # Activity <3
 <!--START_SECTION:activity-->
-`[01/28 11:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/MCBE-DiscordBridge`</span>  
+`[01/28 12:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in <span title="Private Repo">`🔒ringo360/MCBE-DiscordBridge`</span>  
 `[01/28 07:16]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/ringo360/pages-with-astro/tree/master) in [ringo360/pages-with-astro](https://github.com/ringo360/pages-with-astro)  
 `[01/28 07:16]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/pages-with-astro](https://github.com/ringo360/pages-with-astro)  
 `[01/28 06:49]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/gomipage/tree/main) in [ringo360/gomipage](https://github.com/ringo360/gomipage)  
@@ -174,9 +174,6 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 `[12/09 11:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jhuckaby/performa](https://github.com/jhuckaby/performa)  
 `[12/09 11:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [netdata/netdata](https://github.com/netdata/netdata)  
 `[12/09 07:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/ringo360](https://github.com/ringo360/ringo360)  
-`[12/08 17:43]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#746`](https://github.com//CodeCrafter47/BungeeTabListPlus/issues/746 'Not working on 1.20.3 (NoSuchMethodError)') in [CodeCrafter47/BungeeTabListPlus](https://github.com/CodeCrafter47/BungeeTabListPlus)  
-`[12/08 17:43]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#746`](https://github.com//CodeCrafter47/BungeeTabListPlus/issues/746 'Not working on 1.20.3 (NoSuchMethodError)') in [CodeCrafter47/BungeeTabListPlus](https://github.com/CodeCrafter47/BungeeTabListPlus)  
-`[12/08 16:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ringo360/codes`</span>  
 
 </details>
 <!--END_SECTION:activity-->
