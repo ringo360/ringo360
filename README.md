@@ -28,6 +28,7 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[01/29 09:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
 `[01/29 02:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Rmejia39/DiscordAccountTokenGenerator](https://github.com/Rmejia39/DiscordAccountTokenGenerator)  
 `[01/29 02:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Aspw-w/Existent-Reborn](https://github.com/Aspw-w/Existent-Reborn)  
 `[01/29 02:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [silvanohirtie/Discord-Token-Generator](https://github.com/silvanohirtie/Discord-Token-Generator)  
@@ -37,10 +38,10 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 `[01/28 06:49]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/gomipage/tree/main) in [ringo360/gomipage](https://github.com/ringo360/gomipage)  
 `[01/28 06:49]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/gomipage](https://github.com/ringo360/gomipage)  
 `[01/28 05:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
-`[01/27 10:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ringo360/MCBE-DiscordBridge`</span>  
 
 <details><summary>Show More</summary>
 
+`[01/27 10:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ringo360/MCBE-DiscordBridge`</span>  
 `[01/27 09:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
 `[01/27 09:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/ping-watcher](https://github.com/ringo360/ping-watcher)  
 `[01/27 09:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ringo360/MCBE-DiscordBridge`</span>  
@@ -173,7 +174,7 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 `[12/10 15:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [Google-Crawler/crawl](https://github.com/Google-Crawler/crawl)  
 `[12/10 13:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 `[12/10 08:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/ringo360](https://github.com/ringo360/ringo360)  
-`[12/10 03:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒MCSV-Network/Verify`</span>  
+`[12/10 03:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒MCSV-Network/Verify`</span>  
 
 </details>
 <!--END_SECTION:activity-->
