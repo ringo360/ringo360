@@ -173,7 +173,6 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 `[12/10 03:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in <span title="Private Repo">`🔒MCSV-Network/Verify`</span>  
 `[12/09 11:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jhuckaby/performa](https://github.com/jhuckaby/performa)  
 `[12/09 11:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [netdata/netdata](https://github.com/netdata/netdata)  
-`[12/09 07:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/ringo360](https://github.com/ringo360/ringo360)  
 
 </details>
 <!--END_SECTION:activity-->
