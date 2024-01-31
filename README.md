@@ -30,7 +30,7 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 
 # Activity <3
 <!--START_SECTION:activity-->
-`[01/31 13:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
+`[01/31 14:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
 `[01/31 11:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/ringo360](https://github.com/ringo360/ringo360)  
 `[01/31 11:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Alizq/Imgs](https://github.com/Alizq/Imgs)  
 `[01/31 11:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EdamAme-x/IP-spoofing-js](https://github.com/EdamAme-x/IP-spoofing-js)  
@@ -173,7 +173,6 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[12/15 14:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 `[12/15 10:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Vencord/Vesktop](https://github.com/Vencord/Vesktop)  
 `[12/15 08:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jasonlaubb/Matrix-AntiCheat](https://github.com/jasonlaubb/Matrix-AntiCheat)  
-`[12/15 08:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [RaphiMC/ViaBedrock](https://github.com/RaphiMC/ViaBedrock)  
 
 </details>
 <!--END_SECTION:activity-->
