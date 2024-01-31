@@ -5,9 +5,11 @@
 
 どこにでも居る、Node.js好きな学生です。
 
-discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を追加してみたり...
+discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加したり...
 
 やりたいことをとにかくやってます。
+
+> マイクラ鯖も一時期運営していましたが、現在は引退しています。
 
 ## Stats <3
 
@@ -177,27 +179,10 @@ discord.jsを触ってみたり、マイクラ鯖用にSkriptで独自要素を�
 </details>
 <!--END_SECTION:activity-->
 
-
-## Minecraft Server
-
-MCSV-JE&BEという名前でマイクラ鯖を運営しています。
-
-興味がある人は見てってね
-
-* JMS: https://minecraft.jp/servers/play.mcsv.life
-
-* ものくらふと: https://monocraft.net/servers/naUZviTjsHJLerGLgCn1/vote
-
-* ~~MCServers.JP: https://mcservers.jp/server/details/338~~ RIP :sob:
-
-* Github: https://github.com/MCSV-Network
-
-* Discord: https://mcsv.life/discord/
-
 ***
 
 > ### LINKS
-> [About me more!](https://ringoxd.pages.dev) / [Discord](https://mcsv.life/discord/) / [YouTube](https://www.youtube.com/@ringo360xd)<br>
+> [About me more!](https://ringoxd.dev/) / [Discord](https://ringoxd.dev/discord/) / [YouTube](https://www.youtube.com/@ringo360xd)<br>
 > Copyright 2022-2023 ringoXD.
 
 <p align="center"><img src="https://profile-counter.glitch.me/ringo360/count.svg" /></p>
