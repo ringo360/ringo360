@@ -31,21 +31,18 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 # Activity <3
 <!--START_SECTION:activity-->
 `[02/01 07:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
-`[02/01 04:43]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//m1ntooo/DiscordBOT/issues/1 'あなたライセンス明記しなさい') in [m1ntooo/DiscordBOT](https://github.com/m1ntooo/DiscordBOT)  
-`[02/01 04:38]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//m1ntooo/DiscordBOT/issues/1 'あなたライセンス明記しなさい') in [m1ntooo/DiscordBOT](https://github.com/m1ntooo/DiscordBOT)  
 `[02/01 04:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Alizq/CustomGui-Text](https://github.com/Alizq/CustomGui-Text)  
-`[02/01 04:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [m1ntooo/DiscordBOT](https://github.com/m1ntooo/DiscordBOT)  
 `[01/31 14:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
 `[01/31 11:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/ringo360](https://github.com/ringo360/ringo360)  
 `[01/31 11:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Alizq/Imgs](https://github.com/Alizq/Imgs)  
 `[01/31 11:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EdamAme-x/IP-spoofing-js](https://github.com/EdamAme-x/IP-spoofing-js)  
 `[01/30 14:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
-
-<details><summary>Show More</summary>
-
 `[01/30 09:29]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/bdsx-proxy-checker/tree/main) in [ringo360/bdsx-proxy-checker](https://github.com/ringo360/bdsx-proxy-checker)  
 `[01/30 09:29]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/bdsx-proxy-checker](https://github.com/ringo360/bdsx-proxy-checker)  
 `[01/29 13:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
+
+<details><summary>Show More</summary>
+
 `[01/29 09:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
 `[01/29 02:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Rmejia39/DiscordAccountTokenGenerator](https://github.com/Rmejia39/DiscordAccountTokenGenerator)  
 `[01/29 02:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Aspw-w/Existent-Reborn](https://github.com/Aspw-w/Existent-Reborn)  
