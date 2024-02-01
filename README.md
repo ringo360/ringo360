@@ -182,6 +182,6 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 
 > ### LINKS
 > [About me more!](https://ringoxd.dev/) / [Discord](https://ringoxd.dev/discord/) / [YouTube](https://www.youtube.com/@ringo360xd)<br>
-> Copyright 2022-2023 ringoXD.
+> Copyright 2022-2024 ringoXD.
 
 <p align="center"><img src="https://profile-counter.glitch.me/ringo360/count.svg" /></p>
