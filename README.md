@@ -30,6 +30,7 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[02/02 08:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
 `[02/01 13:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/WebhookSpammer`</span>  
 `[02/01 09:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/ringo360](https://github.com/ringo360/ringo360)  
 `[02/01 09:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/bdsx-proxy-checker](https://github.com/ringo360/bdsx-proxy-checker)  
@@ -39,10 +40,10 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[01/31 11:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/ringo360](https://github.com/ringo360/ringo360)  
 `[01/31 11:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Alizq/Imgs](https://github.com/Alizq/Imgs)  
 `[01/31 11:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EdamAme-x/IP-spoofing-js](https://github.com/EdamAme-x/IP-spoofing-js)  
-`[01/30 14:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
 
 <details><summary>Show More</summary>
 
+`[01/30 14:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
 `[01/30 09:29]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/bdsx-proxy-checker/tree/main) in [ringo360/bdsx-proxy-checker](https://github.com/ringo360/bdsx-proxy-checker)  
 `[01/30 09:29]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/bdsx-proxy-checker](https://github.com/ringo360/bdsx-proxy-checker)  
 `[01/29 13:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
@@ -173,7 +174,6 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[12/20 10:28]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/deno-chan](https://github.com/ringo360/deno-chan)  
 `[12/20 06:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/SlowLoris](https://github.com/ringo360/SlowLoris)  
 `[12/20 04:13]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [m1ntooo/SlowLoris](https://github.com/m1ntooo/SlowLoris) to [ringo360/SlowLoris](https://github.com/ringo360/SlowLoris)  
-`[12/20 02:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [m1ntooo/SlowLoris](https://github.com/m1ntooo/SlowLoris)  
 
 </details>
 <!--END_SECTION:activity-->
