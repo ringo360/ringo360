@@ -30,7 +30,7 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 
 # Activity <3
 <!--START_SECTION:activity-->
-`[02/03 16:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/only-oneline-dcbot](https://github.com/ringo360/only-oneline-dcbot)  
+`[02/03 16:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/only-oneline-dcbot](https://github.com/ringo360/only-oneline-dcbot)  
 `[02/03 16:12]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/only-oneline-dcbot/tree/main) in [ringo360/only-oneline-dcbot](https://github.com/ringo360/only-oneline-dcbot)  
 `[02/03 16:12]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/only-oneline-dcbot](https://github.com/ringo360/only-oneline-dcbot)  
 `[02/03 11:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [khsk/AviUtl-LocalFontPlugin](https://github.com/khsk/AviUtl-LocalFontPlugin)  
@@ -164,7 +164,6 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[12/24 11:45]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/Learn_Java/tree/main) in [ringo360/Learn_Java](https://github.com/ringo360/Learn_Java)  
 `[12/24 11:45]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/Learn_Java](https://github.com/ringo360/Learn_Java)  
 `[12/24 09:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in <span title="Private Repo">`🔒ringo360/WebhookSpammer`</span>  
-`[12/24 07:37]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/WebhookSpammer`</span>  
 
 </details>
 <!--END_SECTION:activity-->
