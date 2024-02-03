@@ -30,6 +30,8 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[02/03 01:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/MCBE-DiscordBridge`</span>  
+`[02/03 01:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
 `[02/03 00:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 `[02/03 00:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
 `[02/02 09:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [takejohn/KuriMenu](https://github.com/takejohn/KuriMenu)  
@@ -38,11 +40,11 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[02/01 09:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/ringo360](https://github.com/ringo360/ringo360)  
 `[02/01 09:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/bdsx-proxy-checker](https://github.com/ringo360/bdsx-proxy-checker)  
 `[02/01 09:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
-`[02/01 04:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Alizq/CustomGui-Text](https://github.com/Alizq/CustomGui-Text)  
-`[01/31 14:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
 
 <details><summary>Show More</summary>
 
+`[02/01 04:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Alizq/CustomGui-Text](https://github.com/Alizq/CustomGui-Text)  
+`[01/31 14:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
 `[01/31 11:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/ringo360](https://github.com/ringo360/ringo360)  
 `[01/31 11:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Alizq/Imgs](https://github.com/Alizq/Imgs)  
 `[01/31 11:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EdamAme-x/IP-spoofing-js](https://github.com/EdamAme-x/IP-spoofing-js)  
@@ -172,7 +174,6 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[12/22 07:28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7`](https://github.com//faketunaPrivateCamp/SkriptWebAPI/issues/7 'purpur 1.17.1で起動に失敗する(Unsupported API version 1.19)') in [faketunaPrivateCamp/SkriptWebAPI](https://github.com/faketunaPrivateCamp/SkriptWebAPI)  
 `[12/22 07:28]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#7`](https://github.com//faketunaPrivateCamp/SkriptWebAPI/issues/7 'purpur 1.17.1で起動に失敗する(Unsupported API version 1.19)') in [faketunaPrivateCamp/SkriptWebAPI](https://github.com/faketunaPrivateCamp/SkriptWebAPI)  
 `[12/21 10:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TheSpeedX/PROXY-List](https://github.com/TheSpeedX/PROXY-List)  
-`[12/20 12:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [ringo360/deno-chan](https://github.com/ringo360/deno-chan)  
 
 </details>
 <!--END_SECTION:activity-->
