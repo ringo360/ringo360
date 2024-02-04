@@ -16,7 +16,7 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 ## Stats <3
 
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ringo360&layout=compact&theme=dark)](https://wakatime.com/@ringo360)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ringo360&layout=compact&theme=tokyonight)](https://wakatime.com/@ringo360)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ringo360&layout=compact&count_private=true&show_icons=true&theme=tokyonight&custom_title=Used%20Languages!" />
