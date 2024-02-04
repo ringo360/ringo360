@@ -3,6 +3,8 @@
 <a href="https://ringoxd.pages.dev"><img src="https://avatars.githubusercontent.com/u/105296365" align="right"></a>
 -->
 
+[![wakatime](https://wakatime.com/badge/user/018d71ab-3f96-48fe-973b-2f7b3d50ecc9/project/018d71ad-ad94-4f1f-b284-b67eaeba29a1.svg)](https://wakatime.com/badge/user/018d71ab-3f96-48fe-973b-2f7b3d50ecc9/project/018d71ad-ad94-4f1f-b284-b67eaeba29a1)
+
 どこにでも居る、Node.js好きな学生です。
 
 discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加したり...
@@ -12,6 +14,9 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 > マイクラ鯖も一時期運営していましたが、現在は引退しています。
 
 ## Stats <3
+
+
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ringo360&layout=compact&theme=dark)](https://wakatime.com/@ringo360)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ringo360&layout=compact&count_private=true&show_icons=true&theme=tokyonight&custom_title=Used%20Languages!" />
