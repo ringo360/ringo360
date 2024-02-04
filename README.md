@@ -3,7 +3,7 @@
 <a href="https://ringoxd.pages.dev"><img src="https://avatars.githubusercontent.com/u/105296365" align="right"></a>
 -->
 
-[![wakatime](https://wakatime.com/badge/user/018d71ab-3f96-48fe-973b-2f7b3d50ecc9/project/018d71ad-ad94-4f1f-b284-b67eaeba29a1.svg)](https://wakatime.com/badge/user/018d71ab-3f96-48fe-973b-2f7b3d50ecc9/project/018d71ad-ad94-4f1f-b284-b67eaeba29a1)
+[![wakatime](https://wakatime.com/badge/user/018d71ab-3f96-48fe-973b-2f7b3d50ecc9.svg)](https://wakatime.com/@018d71ab-3f96-48fe-973b-2f7b3d50ecc9)
 
 どこにでも居る、Node.js好きな学生です。
 
