@@ -35,6 +35,7 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[02/05 09:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [R00tS3c/Layer7-MultiBypass](https://github.com/R00tS3c/Layer7-MultiBypass)  
 `[02/05 09:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zackiles/udp-flood](https://github.com/zackiles/udp-flood)  
 `[02/05 09:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [afshinm/flood.js](https://github.com/afshinm/flood.js)  
 `[02/05 08:07]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2`](https://github.com//SinonomeNetwork/ChatChanBeta/issues/2 'webサーバーの設置') in [SinonomeNetwork/ChatChanBeta](https://github.com/SinonomeNetwork/ChatChanBeta)  
@@ -44,10 +45,10 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[02/04 01:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [JSPrismarine/JSPrismarine](https://github.com/JSPrismarine/JSPrismarine)  
 `[02/03 16:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/only-oneline-dcbot](https://github.com/ringo360/only-oneline-dcbot)  
 `[02/03 16:12]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/only-oneline-dcbot/tree/main) in [ringo360/only-oneline-dcbot](https://github.com/ringo360/only-oneline-dcbot)  
-`[02/03 16:12]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/only-oneline-dcbot](https://github.com/ringo360/only-oneline-dcbot)  
 
 <details><summary>Show More</summary>
 
+`[02/03 16:12]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/only-oneline-dcbot](https://github.com/ringo360/only-oneline-dcbot)  
 `[02/03 11:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [khsk/AviUtl-LocalFontPlugin](https://github.com/khsk/AviUtl-LocalFontPlugin)  
 `[02/03 08:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/MCBE-DiscordBridge`</span>  
 `[02/03 07:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
@@ -169,7 +170,6 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[12/26 13:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [takejohn/SkCoAPI](https://github.com/takejohn/SkCoAPI)  
 `[12/26 12:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 `[12/26 04:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/CDN-Uploader](https://github.com/ringo360/CDN-Uploader)  
-`[12/26 04:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EdamAme-x/r18-image-webhook-bot](https://github.com/EdamAme-x/r18-image-webhook-bot)  
 
 </details>
 <!--END_SECTION:activity-->
