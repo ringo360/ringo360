@@ -16,6 +16,8 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 ## Stats <3
 
 
+> I started to use wakatime since 2024/02/04 <3
+
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ringo360&layout=compact&theme=tokyonight)](https://wakatime.com/@ringo360)
 
 <p align="left"> 
