@@ -37,6 +37,7 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[02/07 08:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
 `[02/07 05:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EdamAme-x/misskey-nuke](https://github.com/EdamAme-x/misskey-nuke)  
 `[02/07 04:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 `[02/07 04:20]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7`](https://github.com//ringo360/Discord.js_Bot/issues/7 '設定可能項目の追加') in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
@@ -46,10 +47,10 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[02/06 09:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 `[02/06 09:25]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `merge` from [SinonomeNetwork/ChatChanBeta](https://github.com/SinonomeNetwork/ChatChanBeta)  
 `[02/06 09:24]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2`](https://github.com//SinonomeNetwork/ChatChanBeta/issues/2 'webサーバーの設置') in [SinonomeNetwork/ChatChanBeta](https://github.com/SinonomeNetwork/ChatChanBeta)  
-`[02/06 09:24]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2`](https://github.com//SinonomeNetwork/ChatChanBeta/issues/2 'webサーバーの設置') in [SinonomeNetwork/ChatChanBeta](https://github.com/SinonomeNetwork/ChatChanBeta)  
 
 <details><summary>Show More</summary>
 
+`[02/06 09:24]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2`](https://github.com//SinonomeNetwork/ChatChanBeta/issues/2 'webサーバーの設置') in [SinonomeNetwork/ChatChanBeta](https://github.com/SinonomeNetwork/ChatChanBeta)  
 `[02/06 09:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [SinonomeNetwork/ChatChanBeta](https://github.com/SinonomeNetwork/ChatChanBeta)  
 `[02/06 09:23]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#3`](https://github.com//SinonomeNetwork/ChatChanBeta/pull/3 'Add WebServer to check status') in [SinonomeNetwork/ChatChanBeta](https://github.com/SinonomeNetwork/ChatChanBeta)  
 `[02/06 09:23]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#3`](https://github.com//SinonomeNetwork/ChatChanBeta/pull/3 'Add WebServer to check status') in [SinonomeNetwork/ChatChanBeta](https://github.com/SinonomeNetwork/ChatChanBeta)  
@@ -185,7 +186,7 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[12/28 16:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in <span title="Private Repo">`🔒ringo360/Spammer.js`</span>  
 `[12/28 04:59]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [ethan-davies/InternalNotifications](https://github.com/ethan-davies/InternalNotifications) to [ringo360/InAppNotifications](https://github.com/ringo360/InAppNotifications)  
 `[12/28 04:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Syncxv/vc-message-logger-enhanced](https://github.com/Syncxv/vc-message-logger-enhanced)  
-`[12/27 13:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in <span title="Private Repo">`🔒ringo360/Spammer.js`</span>  
+`[12/27 13:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/Spammer.js`</span>  
 
 </details>
 <!--END_SECTION:activity-->
