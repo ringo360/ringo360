@@ -37,19 +37,25 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[02/16 00:05]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#19`](https://github.com//TeamSekai/Sekai.Explode/issues/19 'DiscordAPIError[50035]: Invalid Form Body') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
+`[02/16 00:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
+`[02/15 23:59]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#19`](https://github.com//TeamSekai/Sekai.Explode/issues/19 'DiscordAPIError[50035]: Invalid Form Body') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
+`[02/15 23:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
+`[02/15 23:53]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#18`](https://github.com//TeamSekai/Sekai.Explode/pull/18 'サーバーで音楽の音量のデフォルト値を設定できるように変更') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
+`[02/15 23:53]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#18`](https://github.com//TeamSekai/Sekai.Explode/pull/18 'サーバーで音楽の音量のデフォルト値を設定できるように変更') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[02/15 14:50]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#17`](https://github.com//TeamSekai/Sekai.Explode/issues/17 'にゃんぱすーカウントの取得') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[02/14 14:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [BuildTheSekai/.github](https://github.com/BuildTheSekai/.github)  
 `[02/14 14:19]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/BuildTheSekai/.github/tree/main) in [BuildTheSekai/.github](https://github.com/BuildTheSekai/.github)  
 `[02/14 14:19]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [BuildTheSekai/.github](https://github.com/BuildTheSekai/.github)  
+
+<details><summary>Show More</summary>
+
 `[02/14 14:18]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/BuildTheSekai/Sekai.Explode/tree/main) in [BuildTheSekai/Sekai.Explode](https://github.com/BuildTheSekai/Sekai.Explode)  
 `[02/14 14:18]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [BuildTheSekai/Sekai.Explode](https://github.com/BuildTheSekai/Sekai.Explode)  
 `[02/13 14:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/cdn](https://github.com/ringo360/cdn)  
 `[02/13 09:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `29` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 `[02/13 08:16]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#16`](https://github.com//ringo360/Discord.js_Bot/pull/16 'i18n') in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 `[02/13 08:16]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#16`](https://github.com//ringo360/Discord.js_Bot/issues/16 'i18n') in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
-
-<details><summary>Show More</summary>
-
 `[02/13 08:13]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#16`](https://github.com//ringo360/Discord.js_Bot/pull/16 'i18n') in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 `[02/13 08:11]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#16`](https://github.com//ringo360/Discord.js_Bot/pull/16 'i18n') in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 `[02/13 08:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [takejohn/Discord.js_Bot](https://github.com/takejohn/Discord.js_Bot)  
@@ -212,11 +218,6 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[01/11 12:47]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/Skript-Example](https://github.com/ringo360/Skript-Example)  
 `[01/10 15:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `21` commits in [MCSV-Network/TestServ-Bot](https://github.com/MCSV-Network/TestServ-Bot)  
 `[01/10 13:31]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒MCSV-Network/TestServ-Bot`</span>  
-`[01/10 13:31]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒MCSV-Network/TestServ-Bot`</span>  
-`[01/09 18:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bea4dev/Chiyogami](https://github.com/bea4dev/Chiyogami)  
-`[01/09 09:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
-`[01/07 13:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [discordtics/token-gen](https://github.com/discordtics/token-gen)  
-`[01/07 11:24]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`add-host`](https://github.com/ringo360/misskeyhub/tree/add-host) in [ringo360/misskeyhub](https://github.com/ringo360/misskeyhub)  
 
 </details>
 <!--END_SECTION:activity-->
