@@ -226,7 +226,6 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[01/14 11:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [thehappydinoa/iOSRestrictionBruteForce](https://github.com/thehappydinoa/iOSRestrictionBruteForce)  
 `[01/13 12:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [replydev/Quboscanner](https://github.com/replydev/Quboscanner)  
 `[01/12 17:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [BitCrackers/AmongUsMenu](https://github.com/BitCrackers/AmongUsMenu)  
-`[01/12 09:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [discord/cloudflare-sample-app](https://github.com/discord/cloudflare-sample-app)  
 
 </details>
 <!--END_SECTION:activity-->
