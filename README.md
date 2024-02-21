@@ -37,6 +37,7 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[02/21 08:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Yanliya/Discord-nitro-gen](https://github.com/Yanliya/Discord-nitro-gen)  
 `[02/21 08:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mttaggart/I-S00N](https://github.com/mttaggart/I-S00N)  
 `[02/21 08:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [I-S00N/I-S00N](https://github.com/I-S00N/I-S00N)  
 `[02/21 08:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [google/magika](https://github.com/google/magika)  
@@ -46,10 +47,10 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[02/21 07:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [TeamSekai/TempLinkSrv](https://github.com/TeamSekai/TempLinkSrv)  
 `[02/21 07:04]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#1`](https://github.com//TeamSekai/TempLinkSrv/pull/1 'closeメソッドでclosedフラグが立たなかった問題を修正') in [TeamSekai/TempLinkSrv](https://github.com/TeamSekai/TempLinkSrv)  
 `[02/21 07:04]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#1`](https://github.com//TeamSekai/TempLinkSrv/pull/1 'closeメソッドでclosedフラグが立たなかった問題を修正') in [TeamSekai/TempLinkSrv](https://github.com/TeamSekai/TempLinkSrv)  
-`[02/20 15:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TeamSekai/TempLinkSrv](https://github.com/TeamSekai/TempLinkSrv)  
 
 <details><summary>Show More</summary>
 
+`[02/20 15:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TeamSekai/TempLinkSrv](https://github.com/TeamSekai/TempLinkSrv)  
 `[02/20 11:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒ringo360/yamatomc`</span>  
 `[02/19 14:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/privatebot`</span>  
 `[02/19 13:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/yamatomc`</span>  
@@ -236,7 +237,7 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[01/20 14:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/ChatChanBeta](https://github.com/ringo360/ChatChanBeta)  
 `[01/20 14:22]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`uwu`](https://github.com/ringo360/ChatChanBeta/tree/uwu) in [ringo360/ChatChanBeta](https://github.com/ringo360/ChatChanBeta)  
 `[01/20 14:20]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [SinonomeNetwork/ChatChanBeta](https://github.com/SinonomeNetwork/ChatChanBeta) to [ringo360/ChatChanBeta](https://github.com/ringo360/ChatChanBeta)  
-`[01/20 13:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
+`[01/20 13:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
 
 </details>
 <!--END_SECTION:activity-->
