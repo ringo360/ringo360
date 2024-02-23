@@ -37,6 +37,9 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[02/23 15:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
+`[02/23 15:49]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#27`](https://github.com//TeamSekai/Sekai.Explode/pull/27 'dev03も結果を7回問い合わせるように') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
+`[02/23 15:49]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#27`](https://github.com//TeamSekai/Sekai.Explode/pull/27 'dev03も結果を7回問い合わせるように') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[02/23 15:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [SinonomeNetwork/ChatChanBeta](https://github.com/SinonomeNetwork/ChatChanBeta)  
 `[02/23 14:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[02/23 14:22]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#26`](https://github.com//TeamSekai/Sekai.Explode/pull/26 'devをstableにまーじ') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
@@ -44,12 +47,12 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[02/23 14:19]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#24`](https://github.com//TeamSekai/Sekai.Explode/issues/24 '/checkpingと/dev03が使えない') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[02/23 14:19]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#24`](https://github.com//TeamSekai/Sekai.Explode/issues/24 '/checkpingと/dev03が使えない') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[02/23 14:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[02/23 14:18]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#25`](https://github.com//TeamSekai/Sekai.Explode/pull/25 '/checkping, /dev03が使えない問題を修正 (#24)') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[02/23 14:18]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#25`](https://github.com//TeamSekai/Sekai.Explode/pull/25 '/checkping, /dev03が使えない問題を修正 (#24)') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[02/23 10:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rtm516/MCXboxBroadcast](https://github.com/rtm516/MCXboxBroadcast)  
 
 <details><summary>Show More</summary>
 
+`[02/23 14:18]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#25`](https://github.com//TeamSekai/Sekai.Explode/pull/25 '/checkping, /dev03が使えない問題を修正 (#24)') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
+`[02/23 14:18]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#25`](https://github.com//TeamSekai/Sekai.Explode/pull/25 '/checkping, /dev03が使えない問題を修正 (#24)') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
+`[02/23 10:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rtm516/MCXboxBroadcast](https://github.com/rtm516/MCXboxBroadcast)  
 `[02/23 09:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Pugmatt/BedrockConnect](https://github.com/Pugmatt/BedrockConnect)  
 `[02/23 07:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [ringo360/TestServer](https://github.com/ringo360/TestServer)  
 `[02/23 02:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `24` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
@@ -231,9 +234,7 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[01/31 11:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/ringo360](https://github.com/ringo360/ringo360)  
 `[01/31 11:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Alizq/Imgs](https://github.com/Alizq/Imgs)  
 `[01/31 11:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EdamAme-x/IP-spoofing-js](https://github.com/EdamAme-x/IP-spoofing-js)  
-`[01/30 14:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
-`[01/30 09:29]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/bdsx-proxy-checker/tree/main) in [ringo360/bdsx-proxy-checker](https://github.com/ringo360/bdsx-proxy-checker)  
-`[01/30 09:29]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/bdsx-proxy-checker](https://github.com/ringo360/bdsx-proxy-checker)  
+`[01/30 14:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
 
 </details>
 <!--END_SECTION:activity-->
