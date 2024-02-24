@@ -37,6 +37,7 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[02/24 11:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[02/24 11:33]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#29`](https://github.com//TeamSekai/Sekai.Explode/pull/29 '再起動時に音楽再生を再開') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[02/24 11:32]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#29`](https://github.com//TeamSekai/Sekai.Explode/pull/29 '再起動時に音楽再生を再開') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[02/24 09:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
@@ -46,10 +47,10 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[02/24 08:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [darcros/node-minecraft-proxy](https://github.com/darcros/node-minecraft-proxy)  
 `[02/24 05:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Bad-Discord/Atomic](https://github.com/Bad-Discord/Atomic)  
 `[02/24 05:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/TestServer](https://github.com/ringo360/TestServer)  
-`[02/24 03:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bedrock-tool/bedrocktool](https://github.com/bedrock-tool/bedrocktool)  
 
 <details><summary>Show More</summary>
 
+`[02/24 03:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bedrock-tool/bedrocktool](https://github.com/bedrock-tool/bedrocktool)  
 `[02/23 15:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[02/23 15:49]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#27`](https://github.com//TeamSekai/Sekai.Explode/pull/27 'dev03も結果を7回問い合わせるように') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[02/23 15:49]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#27`](https://github.com//TeamSekai/Sekai.Explode/pull/27 'dev03も結果を7回問い合わせるように') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
@@ -178,7 +179,6 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[02/09 08:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [ringo360/proxy-work-checker](https://github.com/ringo360/proxy-work-checker)  
 `[02/09 07:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/cdn](https://github.com/ringo360/cdn)  
 `[02/09 07:23]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#4`](https://github.com//ringo360/cdn/pull/4 'ﾃﾞｭｱﾃﾞｭｱ!括弧間違ってるﾃﾞｭｱ!!') in [ringo360/cdn](https://github.com/ringo360/cdn)  
-`[02/09 07:23]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#4`](https://github.com//ringo360/cdn/issues/4 'ﾃﾞｭｱﾃﾞｭｱ!括弧間違ってるﾃﾞｭｱ!!') in [ringo360/cdn](https://github.com/ringo360/cdn)  
 `[02/09 07:23]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#4`](https://github.com//ringo360/cdn/issues/4 'ﾃﾞｭｱﾃﾞｭｱ!括弧間違ってるﾃﾞｭｱ!!') in [ringo360/cdn](https://github.com/ringo360/cdn)  
 `[02/09 07:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 `[02/09 07:12]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#8`](https://github.com//ringo360/Discord.js_Bot/pull/8 'CDNアップロードメッセージ周りを改良') in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
