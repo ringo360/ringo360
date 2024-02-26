@@ -37,7 +37,7 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 
 # Activity <3
 <!--START_SECTION:activity-->
-`[02/26 15:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
+`[02/26 15:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[02/26 15:00]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `feature-recvupdatecmd` from [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[02/26 15:00]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#38`](https://github.com//TeamSekai/Sekai.Explode/pull/38 'add /follow_announcements') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[02/26 14:59]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#38`](https://github.com//TeamSekai/Sekai.Explode/pull/38 'add /follow_announcements') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
@@ -253,7 +253,6 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[02/06 09:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2`](https://github.com//SinonomeNetwork/ChatChanBeta/issues/2 'webサーバーの設置') in [SinonomeNetwork/ChatChanBeta](https://github.com/SinonomeNetwork/ChatChanBeta)  
 `[02/06 05:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/ringo360](https://github.com/ringo360/ringo360)  
 `[02/06 04:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Kamesuta/BungeePteroPower](https://github.com/Kamesuta/BungeePteroPower)  
-`[02/06 04:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [CloudburstMC/Protocol](https://github.com/CloudburstMC/Protocol)  
 
 </details>
 <!--END_SECTION:activity-->
