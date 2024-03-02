@@ -37,7 +37,7 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 
 # Activity <3
 <!--START_SECTION:activity-->
-`[03/02 08:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
+`[03/02 09:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `13` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/02 08:58]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#53`](https://github.com//TeamSekai/Sekai.Explode/pull/53 '自動整形ツール・リファクタリング') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/02 08:58]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#53`](https://github.com//TeamSekai/Sekai.Explode/pull/53 '自動整形ツール・リファクタリング') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/02 08:57]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#53`](https://github.com//TeamSekai/Sekai.Explode/pull/53 '自動整形ツール・リファクタリング') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
@@ -259,7 +259,6 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[02/13 02:24]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#15`](https://github.com//ringo360/Discord.js_Bot/issues/15 'Pollコマンドの作成') in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 `[02/13 02:20]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#15`](https://github.com//ringo360/Discord.js_Bot/issues/15 'Pollコマンドの作成') in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 `[02/13 02:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
-`[02/12 15:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 
 </details>
 <!--END_SECTION:activity-->
