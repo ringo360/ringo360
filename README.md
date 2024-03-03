@@ -37,6 +37,7 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[03/03 15:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hendrikbgr/discord-cloud-storage](https://github.com/hendrikbgr/discord-cloud-storage)  
 `[03/02 13:37]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#54`](https://github.com//TeamSekai/Sekai.Explode/issues/54 '日時の表示コマンド') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/02 13:36]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#54`](https://github.com//TeamSekai/Sekai.Explode/issues/54 '日時の表示コマンド') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/02 13:36]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#52`](https://github.com//TeamSekai/Sekai.Explode/issues/52 'check-hostを使用するコマンドの統一') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
@@ -46,10 +47,10 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[03/02 08:57]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#53`](https://github.com//TeamSekai/Sekai.Explode/pull/53 '自動整形ツール・リファクタリング') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/02 08:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/02 07:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [TeamSekai/Sekai-Webpage](https://github.com/TeamSekai/Sekai-Webpage)  
-`[03/02 05:45]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/TeamSekai/Sekai-Webpage/tree/master) in [TeamSekai/Sekai-Webpage](https://github.com/TeamSekai/Sekai-Webpage)  
 
 <details><summary>Show More</summary>
 
+`[03/02 05:45]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/TeamSekai/Sekai-Webpage/tree/master) in [TeamSekai/Sekai-Webpage](https://github.com/TeamSekai/Sekai-Webpage)  
 `[03/02 05:44]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [TeamSekai/Sekai-Webpage](https://github.com/TeamSekai/Sekai-Webpage)  
 `[03/01 02:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/yamatomc`</span>  
 `[03/01 02:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
@@ -259,7 +260,6 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[02/13 08:11]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#16`](https://github.com//ringo360/Discord.js_Bot/pull/16 'i18n') in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 `[02/13 08:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [takejohn/Discord.js_Bot](https://github.com/takejohn/Discord.js_Bot)  
 `[02/13 08:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
-`[02/13 02:24]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#15`](https://github.com//ringo360/Discord.js_Bot/issues/15 'Pollコマンドの作成') in [ringo360/Discord.js_Bot](https://github.com/ringo360/Discord.js_Bot)  
 
 </details>
 <!--END_SECTION:activity-->
