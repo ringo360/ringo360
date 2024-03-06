@@ -37,6 +37,8 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[03/06 11:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/yamatomc`</span>  
+`[03/06 11:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
 `[03/06 11:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/yamatomc`</span>  
 `[03/06 11:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
 `[03/06 07:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/rps-watcher](https://github.com/ringo360/rps-watcher)  
@@ -45,11 +47,11 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[03/05 09:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/04 05:01]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#50`](https://github.com//TeamSekai/Sekai.Explode/issues/50 'コードフォーマッタの導入') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/04 02:17]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#50`](https://github.com//TeamSekai/Sekai.Explode/issues/50 'コードフォーマッタの導入') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[03/04 02:17]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#50`](https://github.com//TeamSekai/Sekai.Explode/issues/50 'コードフォーマッタの導入') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[03/04 02:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `26` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 
 <details><summary>Show More</summary>
 
+`[03/04 02:17]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#50`](https://github.com//TeamSekai/Sekai.Explode/issues/50 'コードフォーマッタの導入') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
+`[03/04 02:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `26` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/04 02:10]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#57`](https://github.com//TeamSekai/Sekai.Explode/pull/57 'dev to stable - /random_num関連の新機能とその他コード調整') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/04 02:09]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#57`](https://github.com//TeamSekai/Sekai.Explode/pull/57 'dev to stable - /random_num関連の新機能とその他コード調整') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/04 02:03]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#37`](https://github.com//TeamSekai/Sekai.Explode/issues/37 ' /random_num コマンドに振るサイコロの数を指定できるようにしたい') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
@@ -262,7 +264,7 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[02/16 16:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Lunakepio/Mario-Kart-3.js](https://github.com/Lunakepio/Mario-Kart-3.js)  
 `[02/16 14:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EdamAme-x/hono-ws-chat](https://github.com/EdamAme-x/hono-ws-chat)  
 `[02/16 14:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [yusukebe/get-platform-proxy-cloudflare-ai](https://github.com/yusukebe/get-platform-proxy-cloudflare-ai)  
-`[02/16 09:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in <span title="Private Repo">`🔒ringo360/yamatomc`</span>  
+`[02/16 09:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in <span title="Private Repo">`🔒ringo360/yamatomc`</span>  
 
 </details>
 <!--END_SECTION:activity-->
