@@ -268,8 +268,6 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[02/22 01:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [xtekky/gpt4free](https://github.com/xtekky/gpt4free)  
 `[02/21 10:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[02/21 10:30]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#21`](https://github.com//TeamSekai/Sekai.Explode/pull/21 'プレイリストの再生時にプレイリスト全体の再生時間が表示されない問題を修正') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[02/21 10:29]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#21`](https://github.com//TeamSekai/Sekai.Explode/pull/21 'プレイリストの再生時にプレイリスト全体の再生時間が表示されない問題を修正') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[02/21 08:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Yanliya/Discord-nitro-gen](https://github.com/Yanliya/Discord-nitro-gen)  
 
 </details>
 <!--END_SECTION:activity-->
