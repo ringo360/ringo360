@@ -37,7 +37,7 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 
 # Activity <3
 <!--START_SECTION:activity-->
-`[03/16 08:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
+`[03/16 08:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/16 08:04]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#69`](https://github.com//TeamSekai/Sekai.Explode/pull/69 'コミット前に自動的にPrettierの実行') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/16 08:04]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#69`](https://github.com//TeamSekai/Sekai.Explode/pull/69 'コミット前に自動的にPrettierの実行') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/16 07:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
@@ -275,7 +275,7 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[02/23 14:18]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#25`](https://github.com//TeamSekai/Sekai.Explode/pull/25 '/checkping, /dev03が使えない問題を修正 (#24)') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[02/23 10:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rtm516/MCXboxBroadcast](https://github.com/rtm516/MCXboxBroadcast)  
 `[02/23 09:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Pugmatt/BedrockConnect](https://github.com/Pugmatt/BedrockConnect)  
-`[02/23 07:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [ringo360/TestServer](https://github.com/ringo360/TestServer)  
+`[02/23 07:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [ringo360/TestServer](https://github.com/ringo360/TestServer)  
 
 </details>
 <!--END_SECTION:activity-->
