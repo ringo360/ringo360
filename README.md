@@ -37,7 +37,9 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 
 # Activity <3
 <!--START_SECTION:activity-->
-`[03/18 14:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [TeamSekai/Sekai-Webpage](https://github.com/TeamSekai/Sekai-Webpage)  
+`[03/19 08:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/codes`</span>  
+`[03/19 08:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
+`[03/19 08:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [TeamSekai/Sekai-Webpage](https://github.com/TeamSekai/Sekai-Webpage)  
 `[03/18 12:07]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`feature/dm-modal`](https://github.com/TeamSekai/Sekai.Explode/tree/feature/dm-modal) in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/17 16:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/17 12:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
@@ -45,11 +47,11 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[03/17 12:45]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#72`](https://github.com//TeamSekai/Sekai.Explode/pull/72 '起動の最適化') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/17 09:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Mojang/bedrock-protocol-docs](https://github.com/Mojang/bedrock-protocol-docs)  
 `[03/17 08:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [ringo360/discord-vc-nuker](https://github.com/ringo360/discord-vc-nuker)  
-`[03/17 07:24]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/discord-vc-nuker/tree/main) in [ringo360/discord-vc-nuker](https://github.com/ringo360/discord-vc-nuker)  
-`[03/17 07:24]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/discord-vc-nuker](https://github.com/ringo360/discord-vc-nuker)  
 
 <details><summary>Show More</summary>
 
+`[03/17 07:24]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/discord-vc-nuker/tree/main) in [ringo360/discord-vc-nuker](https://github.com/ringo360/discord-vc-nuker)  
+`[03/17 07:24]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/discord-vc-nuker](https://github.com/ringo360/discord-vc-nuker)  
 `[03/16 11:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒ringo360/yamatomc`</span>  
 `[03/16 11:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
 `[03/16 09:31]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#42`](https://github.com//TeamSekai/Sekai.Explode/issues/42 '危険なユーザーの通報機能') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
@@ -275,8 +277,7 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[02/24 09:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[02/24 09:29]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#28`](https://github.com//TeamSekai/Sekai.Explode/pull/28 'devの変更をstableに反映') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[02/24 09:29]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#28`](https://github.com//TeamSekai/Sekai.Explode/pull/28 'devの変更をstableに反映') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[02/24 09:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[02/24 08:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [darcros/node-minecraft-proxy](https://github.com/darcros/node-minecraft-proxy)  
+`[02/24 09:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 
 </details>
 <!--END_SECTION:activity-->
