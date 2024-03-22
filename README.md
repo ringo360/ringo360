@@ -37,6 +37,9 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[03/22 05:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/blog](https://github.com/ringo360/blog)  
+`[03/22 05:20]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/ringo360/blog/tree/master) in [ringo360/blog](https://github.com/ringo360/blog)  
+`[03/22 05:20]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/blog](https://github.com/ringo360/blog)  
 `[03/22 01:47]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/blog/tree/main) in [ringo360/blog](https://github.com/ringo360/blog)  
 `[03/22 01:47]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/blog](https://github.com/ringo360/blog)  
 `[03/21 13:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
@@ -44,12 +47,12 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[03/21 09:59]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1891`](https://github.com//Androz2091/discord-player/issues/1891 'player cannot search for songs on m.youtube.com') in [Androz2091/discord-player](https://github.com/Androz2091/discord-player)  
 `[03/21 09:44]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`bugfix/play-domain`](https://github.com/TeamSekai/Sekai.Explode/tree/bugfix/play-domain) in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/21 09:39]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#73`](https://github.com//TeamSekai/Sekai.Explode/issues/73 'playコマンドの実行時に、m.youtube.comのドメインが再生できない問題を修正する') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[03/21 07:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [acidicoala/ScreamAPI](https://github.com/acidicoala/ScreamAPI)  
-`[03/21 06:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [TeamSekai/Sekai-Webpage](https://github.com/TeamSekai/Sekai-Webpage)  
-`[03/21 06:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/ringoxd-astro-pages](https://github.com/ringo360/ringoxd-astro-pages)  
 
 <details><summary>Show More</summary>
 
+`[03/21 07:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [acidicoala/ScreamAPI](https://github.com/acidicoala/ScreamAPI)  
+`[03/21 06:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [TeamSekai/Sekai-Webpage](https://github.com/TeamSekai/Sekai-Webpage)  
+`[03/21 06:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/ringoxd-astro-pages](https://github.com/ringo360/ringoxd-astro-pages)  
 `[03/21 06:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [TeamSekai/Sekai-Webpage](https://github.com/TeamSekai/Sekai-Webpage)  
 `[03/21 02:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/discord-vc-nuker](https://github.com/ringo360/discord-vc-nuker)  
 `[03/20 16:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [TeamSekai/Sekai-Webpage](https://github.com/TeamSekai/Sekai-Webpage)  
@@ -280,9 +283,6 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[02/25 07:46]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#32`](https://github.com//TeamSekai/Sekai.Explode/pull/32 'にゃんぱすーカウントの取得 (#17)') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[02/25 07:46]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#32`](https://github.com//TeamSekai/Sekai.Explode/pull/32 'にゃんぱすーカウントの取得 (#17)') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[02/25 07:45]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#32`](https://github.com//TeamSekai/Sekai.Explode/issues/32 'にゃんぱすーカウントの取得 (#17)') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[02/25 06:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/ringoxd-astro-pages](https://github.com/ringo360/ringoxd-astro-pages)  
-`[02/25 04:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/WebhookSpammer`</span>  
-`[02/25 03:31]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/ringoxd-astro-pages](https://github.com/ringo360/ringoxd-astro-pages)  
 
 </details>
 <!--END_SECTION:activity-->
