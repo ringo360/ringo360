@@ -37,7 +37,7 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 
 # Activity <3
 <!--START_SECTION:activity-->
-`[03/23 09:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [ringo360/blog](https://github.com/ringo360/blog)  
+`[03/23 12:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [ringo360/blog](https://github.com/ringo360/blog)  
 `[03/23 06:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [GNUWood/Suzaku](https://github.com/GNUWood/Suzaku)  
 `[03/23 04:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gabime/spdlog](https://github.com/gabime/spdlog)  
 `[03/23 03:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/blog](https://github.com/ringo360/blog)  
@@ -277,7 +277,6 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[02/26 07:42]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#15`](https://github.com//TeamSekai/Sekai.Explode/issues/15 'Pollコマンドの作成') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[02/26 07:38]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#35`](https://github.com//TeamSekai/Sekai.Explode/issues/35 '自動応答のカスタマイズ') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[02/26 07:37]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#35`](https://github.com//TeamSekai/Sekai.Explode/issues/35 '自動応答のカスタマイズ') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[02/26 07:35]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#34`](https://github.com//TeamSekai/Sekai.Explode/issues/34 'アップデート内容の配信') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 
 </details>
 <!--END_SECTION:activity-->
