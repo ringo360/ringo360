@@ -37,7 +37,7 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 
 # Activity <3
 <!--START_SECTION:activity-->
-`[03/25 15:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/blog](https://github.com/ringo360/blog)  
+`[03/25 15:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/blog](https://github.com/ringo360/blog)  
 `[03/25 11:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/msky-discord-hook-worker](https://github.com/ringo360/msky-discord-hook-worker)  
 `[03/25 11:35]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/msky-discord-hook-worker/tree/main) in [ringo360/msky-discord-hook-worker](https://github.com/ringo360/msky-discord-hook-worker)  
 `[03/25 11:35]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/msky-discord-hook-worker](https://github.com/ringo360/msky-discord-hook-worker)  
@@ -276,7 +276,7 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[02/26 13:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [takejohn/Sekai.speech](https://github.com/takejohn/Sekai.speech)  
 `[02/26 13:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
 `[02/26 08:56]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [xNotTozic/Iris-Updated](https://github.com/xNotTozic/Iris-Updated)  
-`[02/26 08:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [TeamSekai/.github](https://github.com/TeamSekai/.github)  
+`[02/26 08:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [TeamSekai/.github](https://github.com/TeamSekai/.github)  
 
 </details>
 <!--END_SECTION:activity-->
