@@ -37,6 +37,9 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[03/27 06:49]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`bugfix/report-limit`](https://github.com/TeamSekai/Sekai.Explode/tree/bugfix/report-limit) in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
+`[03/27 06:47]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#76`](https://github.com//TeamSekai/Sekai.Explode/issues/76 '/dmでmodalを使用するようにする + workflowの調整') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
+`[03/27 06:43]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#76`](https://github.com//TeamSekai/Sekai.Explode/issues/76 '/dmでmodalを使用するようにする + workflowの調整') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/27 06:41]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#76`](https://github.com//TeamSekai/Sekai.Explode/pull/76 '/dmでmodalを使用するようにする + workflowの調整') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/27 06:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/27 03:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [ringo360/random-media](https://github.com/ringo360/random-media)  
@@ -44,12 +47,12 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[03/27 02:19]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/random-picture](https://github.com/ringo360/random-picture)  
 `[03/27 00:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/get-ratelimit-discord](https://github.com/ringo360/get-ratelimit-discord)  
 `[03/27 00:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SinonomeScarlet/Astro-SinonomeScarlet_Profile](https://github.com/SinonomeScarlet/Astro-SinonomeScarlet_Profile)  
-`[03/26 14:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/mayasv`</span>  
-`[03/26 08:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/MCBE-DiscordBridge`</span>  
-`[03/26 08:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
 
 <details><summary>Show More</summary>
 
+`[03/26 14:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/mayasv`</span>  
+`[03/26 08:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/MCBE-DiscordBridge`</span>  
+`[03/26 08:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
 `[03/26 08:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/yamatomc`</span>  
 `[03/26 08:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/MCBE-DiscordBridge`</span>  
 `[03/26 08:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒ringo360/mayasv`</span>  
@@ -271,9 +274,6 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[02/27 23:50]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#34`](https://github.com//TeamSekai/Sekai.Explode/issues/34 'アップデート内容の配信') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[02/27 15:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/ringoxd-astro-pages](https://github.com/ringo360/ringoxd-astro-pages)  
 `[02/27 08:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wnelson03/RestoreCord-Source-Code](https://github.com/wnelson03/RestoreCord-Source-Code)  
-`[02/27 02:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)  
-`[02/27 02:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [d8-bbc11/monolisa](https://github.com/d8-bbc11/monolisa)  
-`[02/27 01:51]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#39`](https://github.com//TeamSekai/Sekai.Explode/issues/39 'gban sync時にban理由がおかしくなる') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 
 </details>
 <!--END_SECTION:activity-->
