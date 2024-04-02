@@ -37,19 +37,23 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[04/02 14:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [TeamSekai/cdn](https://github.com/TeamSekai/cdn)  
+`[04/02 14:29]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#9`](https://github.com//TeamSekai/cdn/pull/9 'Astroを使って高速化 (#8)') in [TeamSekai/cdn](https://github.com/TeamSekai/cdn)  
+`[04/02 14:28]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#9`](https://github.com//TeamSekai/cdn/pull/9 'Astroを使って高速化 (#8)') in [TeamSekai/cdn](https://github.com/TeamSekai/cdn)  
+`[04/02 14:26]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#9`](https://github.com//TeamSekai/cdn/pull/9 'Astroを使って高速化 (#8)') in [TeamSekai/cdn](https://github.com/TeamSekai/cdn)  
 `[04/02 14:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[04/02 14:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/blog](https://github.com/ringo360/blog)  
 `[04/02 11:32]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#82`](https://github.com//TeamSekai/Sekai.Explode/issues/82 'GBANされている人を検索で探せるようにしてほしい') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[04/02 11:31]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#82`](https://github.com//TeamSekai/Sekai.Explode/issues/82 'GBANされている人を検索で探せるようにしてほしい') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[04/02 07:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [ringo360/blog](https://github.com/ringo360/blog)  
 `[04/01 17:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/ecchi-database`</span>  
+
+<details><summary>Show More</summary>
+
 `[04/01 10:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
 `[04/01 09:33]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#73`](https://github.com//TeamSekai/Sekai.Explode/issues/73 'playコマンドの実行時に、m.youtube.comのドメインが再生できない問題を修正する') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/31 16:24]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#8`](https://github.com//TeamSekai/cdn/issues/8 'Astroでサイトをかっこよく&速くしたい') in [TeamSekai/cdn](https://github.com/TeamSekai/cdn)  
 `[03/31 15:53]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6`](https://github.com//TeamSekai/cdn/issues/6 'SwaggerでAPIを公開しろ！') in [TeamSekai/cdn](https://github.com/TeamSekai/cdn)  
-
-<details><summary>Show More</summary>
-
 `[03/31 15:53]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#6`](https://github.com//TeamSekai/cdn/issues/6 'SwaggerでAPIを公開しろ！') in [TeamSekai/cdn](https://github.com/TeamSekai/cdn)  
 `[03/31 15:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [TeamSekai/cdn](https://github.com/TeamSekai/cdn)  
 `[03/31 15:53]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#7`](https://github.com//TeamSekai/cdn/pull/7 'Swagger UI (#6)') in [TeamSekai/cdn](https://github.com/TeamSekai/cdn)  
@@ -249,10 +253,6 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[03/04 02:03]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#56`](https://github.com//TeamSekai/Sekai.Explode/pull/56 'Patch/37 dice representation') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/04 02:03]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#56`](https://github.com//TeamSekai/Sekai.Explode/pull/56 'Patch/37 dice representation') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/04 02:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tauri-apps/tauri](https://github.com/tauri-apps/tauri)  
-`[03/04 02:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [discordjs/discord.js](https://github.com/discordjs/discord.js)  
-`[03/04 02:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp)  
-`[03/04 02:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [KotRikD/tosu](https://github.com/KotRikD/tosu)  
-`[03/04 02:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [xnti/discord-nitro-generator](https://github.com/xnti/discord-nitro-generator)  
 
 </details>
 <!--END_SECTION:activity-->
