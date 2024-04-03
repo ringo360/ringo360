@@ -37,7 +37,7 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 
 # Activity <3
 <!--START_SECTION:activity-->
-`[04/03 11:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [TeamSekai/cdn](https://github.com/TeamSekai/cdn)  
+`[04/03 12:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [TeamSekai/cdn](https://github.com/TeamSekai/cdn)  
 `[04/03 11:59]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#10`](https://github.com//TeamSekai/cdn/pull/10 'privateのファイルにアクセスできない問題を修正・挙動の改善') in [TeamSekai/cdn](https://github.com/TeamSekai/cdn)  
 `[04/03 11:57]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#10`](https://github.com//TeamSekai/cdn/pull/10 'privateのファイルにアクセスできない問題を修正・挙動の改善') in [TeamSekai/cdn](https://github.com/TeamSekai/cdn)  
 `[04/02 14:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [TeamSekai/cdn](https://github.com/TeamSekai/cdn)  
@@ -252,7 +252,6 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[03/04 02:09]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#57`](https://github.com//TeamSekai/Sekai.Explode/pull/57 'dev to stable - /random_num関連の新機能とその他コード調整') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/04 02:03]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#37`](https://github.com//TeamSekai/Sekai.Explode/issues/37 ' /random_num コマンドに振るサイコロの数を指定できるようにしたい') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/04 02:03]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#37`](https://github.com//TeamSekai/Sekai.Explode/issues/37 ' /random_num コマンドに振るサイコロの数を指定できるようにしたい') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[03/04 02:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 
 </details>
 <!--END_SECTION:activity-->
