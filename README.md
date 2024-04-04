@@ -37,6 +37,8 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[04/04 14:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [CCBlueX/LiquidBounce](https://github.com/CCBlueX/LiquidBounce)  
+`[04/04 14:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Discord-Datamining/Discord-Datamining](https://github.com/Discord-Datamining/Discord-Datamining)  
 `[04/04 04:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `54` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[04/04 04:09]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#84`](https://github.com//TeamSekai/Sekai.Explode/pull/84 'Sekai Update(v14-dev to v14-stable merge)') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[04/04 04:07]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#84`](https://github.com//TeamSekai/Sekai.Explode/pull/84 'Sekai Update(v14-dev to v14-stable merge)') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
@@ -45,11 +47,11 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[04/04 03:49]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#83`](https://github.com//TeamSekai/Sekai.Explode/pull/83 'discord-player等依存関係の更新') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[04/04 03:48]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#83`](https://github.com//TeamSekai/Sekai.Explode/pull/83 'discord-player等依存関係の更新') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[04/03 13:08]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#11`](https://github.com//TeamSekai/cdn/issues/11 'Polyfill import.meta.dirname') in [TeamSekai/cdn](https://github.com/TeamSekai/cdn)  
-`[04/03 13:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [TeamSekai/cdn](https://github.com/TeamSekai/cdn)  
-`[04/03 13:06]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#11`](https://github.com//TeamSekai/cdn/pull/11 'Polyfill import.meta.dirname') in [TeamSekai/cdn](https://github.com/TeamSekai/cdn)  
 
 <details><summary>Show More</summary>
 
+`[04/03 13:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [TeamSekai/cdn](https://github.com/TeamSekai/cdn)  
+`[04/03 13:06]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#11`](https://github.com//TeamSekai/cdn/pull/11 'Polyfill import.meta.dirname') in [TeamSekai/cdn](https://github.com/TeamSekai/cdn)  
 `[04/03 13:04]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#11`](https://github.com//TeamSekai/cdn/pull/11 'Polyfill import.meta.dirname') in [TeamSekai/cdn](https://github.com/TeamSekai/cdn)  
 `[04/03 12:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [TeamSekai/cdn](https://github.com/TeamSekai/cdn)  
 `[04/03 11:59]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#10`](https://github.com//TeamSekai/cdn/pull/10 'privateのファイルにアクセスできない問題を修正・挙動の改善') in [TeamSekai/cdn](https://github.com/TeamSekai/cdn)  
