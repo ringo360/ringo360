@@ -37,7 +37,7 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 
 # Activity <3
 <!--START_SECTION:activity-->
-`[04/07 06:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [TeamSekai/Sekai-Webpage](https://github.com/TeamSekai/Sekai-Webpage)  
+`[04/07 07:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [TeamSekai/Sekai-Webpage](https://github.com/TeamSekai/Sekai-Webpage)  
 `[04/07 06:42]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#88`](https://github.com//TeamSekai/Sekai.Explode/issues/88 '/skip コマンド時特定のロール以外はVCに参加している半数の同意がない限りスキップができない(どうでもいいかも)') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[04/07 06:40]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#87`](https://github.com//TeamSekai/Sekai.Explode/issues/87 '音楽再生時にループ再生をできるようにしてほしい') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[04/07 06:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
@@ -248,7 +248,6 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[03/10 12:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ddf8196/BetterRenderDragon](https://github.com/ddf8196/BetterRenderDragon)  
 `[03/09 07:19]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#62`](https://github.com//TeamSekai/Sekai.Explode/issues/62 '関連コマンドをまとめる') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/09 07:18]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#62`](https://github.com//TeamSekai/Sekai.Explode/issues/62 '関連コマンドをまとめる') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[03/09 05:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ARealWant/GuildReset-Discord-Bot](https://github.com/ARealWant/GuildReset-Discord-Bot)  
 
 </details>
 <!--END_SECTION:activity-->
