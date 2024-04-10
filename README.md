@@ -37,19 +37,23 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[04/10 15:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/bio-workers](https://github.com/ringo360/bio-workers)  
+`[04/10 15:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [takejohn/misskey-bot.is](https://github.com/takejohn/misskey-bot.is)  
+`[04/10 15:09]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/ringo360/bio-workers/tree/master) in [ringo360/bio-workers](https://github.com/ringo360/bio-workers)  
+`[04/10 15:09]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/bio-workers](https://github.com/ringo360/bio-workers)  
 `[04/10 14:41]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#93`](https://github.com//TeamSekai/Sekai.Explode/issues/93 '/graphのタイトルバグ') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[04/10 14:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `21` commits in [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
 `[04/10 14:22]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#14`](https://github.com//TeamSekai/Sekai.CDN/pull/14 'デザインをちょっとよくした') in [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
 `[04/10 14:22]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#14`](https://github.com//TeamSekai/Sekai.CDN/pull/14 'デザインをちょっとよくした') in [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
 `[04/09 22:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kawarimidoll/denote](https://github.com/kawarimidoll/denote)  
 `[04/09 14:13]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#14`](https://github.com//TeamSekai/Sekai.CDN/issues/14 'デザインをちょっとよくした') in [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
+
+<details><summary>Show More</summary>
+
 `[04/09 08:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[04/09 08:21]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#77`](https://github.com//TeamSekai/Sekai.Explode/issues/77 '/uploadコマンドがファイルの種類によって使用できない') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[04/09 08:21]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#90`](https://github.com//TeamSekai/Sekai.Explode/pull/90 '/uploadコマンドが一部ファイルに対応していない問題を修正 (#77)') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[04/09 08:21]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#90`](https://github.com//TeamSekai/Sekai.Explode/pull/90 '/uploadコマンドが一部ファイルに対応していない問題を修正 (#77)') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-
-<details><summary>Show More</summary>
-
 `[04/09 07:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)  
 `[04/09 06:43]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#90`](https://github.com//TeamSekai/Sekai.Explode/issues/90 '/uploadコマンドが一部ファイルに対応していない問題を修正 (#77)') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[04/08 22:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [saicaca/fuwari](https://github.com/saicaca/fuwari)  
@@ -248,10 +252,7 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[03/14 05:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `54` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/14 05:36]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#66`](https://github.com//TeamSekai/Sekai.Explode/pull/66 'Sekai Update (v14-dev to v14-stable merge)') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/14 05:35]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#66`](https://github.com//TeamSekai/Sekai.Explode/pull/66 'Sekai Update (v14-dev to v14-stable merge)') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[03/14 05:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[03/14 04:56]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#65`](https://github.com//TeamSekai/Sekai.Explode/pull/65 'TypeScriptを使用可能に') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[03/14 04:55]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#65`](https://github.com//TeamSekai/Sekai.Explode/pull/65 'TypeScriptを使用可能に') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[03/13 13:30]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#65`](https://github.com//TeamSekai/Sekai.Explode/pull/65 'TypeScriptを使用可能に') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
+`[03/14 05:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 
 </details>
 <!--END_SECTION:activity-->
