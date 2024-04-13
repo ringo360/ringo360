@@ -37,6 +37,7 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[04/13 07:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)  
 `[04/13 06:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [ringo360/blog](https://github.com/ringo360/blog)  
 `[04/12 09:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [yusukebe/url-shortener](https://github.com/yusukebe/url-shortener)  
 `[04/12 08:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [robertguss/Astro-Theme-Creek](https://github.com/robertguss/Astro-Theme-Creek)  
@@ -46,10 +47,10 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[04/11 11:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zloirock/core-js](https://github.com/zloirock/core-js)  
 `[04/10 22:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rustybalboadev/Discord-Raid-Tool](https://github.com/rustybalboadev/Discord-Raid-Tool)  
 `[04/10 15:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/bio-workers](https://github.com/ringo360/bio-workers)  
-`[04/10 15:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [takejohn/misskey-bot.is](https://github.com/takejohn/misskey-bot.is)  
 
 <details><summary>Show More</summary>
 
+`[04/10 15:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [takejohn/misskey-bot.is](https://github.com/takejohn/misskey-bot.is)  
 `[04/10 15:09]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/ringo360/bio-workers/tree/master) in [ringo360/bio-workers](https://github.com/ringo360/bio-workers)  
 `[04/10 15:09]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/bio-workers](https://github.com/ringo360/bio-workers)  
 `[04/10 14:41]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#93`](https://github.com//TeamSekai/Sekai.Explode/issues/93 '/graphのタイトルバグ') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
@@ -252,7 +253,6 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[03/14 13:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/python-port-scan-blocker](https://github.com/ringo360/python-port-scan-blocker)  
 `[03/14 12:43]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/python-port-scan-blocker/tree/main) in [ringo360/python-port-scan-blocker](https://github.com/ringo360/python-port-scan-blocker)  
 `[03/14 12:43]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/python-port-scan-blocker](https://github.com/ringo360/python-port-scan-blocker)  
-`[03/14 11:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
 
 </details>
 <!--END_SECTION:activity-->
