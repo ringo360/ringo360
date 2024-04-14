@@ -37,6 +37,9 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[04/14 04:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/bio-page`</span>  
+`[04/14 03:57]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/ringo360/biopage/tree/master) in [ringo360/biopage](https://github.com/ringo360/biopage)  
+`[04/14 03:57]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/biopage](https://github.com/ringo360/biopage)  
 `[04/13 13:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/bio-workers](https://github.com/ringo360/bio-workers)  
 `[04/13 07:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)  
 `[04/13 06:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [ringo360/blog](https://github.com/ringo360/blog)  
@@ -44,12 +47,12 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[04/12 08:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [robertguss/Astro-Theme-Creek](https://github.com/robertguss/Astro-Theme-Creek)  
 `[04/12 08:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jonasmerlin/astro-seo](https://github.com/jonasmerlin/astro-seo)  
 `[04/11 22:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cloudflare/workers-aws-template](https://github.com/cloudflare/workers-aws-template)  
-`[04/11 21:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [eknkc/ssr-benchmark](https://github.com/eknkc/ssr-benchmark)  
-`[04/11 11:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zloirock/core-js](https://github.com/zloirock/core-js)  
-`[04/10 22:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rustybalboadev/Discord-Raid-Tool](https://github.com/rustybalboadev/Discord-Raid-Tool)  
 
 <details><summary>Show More</summary>
 
+`[04/11 21:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [eknkc/ssr-benchmark](https://github.com/eknkc/ssr-benchmark)  
+`[04/11 11:54]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zloirock/core-js](https://github.com/zloirock/core-js)  
+`[04/10 22:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [rustybalboadev/Discord-Raid-Tool](https://github.com/rustybalboadev/Discord-Raid-Tool)  
 `[04/10 15:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/bio-workers](https://github.com/ringo360/bio-workers)  
 `[04/10 15:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [takejohn/misskey-bot.is](https://github.com/takejohn/misskey-bot.is)  
 `[04/10 15:09]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/ringo360/bio-workers/tree/master) in [ringo360/bio-workers](https://github.com/ringo360/bio-workers)  
@@ -249,9 +252,7 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[03/16 08:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/16 08:04]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#69`](https://github.com//TeamSekai/Sekai.Explode/pull/69 'コミット前に自動的にPrettierの実行') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/16 08:04]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#69`](https://github.com//TeamSekai/Sekai.Explode/pull/69 'コミット前に自動的にPrettierの実行') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[03/16 07:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[03/15 09:05]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [qnblackcat/uYouPlus](https://github.com/qnblackcat/uYouPlus) to [ringo360/uYouPlus](https://github.com/ringo360/uYouPlus)  
-`[03/14 13:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/python-port-scan-blocker](https://github.com/ringo360/python-port-scan-blocker)  
+`[03/16 07:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 
 </details>
 <!--END_SECTION:activity-->
