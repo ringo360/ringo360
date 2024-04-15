@@ -37,6 +37,7 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[04/15 22:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ClearVision/ClearVision-v6](https://github.com/ClearVision/ClearVision-v6)  
 `[04/15 09:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/bio-workers`</span>  
 `[04/14 23:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [blackray207/Shrek-Tools](https://github.com/blackray207/Shrek-Tools)  
 `[04/14 22:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Aspw-w/NightX-Client](https://github.com/Aspw-w/NightX-Client)  
@@ -46,10 +47,10 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[04/14 03:57]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/ringo360/biopage/tree/master) in [ringo360/biopage](https://github.com/ringo360/biopage)  
 `[04/14 03:57]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/biopage](https://github.com/ringo360/biopage)  
 `[04/13 07:31]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts)  
-`[04/13 06:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [ringo360/blog](https://github.com/ringo360/blog)  
 
 <details><summary>Show More</summary>
 
+`[04/13 06:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [ringo360/blog](https://github.com/ringo360/blog)  
 `[04/12 09:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [yusukebe/url-shortener](https://github.com/yusukebe/url-shortener)  
 `[04/12 08:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [robertguss/Astro-Theme-Creek](https://github.com/robertguss/Astro-Theme-Creek)  
 `[04/12 08:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jonasmerlin/astro-seo](https://github.com/jonasmerlin/astro-seo)  
@@ -253,7 +254,7 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[03/16 08:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/16 08:04]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#69`](https://github.com//TeamSekai/Sekai.Explode/pull/69 'コミット前に自動的にPrettierの実行') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/16 08:04]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#69`](https://github.com//TeamSekai/Sekai.Explode/pull/69 'コミット前に自動的にPrettierの実行') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[03/16 07:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
+`[03/16 07:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 
 </details>
 <!--END_SECTION:activity-->
