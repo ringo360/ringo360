@@ -37,19 +37,23 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[04/20 03:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒ringo360/bio-page`</span>  
+`[04/20 03:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [PetricaT/ProgrammingVTuberLogos-Addon](https://github.com/PetricaT/ProgrammingVTuberLogos-Addon)  
+`[04/20 03:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Aspw-w/Python-Test](https://github.com/Aspw-w/Python-Test)  
+`[04/20 03:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Aspw-w/Shark-Client](https://github.com/Aspw-w/Shark-Client)  
 `[04/20 02:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kaonasi-biwa/Twitter-UI-Customizer](https://github.com/kaonasi-biwa/Twitter-UI-Customizer)  
 `[04/19 07:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cegatte/Discord-Raider-fixed](https://github.com/cegatte/Discord-Raider-fixed)  
 `[04/17 22:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [IrisDimensions/overworld](https://github.com/IrisDimensions/overworld)  
 `[04/17 22:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Strencher/BetterDiscordStuff](https://github.com/Strencher/BetterDiscordStuff)  
 `[04/16 10:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ambr0sial/femboyaccess](https://github.com/ambr0sial/femboyaccess)  
 `[04/15 22:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ClearVision/ClearVision-v6](https://github.com/ClearVision/ClearVision-v6)  
+
+<details><summary>Show More</summary>
+
 `[04/15 09:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/bio-workers`</span>  
 `[04/14 23:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [blackray207/Shrek-Tools](https://github.com/blackray207/Shrek-Tools)  
 `[04/14 22:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Aspw-w/NightX-Client](https://github.com/Aspw-w/NightX-Client)  
 `[04/14 22:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [muzam1l/tclone](https://github.com/muzam1l/tclone)  
-
-<details><summary>Show More</summary>
-
 `[04/14 06:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ringo360/bio-workers`</span>  
 `[04/14 04:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/bio-page`</span>  
 `[04/14 03:57]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/ringo360/biopage/tree/master) in [ringo360/biopage](https://github.com/ringo360/biopage)  
@@ -255,8 +259,6 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[03/16 08:57]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#70`](https://github.com//TeamSekai/Sekai.Explode/pull/70 ' Sekai Update (v14-dev to v14-stable merge)') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/16 08:57]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#70`](https://github.com//TeamSekai/Sekai.Explode/pull/70 ' Sekai Update (v14-dev to v14-stable merge)') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/16 08:54]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#42`](https://github.com//TeamSekai/Sekai.Explode/issues/42 '危険なユーザーの通報機能') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[03/16 08:54]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#42`](https://github.com//TeamSekai/Sekai.Explode/issues/42 '危険なユーザーの通報機能') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[03/16 08:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 
 </details>
 <!--END_SECTION:activity-->
