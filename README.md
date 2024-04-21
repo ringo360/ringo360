@@ -37,6 +37,7 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[04/21 02:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/blog](https://github.com/ringo360/blog)  
 `[04/21 01:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [H4cK3dR4Du/Discord-Email-Verifier](https://github.com/H4cK3dR4Du/Discord-Email-Verifier)  
 `[04/21 01:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter)  
 `[04/20 17:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/blog](https://github.com/ringo360/blog)  
@@ -46,10 +47,10 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[04/20 04:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in <span title="Private Repo">`🔒ringo360/bio-page`</span>  
 `[04/20 03:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [PetricaT/ProgrammingVTuberLogos-Addon](https://github.com/PetricaT/ProgrammingVTuberLogos-Addon)  
 `[04/20 03:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Aspw-w/Python-Test](https://github.com/Aspw-w/Python-Test)  
-`[04/20 03:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Aspw-w/Shark-Client](https://github.com/Aspw-w/Shark-Client)  
 
 <details><summary>Show More</summary>
 
+`[04/20 03:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Aspw-w/Shark-Client](https://github.com/Aspw-w/Shark-Client)  
 `[04/20 02:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kaonasi-biwa/Twitter-UI-Customizer](https://github.com/kaonasi-biwa/Twitter-UI-Customizer)  
 `[04/19 07:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cegatte/Discord-Raider-fixed](https://github.com/cegatte/Discord-Raider-fixed)  
 `[04/17 22:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [IrisDimensions/overworld](https://github.com/IrisDimensions/overworld)  
@@ -257,7 +258,6 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[03/17 12:45]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#72`](https://github.com//TeamSekai/Sekai.Explode/pull/72 '起動の最適化') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/17 12:45]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#72`](https://github.com//TeamSekai/Sekai.Explode/pull/72 '起動の最適化') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/17 09:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Mojang/bedrock-protocol-docs](https://github.com/Mojang/bedrock-protocol-docs)  
-`[03/16 11:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/yamatomc`</span>  
 
 </details>
 <!--END_SECTION:activity-->
