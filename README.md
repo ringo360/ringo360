@@ -37,19 +37,23 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[04/22 09:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
+`[04/22 09:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ringo360/yamatomc`</span>  
+`[04/22 09:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
+`[04/22 09:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/yamatomc`</span>  
 `[04/22 08:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Matleox/Matleox-Nuker](https://github.com/Matleox/Matleox-Nuker)  
 `[04/21 22:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [m1ntooo/ipod-classic-js](https://github.com/m1ntooo/ipod-classic-js)  
 `[04/21 09:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/mayasv`</span>  
 `[04/21 02:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/blog](https://github.com/ringo360/blog)  
 `[04/21 01:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [H4cK3dR4Du/Discord-Email-Verifier](https://github.com/H4cK3dR4Du/Discord-Email-Verifier)  
 `[04/21 01:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter)  
+
+<details><summary>Show More</summary>
+
 `[04/20 17:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/blog](https://github.com/ringo360/blog)  
 `[04/20 11:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [z-huang/InnerTune](https://github.com/z-huang/InnerTune)  
 `[04/20 09:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in <span title="Private Repo">`🔒ringo360/bio-page`</span>  
 `[04/20 04:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/bio-workers`</span>  
-
-<details><summary>Show More</summary>
-
 `[04/20 04:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in <span title="Private Repo">`🔒ringo360/bio-page`</span>  
 `[04/20 03:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [PetricaT/ProgrammingVTuberLogos-Addon](https://github.com/PetricaT/ProgrammingVTuberLogos-Addon)  
 `[04/20 03:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Aspw-w/Python-Test](https://github.com/Aspw-w/Python-Test)  
@@ -256,10 +260,6 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[03/19 08:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/19 08:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [TeamSekai/Sekai-Webpage](https://github.com/TeamSekai/Sekai-Webpage)  
 `[03/18 12:07]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`feature/dm-modal`](https://github.com/TeamSekai/Sekai.Explode/tree/feature/dm-modal) in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[03/17 16:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[03/17 12:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[03/17 12:45]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#72`](https://github.com//TeamSekai/Sekai.Explode/pull/72 '起動の最適化') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[03/17 12:45]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#72`](https://github.com//TeamSekai/Sekai.Explode/pull/72 '起動の最適化') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 
 </details>
 <!--END_SECTION:activity-->
