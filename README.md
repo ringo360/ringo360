@@ -37,6 +37,7 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[04/23 23:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mhyfritz/astro-landing-page](https://github.com/mhyfritz/astro-landing-page)  
 `[04/23 12:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [draciusss/Updated-Draciusss-1.20.73-](https://github.com/draciusss/Updated-Draciusss-1.20.73-)  
 `[04/22 23:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [porsager/postgres](https://github.com/porsager/postgres)  
 `[04/22 23:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mlomb/chat-analytics](https://github.com/mlomb/chat-analytics)  
@@ -46,10 +47,10 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[04/22 09:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
 `[04/22 09:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/yamatomc`</span>  
 `[04/22 08:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Matleox/Matleox-Nuker](https://github.com/Matleox/Matleox-Nuker)  
-`[04/21 22:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [m1ntooo/ipod-classic-js](https://github.com/m1ntooo/ipod-classic-js)  
 
 <details><summary>Show More</summary>
 
+`[04/21 22:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [m1ntooo/ipod-classic-js](https://github.com/m1ntooo/ipod-classic-js)  
 `[04/21 09:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/mayasv`</span>  
 `[04/21 02:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/blog](https://github.com/ringo360/blog)  
 `[04/21 01:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [H4cK3dR4Du/Discord-Email-Verifier](https://github.com/H4cK3dR4Du/Discord-Email-Verifier)  
@@ -260,7 +261,6 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[03/20 15:50]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#5`](https://github.com//TeamSekai/cdn/issues/5 'Windowsうんち！Zorin入れるぜ！！Wi-Fi共有せんと、Parsecがラグいなぁ……。よし、ZorinでWi-Fiを共有するぞ～～～！殺すぞボケェ！！！！なんで共有できんのやカスッ！！スマホのUSB LAN共有を使ってみる！失敗！死ねぇ！！PVEにPCを接続！スマホのBluetoothでWi-FiをPAN共有してみる！成功！！一旦PCをヘッドレスに戻して、再度チャレンジしようとする！殺すぞ～～～～！！！そもそもサブPCがWi-Fiに繋がってくれない！うんち！！！！！') in [TeamSekai/cdn](https://github.com/TeamSekai/cdn)  
 `[03/20 14:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bernarddesfosse/onix_compatible_appx](https://github.com/bernarddesfosse/onix_compatible_appx)  
 `[03/20 09:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/ringoxd-astro-pages](https://github.com/ringo360/ringoxd-astro-pages)  
-`[03/19 08:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/codes`</span>  
 
 </details>
 <!--END_SECTION:activity-->
