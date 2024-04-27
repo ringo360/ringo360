@@ -37,7 +37,7 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 
 # Activity <3
 <!--START_SECTION:activity-->
-`[04/27 11:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/URL-Shortener](https://github.com/ringo360/URL-Shortener)  
+`[04/27 13:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [ringo360/URL-Shortener](https://github.com/ringo360/URL-Shortener)  
 `[04/27 08:46]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/URL-Shortener/tree/main) in [ringo360/URL-Shortener](https://github.com/ringo360/URL-Shortener)  
 `[04/27 08:46]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/URL-Shortener](https://github.com/ringo360/URL-Shortener)  
 `[04/27 07:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒TeamSekai/Sekai.CDN-Viewer`</span>  
@@ -268,8 +268,6 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[03/23 18:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [ringo360/blog](https://github.com/ringo360/blog)  
 `[03/23 06:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [GNUWood/Suzaku](https://github.com/GNUWood/Suzaku)  
 `[03/23 04:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [gabime/spdlog](https://github.com/gabime/spdlog)  
-`[03/23 03:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/blog](https://github.com/ringo360/blog)  
-`[03/22 11:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EbiseLutica/lutica.net](https://github.com/EbiseLutica/lutica.net)  
 
 </details>
 <!--END_SECTION:activity-->
