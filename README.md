@@ -37,19 +37,24 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[04/28 13:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
+`[04/28 13:35]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#94`](https://github.com//TeamSekai/Sekai.Explode/issues/94 '年齢を調べるコマンドの追加') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
+`[04/28 13:35]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#54`](https://github.com//TeamSekai/Sekai.Explode/issues/54 '日時の表示コマンド') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
+`[04/28 13:35]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#95`](https://github.com//TeamSekai/Sekai.Explode/pull/95 '/dateコマンドの追加 (#54, #94)') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
+`[04/28 13:35]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#95`](https://github.com//TeamSekai/Sekai.Explode/pull/95 '/dateコマンドの追加 (#54, #94)') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[04/28 13:23]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#95`](https://github.com//TeamSekai/Sekai.Explode/issues/95 '/dateコマンドの追加 (#54, #94)') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[04/28 06:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ringo360/MCBE-DiscordBridge`</span>  
 `[04/28 01:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/blog](https://github.com/ringo360/blog)  
 `[04/27 23:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [LiteLDev/LeviLamina](https://github.com/LiteLDev/LeviLamina)  
 `[04/27 23:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [AutumnVN/bot](https://github.com/AutumnVN/bot)  
+
+<details><summary>Show More</summary>
+
 `[04/27 15:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in [ringo360/URL-Shortener](https://github.com/ringo360/URL-Shortener)  
 `[04/27 08:46]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/URL-Shortener/tree/main) in [ringo360/URL-Shortener](https://github.com/ringo360/URL-Shortener)  
 `[04/27 08:46]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/URL-Shortener](https://github.com/ringo360/URL-Shortener)  
 `[04/27 07:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒TeamSekai/Sekai.CDN-Viewer`</span>  
 `[04/27 07:39]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒TeamSekai/Sekai.CDN-Viewer`</span>  
-
-<details><summary>Show More</summary>
-
 `[04/27 07:39]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒TeamSekai/Sekai.CDN-Viewer`</span>  
 `[04/27 04:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/yamatomc`</span>  
 `[04/27 04:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/MCBE-DiscordBridge`</span>  
@@ -265,11 +270,7 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[03/26 08:01]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/mayasv`</span>  
 `[03/26 06:57]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#75`](https://github.com//TeamSekai/Sekai.Explode/issues/75 'LokiJS対応') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[03/25 15:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/blog](https://github.com/ringo360/blog)  
-`[03/25 11:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/msky-discord-hook-worker](https://github.com/ringo360/msky-discord-hook-worker)  
-`[03/25 11:35]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/msky-discord-hook-worker/tree/main) in [ringo360/msky-discord-hook-worker](https://github.com/ringo360/msky-discord-hook-worker)  
-`[03/25 11:35]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/msky-discord-hook-worker](https://github.com/ringo360/msky-discord-hook-worker)  
-`[03/25 04:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [misskey-dev/mascot-web](https://github.com/misskey-dev/mascot-web)  
-`[03/24 08:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [CyberAgentHack/web-speed-hackathon-2024](https://github.com/CyberAgentHack/web-speed-hackathon-2024)  
+`[03/25 11:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/msky-discord-hook-worker](https://github.com/ringo360/msky-discord-hook-worker)  
 
 </details>
 <!--END_SECTION:activity-->
