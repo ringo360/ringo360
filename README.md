@@ -37,6 +37,9 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[05/03 12:19]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/mediaman/tree/main) in [ringo360/mediaman](https://github.com/ringo360/mediaman)  
+`[05/03 12:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/mediaman](https://github.com/ringo360/mediaman)  
+`[05/03 12:19]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/mediaman](https://github.com/ringo360/mediaman)  
 `[05/03 11:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/blog](https://github.com/ringo360/blog)  
 `[05/03 08:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [glitch65/Five-nuker](https://github.com/glitch65/Five-nuker)  
 `[05/03 07:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#98`](https://github.com//TeamSekai/Sekai.Explode/issues/98 '/gbanにtimeout機能') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
@@ -44,12 +47,12 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[05/03 05:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/blog](https://github.com/ringo360/blog)  
 `[05/03 05:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/ringoxd-astro-pages](https://github.com/ringo360/ringoxd-astro-pages)  
 `[05/03 02:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dochne/wappalyzer](https://github.com/dochne/wappalyzer)  
-`[05/03 01:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ringo360/bio-workers`</span>  
-`[05/03 00:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Mist0090/Monoxide-peaceful](https://github.com/Mist0090/Monoxide-peaceful)  
-`[05/02 22:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets)  
 
 <details><summary>Show More</summary>
 
+`[05/03 01:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ringo360/bio-workers`</span>  
+`[05/03 00:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Mist0090/Monoxide-peaceful](https://github.com/Mist0090/Monoxide-peaceful)  
+`[05/02 22:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets)  
 `[05/02 13:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `900` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[05/02 13:38]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#96`](https://github.com//TeamSekai/Sekai.Explode/pull/96 'リファクタリング&canvas使用コマンドをImages Featureに (#74)') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[05/02 13:36]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#96`](https://github.com//TeamSekai/Sekai.Explode/pull/96 'リファクタリング&canvas使用コマンドをImages Featureに (#74)') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
@@ -214,9 +217,6 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[04/03 11:59]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#10`](https://github.com//TeamSekai/cdn/pull/10 'privateのファイルにアクセスできない問題を修正・挙動の改善') in [TeamSekai/cdn](https://github.com/TeamSekai/cdn)  
 `[04/03 11:57]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#10`](https://github.com//TeamSekai/cdn/pull/10 'privateのファイルにアクセスできない問題を修正・挙動の改善') in [TeamSekai/cdn](https://github.com/TeamSekai/cdn)  
 `[04/02 14:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `16` commits in [TeamSekai/cdn](https://github.com/TeamSekai/cdn)  
-`[04/02 14:29]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#9`](https://github.com//TeamSekai/cdn/pull/9 'Astroを使って高速化 (#8)') in [TeamSekai/cdn](https://github.com/TeamSekai/cdn)  
-`[04/02 14:28]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#9`](https://github.com//TeamSekai/cdn/pull/9 'Astroを使って高速化 (#8)') in [TeamSekai/cdn](https://github.com/TeamSekai/cdn)  
-`[04/02 14:26]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#9`](https://github.com//TeamSekai/cdn/pull/9 'Astroを使って高速化 (#8)') in [TeamSekai/cdn](https://github.com/TeamSekai/cdn)  
 
 </details>
 <!--END_SECTION:activity-->
