@@ -1,17 +1,13 @@
-# こんにちは👋
+[![wakatime](https://wakatime.com/badge/user/018d71ab-3f96-48fe-973b-2f7b3d50ecc9.svg)](https://wakatime.com/@018d71ab-3f96-48fe-973b-2f7b3d50ecc9)
+
+# About me <3
 <!--
 <a href="https://ringoxd.pages.dev"><img src="https://avatars.githubusercontent.com/u/105296365" align="right"></a>
 -->
 
-[![wakatime](https://wakatime.com/badge/user/018d71ab-3f96-48fe-973b-2f7b3d50ecc9.svg)](https://wakatime.com/@018d71ab-3f96-48fe-973b-2f7b3d50ecc9)
-
-どこにでも居る、Node.js好きな学生です。
-
-discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加したり...
-
-やりたいことをとにかくやってます。
-
-> マイクラ鯖も一時期運営していましたが、現在は引退しています。
+Hi, my name is ringoXD, I'm a high school student in Japan ✏️<br>
+I am learning JavaScript, TypeScript, HTML, CSS and more!<br>
+Please visit [my page](https://ringoxd.dev/)!
 
 ## Stats <3
 
