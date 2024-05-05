@@ -217,7 +217,6 @@ discord.jsを触ってみたり、Skriptでマイクラに独自要素を追加�
 `[04/04 03:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#73`](https://github.com//TeamSekai/Sekai.Explode/issues/73 'playコマンドの実行時に、m.youtube.comのドメインが再生できない問題を修正する') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[04/04 03:49]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#83`](https://github.com//TeamSekai/Sekai.Explode/pull/83 'discord-player等依存関係の更新') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[04/04 03:48]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#83`](https://github.com//TeamSekai/Sekai.Explode/pull/83 'discord-player等依存関係の更新') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[04/03 13:08]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#11`](https://github.com//TeamSekai/cdn/issues/11 'Polyfill import.meta.dirname') in [TeamSekai/cdn](https://github.com/TeamSekai/cdn)  
 
 </details>
 <!--END_SECTION:activity-->
