@@ -33,6 +33,8 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[05/05 12:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `109` commits in [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
+`[05/05 12:59]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`feature/add-gtag`](https://github.com/TeamSekai/Sekai.CDN/tree/feature/add-gtag) in [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
 `[05/05 12:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/ringo360](https://github.com/ringo360/ringo360)  
 `[05/05 08:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [natemoo-re/clack](https://github.com/natemoo-re/clack)  
 `[05/04 11:57]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#17`](https://github.com//TeamSekai/Sekai.CDN/issues/17 'パンくずリスト') in [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
@@ -41,11 +43,11 @@ Please visit [my page](https://ringoxd.dev/)!
 `[05/04 04:32]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ViaVersion/ViaVersion](https://github.com/ViaVersion/ViaVersion)  
 `[05/04 03:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [flori4nk/VelocityAutoReconnect](https://github.com/flori4nk/VelocityAutoReconnect)  
 `[05/04 03:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/blog](https://github.com/ringo360/blog)  
-`[05/03 16:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [ringo360/ringoxd-astro-pages](https://github.com/ringo360/ringoxd-astro-pages)  
-`[05/03 12:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [eggsy/lanyard-visualizer](https://github.com/eggsy/lanyard-visualizer)  
 
 <details><summary>Show More</summary>
 
+`[05/03 16:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [ringo360/ringoxd-astro-pages](https://github.com/ringo360/ringoxd-astro-pages)  
+`[05/03 12:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [eggsy/lanyard-visualizer](https://github.com/eggsy/lanyard-visualizer)  
 `[05/03 12:19]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/mediaman/tree/main) in [ringo360/mediaman](https://github.com/ringo360/mediaman)  
 `[05/03 12:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/mediaman](https://github.com/ringo360/mediaman)  
 `[05/03 12:19]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/mediaman](https://github.com/ringo360/mediaman)  
@@ -211,8 +213,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[04/04 04:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `54` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[04/04 04:09]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#84`](https://github.com//TeamSekai/Sekai.Explode/pull/84 'Sekai Update(v14-dev to v14-stable merge)') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[04/04 04:07]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#84`](https://github.com//TeamSekai/Sekai.Explode/pull/84 'Sekai Update(v14-dev to v14-stable merge)') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[04/04 03:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[04/04 03:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#73`](https://github.com//TeamSekai/Sekai.Explode/issues/73 'playコマンドの実行時に、m.youtube.comのドメインが再生できない問題を修正する') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 
 </details>
 <!--END_SECTION:activity-->
