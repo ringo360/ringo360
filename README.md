@@ -33,7 +33,7 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
-`[05/07 07:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
+`[05/07 08:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[05/07 02:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Plugily-Projects/MurderMystery](https://github.com/Plugily-Projects/MurderMystery)  
 `[05/07 02:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dexie/Dexie.js](https://github.com/dexie/Dexie.js)  
 `[05/06 14:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/mcje-ping](https://github.com/ringo360/mcje-ping)  
@@ -210,9 +210,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[04/08 22:10]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#92`](https://github.com//TeamSekai/Sekai.Explode/issues/92 '権限システムの改善と強化') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[04/07 07:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [TeamSekai/Sekai-Webpage](https://github.com/TeamSekai/Sekai-Webpage)  
 `[04/07 06:42]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#88`](https://github.com//TeamSekai/Sekai.Explode/issues/88 '/skip コマンド時特定のロール以外はVCに参加している半数の同意がない限りスキップができない(どうでもいいかも)') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[04/07 06:40]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#87`](https://github.com//TeamSekai/Sekai.Explode/issues/87 '音楽再生時にループ再生をできるようにしてほしい') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[04/07 06:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[04/07 06:39]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#89`](https://github.com//TeamSekai/Sekai.Explode/pull/89 '一部機能を無効化できるように') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 
 </details>
 <!--END_SECTION:activity-->
