@@ -33,8 +33,19 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[05/09 09:15]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#99`](https://github.com//TeamSekai/Sekai.Explode/issues/99 'サーバーごとの権限管理システム (#92)') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
+`[05/09 09:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `15` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
+`[05/09 09:15]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#92`](https://github.com//TeamSekai/Sekai.Explode/issues/92 '権限システムの改善と強化') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
+`[05/09 09:15]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#99`](https://github.com//TeamSekai/Sekai.Explode/pull/99 'サーバーごとの権限管理システム (#92)') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
+`[05/09 09:14]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#99`](https://github.com//TeamSekai/Sekai.Explode/pull/99 'サーバーごとの権限管理システム (#92)') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
+`[05/09 09:12]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#100`](https://github.com//TeamSekai/Sekai.Explode/pull/100 '中国語のREADME_CN.mdを追加。') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
+`[05/09 09:12]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#100`](https://github.com//TeamSekai/Sekai.Explode/pull/100 '中国語のREADME_CN.mdを追加。') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
+`[05/09 09:08]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#100`](https://github.com//TeamSekai/Sekai.Explode/issues/100 '中国語のREADME_CN.mdを追加。') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[05/09 07:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[05/09 06:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#99`](https://github.com//TeamSekai/Sekai.Explode/issues/99 'サーバーごとの権限管理システム (#92)') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
+
+<details><summary>Show More</summary>
+
 `[05/08 10:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/MCBE-DiscordBridge`</span>  
 `[05/07 14:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/blog](https://github.com/ringo360/blog)  
 `[05/07 08:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
@@ -43,9 +54,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[05/06 14:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/mcje-ping](https://github.com/ringo360/mcje-ping)  
 `[05/06 14:03]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/mcje-ping/tree/main) in [ringo360/mcje-ping](https://github.com/ringo360/mcje-ping)  
 `[05/06 14:03]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/mcje-ping](https://github.com/ringo360/mcje-ping)  
-
-<details><summary>Show More</summary>
-
 `[05/06 14:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mharj/minecraft-ping](https://github.com/mharj/minecraft-ping)  
 `[05/06 01:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/web-analytics](https://github.com/ringo360/web-analytics)  
 `[05/06 01:28]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/ringo360/web-analytics/tree/master) in [ringo360/web-analytics](https://github.com/ringo360/web-analytics)  
@@ -203,16 +211,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[04/09 08:21]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#77`](https://github.com//TeamSekai/Sekai.Explode/issues/77 '/uploadコマンドがファイルの種類によって使用できない') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[04/09 08:21]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#90`](https://github.com//TeamSekai/Sekai.Explode/pull/90 '/uploadコマンドが一部ファイルに対応していない問題を修正 (#77)') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[04/09 08:21]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#90`](https://github.com//TeamSekai/Sekai.Explode/pull/90 '/uploadコマンドが一部ファイルに対応していない問題を修正 (#77)') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[04/09 07:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)  
-`[04/09 06:43]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#90`](https://github.com//TeamSekai/Sekai.Explode/issues/90 '/uploadコマンドが一部ファイルに対応していない問題を修正 (#77)') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[04/08 22:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [saicaca/fuwari](https://github.com/saicaca/fuwari)  
-`[04/08 22:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Cretezy/cloudflare-d1-backup](https://github.com/Cretezy/cloudflare-d1-backup)  
-`[04/08 22:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ktym4a/astro-page-insight](https://github.com/ktym4a/astro-page-insight)  
-`[04/08 22:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [LuisFun/discord-hono](https://github.com/LuisFun/discord-hono)  
-`[04/08 22:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FreezeEngine/pakkit](https://github.com/FreezeEngine/pakkit)  
-`[04/08 22:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SIsilicon/WorldEdit-BE](https://github.com/SIsilicon/WorldEdit-BE)  
-`[04/08 22:10]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#92`](https://github.com//TeamSekai/Sekai.Explode/issues/92 '権限システムの改善と強化') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[04/07 07:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [TeamSekai/Sekai-Webpage](https://github.com/TeamSekai/Sekai-Webpage)  
 
 </details>
 <!--END_SECTION:activity-->
