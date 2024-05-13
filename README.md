@@ -33,7 +33,7 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
-`[05/12 13:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/nsfw-viewer`</span>  
+`[05/13 12:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in <span title="Private Repo">`🔒ringo360/nsfw-viewer`</span>  
 `[05/12 13:36]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/nsfw-viewer`</span>  
 `[05/12 13:36]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/nsfw-viewer`</span>  
 `[05/12 12:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mayuki/Mimosa](https://github.com/mayuki/Mimosa)  
@@ -208,7 +208,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[04/13 06:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [ringo360/blog](https://github.com/ringo360/blog)  
 `[04/12 09:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [yusukebe/url-shortener](https://github.com/yusukebe/url-shortener)  
 `[04/12 08:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [robertguss/Astro-Theme-Creek](https://github.com/robertguss/Astro-Theme-Creek)  
-`[04/12 08:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jonasmerlin/astro-seo](https://github.com/jonasmerlin/astro-seo)  
 
 </details>
 <!--END_SECTION:activity-->
