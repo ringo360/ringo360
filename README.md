@@ -33,6 +33,9 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[05/15 11:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/ojisan-api](https://github.com/ringo360/ojisan-api)  
+`[05/15 11:24]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/ojisan-api/tree/main) in [ringo360/ojisan-api](https://github.com/ringo360/ojisan-api)  
+`[05/15 11:24]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/ojisan-api](https://github.com/ringo360/ojisan-api)  
 `[05/15 10:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [greymd/ojichat](https://github.com/greymd/ojichat)  
 `[05/15 09:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/bio-workers`</span>  
 `[05/15 09:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/bio-page`</span>  
@@ -40,12 +43,12 @@ Please visit [my page](https://ringoxd.dev/)!
 `[05/14 23:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)  
 `[05/14 10:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/nsfw-viewer-v2`</span>  
 `[05/14 08:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
-`[05/14 07:20]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//ringo360/wakeup-and-sleep-app/issues/1 'register system') in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
-`[05/14 07:19]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//ringo360/wakeup-and-sleep-app/issues/1 'register system') in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
-`[05/14 06:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 
 <details><summary>Show More</summary>
 
+`[05/14 07:20]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//ringo360/wakeup-and-sleep-app/issues/1 'register system') in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
+`[05/14 07:19]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//ringo360/wakeup-and-sleep-app/issues/1 'register system') in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
+`[05/14 06:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[05/14 06:38]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//ringo360/wakeup-and-sleep-app/issues/1 'register system') in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[05/14 00:43]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on `#1` in <span title="Private Repo">`🔒ringo360/nsfw-viewer-v2`</span>  
 `[05/13 23:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ucchyocean/LunaChat](https://github.com/ucchyocean/LunaChat)  
@@ -211,9 +214,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[04/19 07:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cegatte/Discord-Raider-fixed](https://github.com/cegatte/Discord-Raider-fixed)  
 `[04/17 22:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [IrisDimensions/overworld](https://github.com/IrisDimensions/overworld)  
 `[04/17 22:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Strencher/BetterDiscordStuff](https://github.com/Strencher/BetterDiscordStuff)  
-`[04/16 10:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ambr0sial/femboyaccess](https://github.com/ambr0sial/femboyaccess)  
-`[04/15 22:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ClearVision/ClearVision-v6](https://github.com/ClearVision/ClearVision-v6)  
-`[04/15 09:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/bio-workers`</span>  
 
 </details>
 <!--END_SECTION:activity-->
