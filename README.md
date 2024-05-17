@@ -33,7 +33,7 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
-`[05/17 14:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [ringo360/mediaman](https://github.com/ringo360/mediaman)  
+`[05/17 14:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [ringo360/mediaman](https://github.com/ringo360/mediaman)  
 `[05/16 08:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[05/15 11:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/ojisan-api](https://github.com/ringo360/ojisan-api)  
 `[05/15 11:24]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/ojisan-api/tree/main) in [ringo360/ojisan-api](https://github.com/ringo360/ojisan-api)  
@@ -212,7 +212,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[04/20 03:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [PetricaT/ProgrammingVTuberLogos-Addon](https://github.com/PetricaT/ProgrammingVTuberLogos-Addon)  
 `[04/20 03:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Aspw-w/Python-Test](https://github.com/Aspw-w/Python-Test)  
 `[04/20 03:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Aspw-w/Shark-Client](https://github.com/Aspw-w/Shark-Client)  
-`[04/20 02:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [kaonasi-biwa/Twitter-UI-Customizer](https://github.com/kaonasi-biwa/Twitter-UI-Customizer)  
 
 </details>
 <!--END_SECTION:activity-->
