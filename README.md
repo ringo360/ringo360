@@ -33,7 +33,7 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
-`[05/18 11:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/mk-storm`</span>  
+`[05/18 12:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒ringo360/mk-storm`</span>  
 `[05/18 09:33]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/mk-storm`</span>  
 `[05/18 09:33]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/mk-storm`</span>  
 `[05/18 02:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#54`](https://github.com//sor4chi/hono-storage/issues/54 '[@hono-storage/node-disk] How do I dynamically create directories') in [sor4chi/hono-storage](https://github.com/sor4chi/hono-storage)  
@@ -213,8 +213,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[04/21 01:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [H4cK3dR4Du/Discord-Email-Verifier](https://github.com/H4cK3dR4Du/Discord-Email-Verifier)  
 `[04/21 01:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter)  
 `[04/20 17:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/blog](https://github.com/ringo360/blog)  
-`[04/20 11:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [z-huang/InnerTune](https://github.com/z-huang/InnerTune)  
-`[04/20 09:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/bio-page`</span>  
 
 </details>
 <!--END_SECTION:activity-->
