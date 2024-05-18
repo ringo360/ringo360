@@ -33,6 +33,9 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[05/18 01:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/mediaman](https://github.com/ringo360/mediaman)  
+`[05/18 01:45]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#54`](https://github.com//sor4chi/hono-storage/issues/54 '[@hono-storage/node-disk] How do I dynamically create directories') in [sor4chi/hono-storage](https://github.com/sor4chi/hono-storage)  
+`[05/18 01:42]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#54`](https://github.com//sor4chi/hono-storage/issues/54 '[@hono-storage/node-disk] How do I dynamically create directories') in [sor4chi/hono-storage](https://github.com/sor4chi/hono-storage)  
 `[05/17 23:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ZeroMemes/Bedrock-Modding-Wiki](https://github.com/ZeroMemes/Bedrock-Modding-Wiki)  
 `[05/17 14:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [ringo360/mediaman](https://github.com/ringo360/mediaman)  
 `[05/16 08:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
@@ -40,12 +43,12 @@ Please visit [my page](https://ringoxd.dev/)!
 `[05/15 11:24]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/ojisan-api/tree/main) in [ringo360/ojisan-api](https://github.com/ringo360/ojisan-api)  
 `[05/15 11:24]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/ojisan-api](https://github.com/ringo360/ojisan-api)  
 `[05/15 10:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [greymd/ojichat](https://github.com/greymd/ojichat)  
-`[05/15 09:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/bio-workers`</span>  
-`[05/15 09:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/bio-page`</span>  
-`[05/15 08:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page)  
 
 <details><summary>Show More</summary>
 
+`[05/15 09:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/bio-workers`</span>  
+`[05/15 09:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/bio-page`</span>  
+`[05/15 08:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page)  
 `[05/14 23:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)  
 `[05/14 10:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/nsfw-viewer-v2`</span>  
 `[05/14 08:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
@@ -209,9 +212,7 @@ Please visit [my page](https://ringoxd.dev/)!
 `[04/20 11:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [z-huang/InnerTune](https://github.com/z-huang/InnerTune)  
 `[04/20 09:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in <span title="Private Repo">`🔒ringo360/bio-page`</span>  
 `[04/20 04:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/bio-workers`</span>  
-`[04/20 04:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `9` commits in <span title="Private Repo">`🔒ringo360/bio-page`</span>  
-`[04/20 03:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [PetricaT/ProgrammingVTuberLogos-Addon](https://github.com/PetricaT/ProgrammingVTuberLogos-Addon)  
-`[04/20 03:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Aspw-w/Python-Test](https://github.com/Aspw-w/Python-Test)  
+`[04/20 04:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in <span title="Private Repo">`🔒ringo360/bio-page`</span>  
 
 </details>
 <!--END_SECTION:activity-->
