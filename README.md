@@ -33,6 +33,9 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[05/19 02:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [avinashpaliwal/Super-SloMo](https://github.com/avinashpaliwal/Super-SloMo)  
+`[05/19 02:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [open-mmlab/mmagic](https://github.com/open-mmlab/mmagic)  
+`[05/19 02:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)  
 `[05/19 02:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [ringo360/mediaman](https://github.com/ringo360/mediaman)  
 `[05/19 01:28]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#54`](https://github.com//sor4chi/hono-storage/issues/54 '[@hono-storage/node-disk] How do I dynamically create directories') in [sor4chi/hono-storage](https://github.com/sor4chi/hono-storage)  
 `[05/18 12:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒ringo360/mk-storm`</span>  
@@ -40,12 +43,12 @@ Please visit [my page](https://ringoxd.dev/)!
 `[05/18 09:33]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/mk-storm`</span>  
 `[05/18 02:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#54`](https://github.com//sor4chi/hono-storage/issues/54 '[@hono-storage/node-disk] How do I dynamically create directories') in [sor4chi/hono-storage](https://github.com/sor4chi/hono-storage)  
 `[05/18 01:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/mediaman](https://github.com/ringo360/mediaman)  
-`[05/18 01:45]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#54`](https://github.com//sor4chi/hono-storage/issues/54 '[@hono-storage/node-disk] How do I dynamically create directories') in [sor4chi/hono-storage](https://github.com/sor4chi/hono-storage)  
-`[05/18 01:42]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#54`](https://github.com//sor4chi/hono-storage/issues/54 '[@hono-storage/node-disk] How do I dynamically create directories') in [sor4chi/hono-storage](https://github.com/sor4chi/hono-storage)  
-`[05/17 23:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ZeroMemes/Bedrock-Modding-Wiki](https://github.com/ZeroMemes/Bedrock-Modding-Wiki)  
 
 <details><summary>Show More</summary>
 
+`[05/18 01:45]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#54`](https://github.com//sor4chi/hono-storage/issues/54 '[@hono-storage/node-disk] How do I dynamically create directories') in [sor4chi/hono-storage](https://github.com/sor4chi/hono-storage)  
+`[05/18 01:42]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#54`](https://github.com//sor4chi/hono-storage/issues/54 '[@hono-storage/node-disk] How do I dynamically create directories') in [sor4chi/hono-storage](https://github.com/sor4chi/hono-storage)  
+`[05/17 23:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ZeroMemes/Bedrock-Modding-Wiki](https://github.com/ZeroMemes/Bedrock-Modding-Wiki)  
 `[05/17 14:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [ringo360/mediaman](https://github.com/ringo360/mediaman)  
 `[05/16 08:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[05/15 11:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/ojisan-api](https://github.com/ringo360/ojisan-api)  
@@ -209,8 +212,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[04/22 09:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
 `[04/22 09:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/yamatomc`</span>  
 `[04/22 08:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Matleox/Matleox-Nuker](https://github.com/Matleox/Matleox-Nuker)  
-`[04/21 22:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [m1ntooo/ipod-classic-js](https://github.com/m1ntooo/ipod-classic-js)  
-`[04/21 09:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/mayasv`</span>  
 
 </details>
 <!--END_SECTION:activity-->
