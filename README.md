@@ -33,6 +33,7 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[05/19 07:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SpotCompiled/SpotilifeC](https://github.com/SpotCompiled/SpotilifeC)  
 `[05/19 06:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [shiftkey/desktop](https://github.com/shiftkey/desktop)  
 `[05/19 02:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [avinashpaliwal/Super-SloMo](https://github.com/avinashpaliwal/Super-SloMo)  
 `[05/19 02:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [open-mmlab/mmagic](https://github.com/open-mmlab/mmagic)  
@@ -42,10 +43,10 @@ Please visit [my page](https://ringoxd.dev/)!
 `[05/18 12:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒ringo360/mk-storm`</span>  
 `[05/18 09:33]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/mk-storm`</span>  
 `[05/18 09:33]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/mk-storm`</span>  
-`[05/18 02:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#54`](https://github.com//sor4chi/hono-storage/issues/54 '[@hono-storage/node-disk] How do I dynamically create directories') in [sor4chi/hono-storage](https://github.com/sor4chi/hono-storage)  
 
 <details><summary>Show More</summary>
 
+`[05/18 02:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#54`](https://github.com//sor4chi/hono-storage/issues/54 '[@hono-storage/node-disk] How do I dynamically create directories') in [sor4chi/hono-storage](https://github.com/sor4chi/hono-storage)  
 `[05/18 01:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/mediaman](https://github.com/ringo360/mediaman)  
 `[05/18 01:45]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#54`](https://github.com//sor4chi/hono-storage/issues/54 '[@hono-storage/node-disk] How do I dynamically create directories') in [sor4chi/hono-storage](https://github.com/sor4chi/hono-storage)  
 `[05/18 01:42]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#54`](https://github.com//sor4chi/hono-storage/issues/54 '[@hono-storage/node-disk] How do I dynamically create directories') in [sor4chi/hono-storage](https://github.com/sor4chi/hono-storage)  
@@ -212,7 +213,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[04/22 09:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ringo360/yamatomc`</span>  
 `[04/22 09:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
 `[04/22 09:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/yamatomc`</span>  
-`[04/22 08:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Matleox/Matleox-Nuker](https://github.com/Matleox/Matleox-Nuker)  
 
 </details>
 <!--END_SECTION:activity-->
