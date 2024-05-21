@@ -33,19 +33,24 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[05/21 07:36]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#4`](https://github.com//ringo360/wakeup-and-sleep-app/issues/4 'コード整理') in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
+`[05/21 07:36]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#4`](https://github.com//ringo360/wakeup-and-sleep-app/issues/4 'コード整理') in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
+`[05/21 07:36]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2`](https://github.com//ringo360/wakeup-and-sleep-app/issues/2 '睡眠記録をとれるようにする') in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
+`[05/21 07:36]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2`](https://github.com//ringo360/wakeup-and-sleep-app/issues/2 '睡眠記録をとれるようにする') in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
+`[05/21 07:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[05/21 07:07]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#2`](https://github.com//ringo360/wakeup-and-sleep-app/issues/2 '睡眠記録をとれるようにする') in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[05/21 07:06]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3`](https://github.com//ringo360/wakeup-and-sleep-app/issues/3 'ログイン/ログアウト') in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[05/21 07:06]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3`](https://github.com//ringo360/wakeup-and-sleep-app/issues/3 'ログイン/ログアウト') in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[05/20 23:11]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#3`](https://github.com//ringo360/wakeup-and-sleep-app/issues/3 'ログイン/ログアウト') in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[05/20 23:11]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#2`](https://github.com//ringo360/wakeup-and-sleep-app/issues/2 '睡眠記録をとれるようにする') in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
+
+<details><summary>Show More</summary>
+
 `[05/20 23:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//ringo360/wakeup-and-sleep-app/issues/1 'register system') in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[05/20 23:11]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1`](https://github.com//ringo360/wakeup-and-sleep-app/issues/1 'register system') in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[05/20 23:06]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SpikeHD/Dorion](https://github.com/SpikeHD/Dorion)  
 `[05/20 13:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/itzme-setup`</span>  
 `[05/20 02:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [alirezakay/nodejs-media-converter](https://github.com/alirezakay/nodejs-media-converter)  
-
-<details><summary>Show More</summary>
-
 `[05/19 13:21]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`feature/music-loop`](https://github.com/TeamSekai/Sekai.Explode/tree/feature/music-loop) in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[05/19 10:47]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#185`](https://github.com//natemoo-re/clack/issues/185 '[Request] release version need tasks api') in [natemoo-re/clack](https://github.com/natemoo-re/clack)  
 `[05/19 09:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/mediaman`</span>  
@@ -203,10 +208,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[04/24 13:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [taka-4602/Discord-Backup-Bot](https://github.com/taka-4602/Discord-Backup-Bot)  
 `[04/24 13:03]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/quicksender`</span>  
 `[04/24 13:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/quicksender`</span>  
-`[04/24 13:03]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/quicksender`</span>  
-`[04/24 13:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/WebhookSpammer`</span>  
-`[04/24 08:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/mayasv`</span>  
-`[04/24 08:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
 
 </details>
 <!--END_SECTION:activity-->
