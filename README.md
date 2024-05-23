@@ -33,6 +33,7 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[05/23 05:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[05/23 00:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FrederoxDev/Bedrock-Modding-Wiki](https://github.com/FrederoxDev/Bedrock-Modding-Wiki)  
 `[05/22 23:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [konomi-tokyo/tokyo-proxy-V5](https://github.com/konomi-tokyo/tokyo-proxy-V5)  
 `[05/22 22:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [amalmurali47/git_rce](https://github.com/amalmurali47/git_rce)  
@@ -42,10 +43,10 @@ Please visit [my page](https://ringoxd.dev/)!
 `[05/22 13:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#2` in <span title="Private Repo">`🔒ringo360/biopage-rewrite`</span>  
 `[05/22 13:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#1` in <span title="Private Repo">`🔒ringo360/mediaman`</span>  
 `[05/22 13:56]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#1` in <span title="Private Repo">`🔒ringo360/itzme-setup`</span>  
-`[05/22 13:46]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on `#1` in <span title="Private Repo">`🔒ringo360/biopage-rewrite`</span>  
 
 <details><summary>Show More</summary>
 
+`[05/22 13:46]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on `#1` in <span title="Private Repo">`🔒ringo360/biopage-rewrite`</span>  
 `[05/22 13:46]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#1` in <span title="Private Repo">`🔒ringo360/biopage-rewrite`</span>  
 `[05/22 13:45]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on `#1` in <span title="Private Repo">`🔒ringo360/bio-page`</span>  
 `[05/22 13:45]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue `#1` in <span title="Private Repo">`🔒ringo360/bio-page`</span>  
@@ -212,7 +213,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[04/28 01:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/blog](https://github.com/ringo360/blog)  
 `[04/27 23:27]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [LiteLDev/LeviLamina](https://github.com/LiteLDev/LeviLamina)  
 `[04/27 23:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [AutumnVN/bot](https://github.com/AutumnVN/bot)  
-`[04/27 15:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/URL-Shortener](https://github.com/ringo360/URL-Shortener)  
 
 </details>
 <!--END_SECTION:activity-->
