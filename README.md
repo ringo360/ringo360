@@ -33,6 +33,8 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[05/25 04:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/bio-page`</span>  
+`[05/25 04:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/biopage-rewrite`</span>  
 `[05/24 23:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [joaokristani/Discord-Server-Cloner-2x](https://github.com/joaokristani/Discord-Server-Cloner-2x)  
 `[05/24 15:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒ringo360/nyanpasu-spammer`</span>  
 `[05/24 14:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Opti-mod/Opti](https://github.com/Opti-mod/Opti)  
@@ -41,11 +43,11 @@ Please visit [my page](https://ringoxd.dev/)!
 `[05/23 05:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[05/23 00:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FrederoxDev/Bedrock-Modding-Wiki](https://github.com/FrederoxDev/Bedrock-Modding-Wiki)  
 `[05/22 23:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [konomi-tokyo/tokyo-proxy-V5](https://github.com/konomi-tokyo/tokyo-proxy-V5)  
-`[05/22 22:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [amalmurali47/git_rce](https://github.com/amalmurali47/git_rce)  
-`[05/22 22:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [syumai/go-image-proxy-worker](https://github.com/syumai/go-image-proxy-worker)  
 
 <details><summary>Show More</summary>
 
+`[05/22 22:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [amalmurali47/git_rce](https://github.com/amalmurali47/git_rce)  
+`[05/22 22:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [syumai/go-image-proxy-worker](https://github.com/syumai/go-image-proxy-worker)  
 `[05/22 13:58]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#2` in <span title="Private Repo">`🔒ringo360/bio-workers`</span>  
 `[05/22 13:57]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on `#2` in <span title="Private Repo">`🔒ringo360/biopage-rewrite`</span>  
 `[05/22 13:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#2` in <span title="Private Repo">`🔒ringo360/biopage-rewrite`</span>  
@@ -208,8 +210,7 @@ Please visit [my page](https://ringoxd.dev/)!
 `[04/30 06:39]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[04/29 00:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [WiIIiam278/PAPIProxyBridge](https://github.com/WiIIiam278/PAPIProxyBridge)  
 `[04/28 16:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in <span title="Private Repo">`🔒ringo360/privatebot`</span>  
-`[04/28 13:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `18` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[04/28 13:35]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#94`](https://github.com//TeamSekai/Sekai.Explode/issues/94 '年齢を調べるコマンドの追加') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
+`[04/28 13:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 
 </details>
 <!--END_SECTION:activity-->
