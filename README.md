@@ -262,7 +262,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[05/03 02:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dochne/wappalyzer](https://github.com/dochne/wappalyzer)  
 `[05/03 01:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ringo360/bio-workers`</span>  
 `[05/03 00:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Mist0090/Monoxide-peaceful](https://github.com/Mist0090/Monoxide-peaceful)  
-`[05/02 22:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets)  
 
 </details>
 <!--END_SECTION:activity-->
