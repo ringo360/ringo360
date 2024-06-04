@@ -33,6 +33,8 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[06/04 14:10]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3`](https://github.com//ringo360/wakeup-and-sleep-app/issues/3 'ログイン/ログアウト') in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
+`[06/04 14:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [coltonk9043/Aoba-MC-Hacked-Client](https://github.com/coltonk9043/Aoba-MC-Hacked-Client)  
 `[06/04 13:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [LunarClient/Apollo](https://github.com/LunarClient/Apollo)  
 `[06/04 08:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[06/04 04:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [total-typescript/error-messages-tutorial](https://github.com/total-typescript/error-messages-tutorial)  
@@ -41,11 +43,11 @@ Please visit [my page](https://ringoxd.dev/)!
 `[06/03 12:27]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/gban-parser`</span>  
 `[06/02 23:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [akku1139/hono-ja](https://github.com/akku1139/hono-ja)  
 `[06/02 15:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mr04vv/blog](https://github.com/mr04vv/blog)  
-`[06/02 14:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/my-notes`</span>  
-`[06/02 13:46]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `master` in <span title="Private Repo">`🔒ringo360/my-notes`</span>  
 
 <details><summary>Show More</summary>
 
+`[06/02 14:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/my-notes`</span>  
+`[06/02 13:46]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `master` in <span title="Private Repo">`🔒ringo360/my-notes`</span>  
 `[06/02 13:46]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/my-notes`</span>  
 `[06/02 12:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)  
 `[06/02 09:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jcs224/hono_sessions](https://github.com/jcs224/hono_sessions)  
@@ -259,8 +261,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[05/03 11:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/blog](https://github.com/ringo360/blog)  
 `[05/03 08:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [glitch65/Five-nuker](https://github.com/glitch65/Five-nuker)  
 `[05/03 07:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#98`](https://github.com//TeamSekai/Sekai.Explode/issues/98 '/gbanにtimeout機能') in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
-`[05/03 06:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/ringoxd-astro-pages](https://github.com/ringo360/ringoxd-astro-pages)  
-`[05/03 05:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/blog](https://github.com/ringo360/blog)  
 
 </details>
 <!--END_SECTION:activity-->
