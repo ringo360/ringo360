@@ -33,7 +33,7 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
-`[06/05 10:19]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/my-notes`</span>  
+`[06/05 10:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/my-notes`</span>  
 `[06/04 14:10]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3`](https://github.com//ringo360/wakeup-and-sleep-app/issues/3 'ログイン/ログアウト') in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[06/04 14:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [coltonk9043/Aoba-MC-Hacked-Client](https://github.com/coltonk9043/Aoba-MC-Hacked-Client)  
 `[06/04 13:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [LunarClient/Apollo](https://github.com/LunarClient/Apollo)  
@@ -260,7 +260,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[05/03 16:32]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [ringo360/ringoxd-astro-pages](https://github.com/ringo360/ringoxd-astro-pages)  
 `[05/03 12:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [eggsy/lanyard-visualizer](https://github.com/eggsy/lanyard-visualizer)  
 `[05/03 11:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/blog](https://github.com/ringo360/blog)  
-`[05/03 08:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [glitch65/Five-nuker](https://github.com/glitch65/Five-nuker)  
 
 </details>
 <!--END_SECTION:activity-->
