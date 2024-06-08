@@ -33,6 +33,7 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[06/08 15:37]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1095`](https://github.com//nexe/nexe/issues/1095 'Error: Cannot find module \'node:util\'') in [nexe/nexe](https://github.com/nexe/nexe)  
 `[06/08 14:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cyberblackhole/7zip-crack](https://github.com/cyberblackhole/7zip-crack)  
 `[06/08 11:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [ringo360/ringoxd.dev-v2](https://github.com/ringo360/ringoxd.dev-v2)  
 `[06/08 08:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [PrismarineJS/bedrock-protocol](https://github.com/PrismarineJS/bedrock-protocol)  
@@ -42,10 +43,10 @@ Please visit [my page](https://ringoxd.dev/)!
 `[06/08 03:11]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/dmap-spammer`</span>  
 `[06/08 03:11]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/dmap-spammer`</span>  
 `[06/07 08:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [17teen/Discord-Mass-DM-Tool](https://github.com/17teen/Discord-Mass-DM-Tool)  
-`[06/07 08:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ddf8196/bgfx-mcbe](https://github.com/ddf8196/bgfx-mcbe)  
 
 <details><summary>Show More</summary>
 
+`[06/07 08:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ddf8196/bgfx-mcbe](https://github.com/ddf8196/bgfx-mcbe)  
 `[06/07 08:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [1-Rasky-1/bgfx-mcbe](https://github.com/1-Rasky-1/bgfx-mcbe)  
 `[06/07 04:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EdamAme-x/nextyping](https://github.com/EdamAme-x/nextyping)  
 `[06/06 15:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/ringoxd.dev-v2](https://github.com/ringo360/ringoxd.dev-v2)  
@@ -264,7 +265,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[05/05 14:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `0` commits in [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
 `[05/05 14:44]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `feature/add-gtag` from [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
 `[05/05 14:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
-`[05/05 14:44]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#19`](https://github.com//TeamSekai/Sekai.CDN/pull/19 'bugfix') in [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
 
 </details>
 <!--END_SECTION:activity-->
