@@ -33,6 +33,8 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[06/08 03:11]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/dmap-spammer`</span>  
+`[06/08 03:11]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/dmap-spammer`</span>  
 `[06/07 08:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [17teen/Discord-Mass-DM-Tool](https://github.com/17teen/Discord-Mass-DM-Tool)  
 `[06/07 08:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ddf8196/bgfx-mcbe](https://github.com/ddf8196/bgfx-mcbe)  
 `[06/07 08:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [1-Rasky-1/bgfx-mcbe](https://github.com/1-Rasky-1/bgfx-mcbe)  
@@ -41,11 +43,11 @@ Please visit [my page](https://ringoxd.dev/)!
 `[06/06 13:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bdsx/bdsx](https://github.com/bdsx/bdsx)  
 `[06/06 12:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [LiteLDev/LeviScript](https://github.com/LiteLDev/LeviScript)  
 `[06/06 12:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lippkg/lip](https://github.com/lippkg/lip)  
-`[06/06 12:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [LiteLDev/LeviLamina](https://github.com/LiteLDev/LeviLamina)  
-`[06/05 23:00]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1095`](https://github.com//nexe/nexe/issues/1095 'Error: Cannot find module \'node:util\'') in [nexe/nexe](https://github.com/nexe/nexe)  
 
 <details><summary>Show More</summary>
 
+`[06/06 12:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [LiteLDev/LeviLamina](https://github.com/LiteLDev/LeviLamina)  
+`[06/05 23:00]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1095`](https://github.com//nexe/nexe/issues/1095 'Error: Cannot find module \'node:util\'') in [nexe/nexe](https://github.com/nexe/nexe)  
 `[06/05 14:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/ringoxd.dev-v2](https://github.com/ringo360/ringoxd.dev-v2)  
 `[06/05 12:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/my-notes`</span>  
 `[06/05 12:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)  
@@ -263,8 +265,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[05/05 14:20]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#18`](https://github.com//TeamSekai/Sekai.CDN/pull/18 'Gtagを定義可能に') in [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
 `[05/05 14:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `111` commits in [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
 `[05/05 12:59]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`feature/add-gtag`](https://github.com/TeamSekai/Sekai.CDN/tree/feature/add-gtag) in [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
-`[05/05 12:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/ringo360](https://github.com/ringo360/ringo360)  
-`[05/05 08:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [natemoo-re/clack](https://github.com/natemoo-re/clack)  
 
 </details>
 <!--END_SECTION:activity-->
