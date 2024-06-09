@@ -33,6 +33,7 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[06/09 07:17]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [agalwood/Motrix](https://github.com/agalwood/Motrix)  
 `[06/09 04:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/quicksender`</span>  
 `[06/09 04:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vmfunc/vmfunc](https://github.com/vmfunc/vmfunc)  
 `[06/09 03:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [VolmitSoftware/Iris](https://github.com/VolmitSoftware/Iris)  
@@ -42,10 +43,10 @@ Please visit [my page](https://ringoxd.dev/)!
 `[06/08 16:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/spam-site](https://github.com/ringo360/spam-site)  
 `[06/08 15:51]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1095`](https://github.com//nexe/nexe/issues/1095 'Error: Cannot find module \'node:util\'') in [nexe/nexe](https://github.com/nexe/nexe)  
 `[06/08 15:51]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1095`](https://github.com//nexe/nexe/issues/1095 'Error: Cannot find module \'node:util\'') in [nexe/nexe](https://github.com/nexe/nexe)  
-`[06/08 15:37]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1095`](https://github.com//nexe/nexe/issues/1095 'Error: Cannot find module \'node:util\'') in [nexe/nexe](https://github.com/nexe/nexe)  
 
 <details><summary>Show More</summary>
 
+`[06/08 15:37]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1095`](https://github.com//nexe/nexe/issues/1095 'Error: Cannot find module \'node:util\'') in [nexe/nexe](https://github.com/nexe/nexe)  
 `[06/08 14:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [cyberblackhole/7zip-crack](https://github.com/cyberblackhole/7zip-crack)  
 `[06/08 11:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [ringo360/ringoxd.dev-v2](https://github.com/ringo360/ringoxd.dev-v2)  
 `[06/08 08:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [PrismarineJS/bedrock-protocol](https://github.com/PrismarineJS/bedrock-protocol)  
@@ -261,7 +262,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[05/08 10:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/MCBE-DiscordBridge`</span>  
 `[05/07 14:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/blog](https://github.com/ringo360/blog)  
 `[05/07 08:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
-`[05/07 02:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Plugily-Projects/MurderMystery](https://github.com/Plugily-Projects/MurderMystery)  
 
 </details>
 <!--END_SECTION:activity-->
