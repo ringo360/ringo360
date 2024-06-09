@@ -262,7 +262,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[05/07 14:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/blog](https://github.com/ringo360/blog)  
 `[05/07 08:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[05/07 02:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Plugily-Projects/MurderMystery](https://github.com/Plugily-Projects/MurderMystery)  
-`[05/07 02:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dexie/Dexie.js](https://github.com/dexie/Dexie.js)  
 
 </details>
 <!--END_SECTION:activity-->
