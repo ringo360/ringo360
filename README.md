@@ -262,7 +262,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[05/07 02:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dexie/Dexie.js](https://github.com/dexie/Dexie.js)  
 `[05/06 14:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/mcje-ping](https://github.com/ringo360/mcje-ping)  
 `[05/06 14:03]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/mcje-ping/tree/main) in [ringo360/mcje-ping](https://github.com/ringo360/mcje-ping)  
-`[05/06 14:03]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/mcje-ping](https://github.com/ringo360/mcje-ping)  
 
 </details>
 <!--END_SECTION:activity-->
