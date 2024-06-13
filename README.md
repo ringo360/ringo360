@@ -33,6 +33,7 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[06/13 07:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[06/13 00:48]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#7`](https://github.com//ringo360/wakeup-and-sleep-app/issues/7 '(フロントエンド) ちゃんとpostする') in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[06/12 14:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [ringo360/ringoxd.dev-v2](https://github.com/ringo360/ringoxd.dev-v2)  
 `[06/12 04:10]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#3`](https://github.com//ringo360/ringoxd.dev-v2/issues/3 '(/products) つくったものリスト') in [ringo360/ringoxd.dev-v2](https://github.com/ringo360/ringoxd.dev-v2)  
@@ -42,10 +43,10 @@ Please visit [my page](https://ringoxd.dev/)!
 `[06/11 23:14]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6`](https://github.com//ringo360/wakeup-and-sleep-app/issues/6 '[#3] 適当に入力したらログインできる問題') in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[06/11 09:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[06/11 08:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#6`](https://github.com//ringo360/wakeup-and-sleep-app/issues/6 '[#3] 適当に入力したらログインできる問題') in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
-`[06/11 08:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 
 <details><summary>Show More</summary>
 
+`[06/11 08:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[06/11 08:11]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#6`](https://github.com//ringo360/wakeup-and-sleep-app/issues/6 '[#3] 適当に入力したらログインできる問題') in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[06/11 08:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[06/10 14:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TheNewEconomy/PhantomWorlds](https://github.com/TheNewEconomy/PhantomWorlds)  
@@ -257,7 +258,7 @@ Please visit [my page](https://ringoxd.dev/)!
 `[05/12 12:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mayuki/Mimosa](https://github.com/mayuki/Mimosa)  
 `[05/12 12:20]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [r-u-c-y/discord-fast-message](https://github.com/r-u-c-y/discord-fast-message)  
 `[05/12 07:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sor4chi/hono-storage](https://github.com/sor4chi/hono-storage)  
-`[05/12 05:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in <span title="Private Repo">`🔒ringo360/bio-page`</span>  
+`[05/12 05:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in <span title="Private Repo">`🔒ringo360/bio-page`</span>  
 
 </details>
 <!--END_SECTION:activity-->
