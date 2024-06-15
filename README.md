@@ -33,7 +33,7 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
-`[06/15 04:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
+`[06/15 04:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
 `[06/15 03:54]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`feature/offset`](https://github.com/TeamSekai/Sekai.CDN/tree/feature/offset) in [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
 `[06/14 13:30]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/quicksender-multi`</span>  
 `[06/14 13:30]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/quicksender-multi`</span>  
@@ -253,9 +253,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[05/18 09:33]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/mk-storm`</span>  
 `[05/18 09:33]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/mk-storm`</span>  
 `[05/18 02:12]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#54`](https://github.com//sor4chi/hono-storage/issues/54 '[@hono-storage/node-disk] How do I dynamically create directories') in [sor4chi/hono-storage](https://github.com/sor4chi/hono-storage)  
-`[05/18 01:45]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#54`](https://github.com//sor4chi/hono-storage/issues/54 '[@hono-storage/node-disk] How do I dynamically create directories') in [sor4chi/hono-storage](https://github.com/sor4chi/hono-storage)  
-`[05/18 01:42]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#54`](https://github.com//sor4chi/hono-storage/issues/54 '[@hono-storage/node-disk] How do I dynamically create directories') in [sor4chi/hono-storage](https://github.com/sor4chi/hono-storage)  
-`[05/17 23:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ZeroMemes/Bedrock-Modding-Wiki](https://github.com/ZeroMemes/Bedrock-Modding-Wiki)  
 
 </details>
 <!--END_SECTION:activity-->
