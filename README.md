@@ -33,6 +33,7 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[06/16 04:35]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/hono-proxy`</span>  
 `[06/16 02:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TeamPiped/Piped](https://github.com/TeamPiped/Piped)  
 `[06/16 02:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/hono-proxy](https://github.com/ringo360/hono-proxy)  
 `[06/16 02:46]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [EdamAme-x/cf-worker-proxy](https://github.com/EdamAme-x/cf-worker-proxy) to [ringo360/hono-proxy](https://github.com/ringo360/hono-proxy)  
@@ -42,10 +43,10 @@ Please visit [my page](https://ringoxd.dev/)!
 `[06/15 12:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ringo360/bio-workers`</span>  
 `[06/15 11:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EdamAme-x/cf-worker-proxy](https://github.com/EdamAme-x/cf-worker-proxy)  
 `[06/15 11:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
-`[06/15 10:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `17` commits in [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
 
 <details><summary>Show More</summary>
 
+`[06/15 10:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `17` commits in [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
 `[06/15 10:00]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#20`](https://github.com//TeamSekai/Sekai.CDN/pull/20 'offsetを指定可能に') in [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
 `[06/15 10:00]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#20`](https://github.com//TeamSekai/Sekai.CDN/issues/20 'offsetを指定可能に') in [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
 `[06/15 09:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
@@ -240,7 +241,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[05/21 22:52]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#1` in <span title="Private Repo">`🔒ringo360/bio-page`</span>  
 `[05/21 22:50]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#1` in <span title="Private Repo">`🔒ringo360/bio-workers`</span>  
 `[05/21 22:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Kopamed/Raven-bPLUS](https://github.com/Kopamed/Raven-bPLUS)  
-`[05/21 11:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [airbnb/javascript](https://github.com/airbnb/javascript)  
 
 </details>
 <!--END_SECTION:activity-->
