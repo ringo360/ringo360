@@ -33,6 +33,9 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[06/17 14:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒ringo360/user-scripts`</span>  
+`[06/17 14:34]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/user-scripts`</span>  
+`[06/17 14:34]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/user-scripts`</span>  
 `[06/17 02:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Jannyboy11/InvSee-plus-plus](https://github.com/Jannyboy11/InvSee-plus-plus)  
 `[06/16 23:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EdamAme-x/niconico-video-db](https://github.com/EdamAme-x/niconico-video-db)  
 `[06/16 14:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in <span title="Private Repo">`🔒ringo360/hono-proxy`</span>  
@@ -40,12 +43,12 @@ Please visit [my page](https://ringoxd.dev/)!
 `[06/16 04:35]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/hono-proxy`</span>  
 `[06/16 02:50]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TeamPiped/Piped](https://github.com/TeamPiped/Piped)  
 `[06/16 02:47]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/hono-proxy](https://github.com/ringo360/hono-proxy)  
-`[06/16 02:46]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [EdamAme-x/cf-worker-proxy](https://github.com/EdamAme-x/cf-worker-proxy) to [ringo360/hono-proxy](https://github.com/ringo360/hono-proxy)  
-`[06/15 13:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/itzme-auth`</span>  
-`[06/15 13:18]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/itzme-auth`</span>  
 
 <details><summary>Show More</summary>
 
+`[06/16 02:46]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [EdamAme-x/cf-worker-proxy](https://github.com/EdamAme-x/cf-worker-proxy) to [ringo360/hono-proxy](https://github.com/ringo360/hono-proxy)  
+`[06/15 13:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/itzme-auth`</span>  
+`[06/15 13:18]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/itzme-auth`</span>  
 `[06/15 13:18]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/itzme-auth`</span>  
 `[06/15 12:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ringo360/bio-workers`</span>  
 `[06/15 11:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EdamAme-x/cf-worker-proxy](https://github.com/EdamAme-x/cf-worker-proxy)  
@@ -227,11 +230,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[05/23 05:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[05/23 00:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [FrederoxDev/Bedrock-Modding-Wiki](https://github.com/FrederoxDev/Bedrock-Modding-Wiki)  
 `[05/22 23:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [konomi-tokyo/tokyo-proxy-V5](https://github.com/konomi-tokyo/tokyo-proxy-V5)  
-`[05/22 22:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [amalmurali47/git_rce](https://github.com/amalmurali47/git_rce)  
-`[05/22 22:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [syumai/go-image-proxy-worker](https://github.com/syumai/go-image-proxy-worker)  
-`[05/22 13:58]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#2` in <span title="Private Repo">`🔒ringo360/bio-workers`</span>  
-`[05/22 13:57]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on `#2` in <span title="Private Repo">`🔒ringo360/biopage-rewrite`</span>  
-`[05/22 13:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#2` in <span title="Private Repo">`🔒ringo360/biopage-rewrite`</span>  
 
 </details>
 <!--END_SECTION:activity-->
