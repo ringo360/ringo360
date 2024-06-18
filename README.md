@@ -230,7 +230,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[05/24 15:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒ringo360/nyanpasu-spammer`</span>  
 `[05/24 14:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Opti-mod/Opti](https://github.com/Opti-mod/Opti)  
 `[05/24 14:37]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jplhomer/superflare](https://github.com/jplhomer/superflare)  
-`[05/23 12:46]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [upbit/pixivpy](https://github.com/upbit/pixivpy)  
 
 </details>
 <!--END_SECTION:activity-->
