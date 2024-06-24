@@ -33,6 +33,7 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[06/24 23:25]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#4`](https://github.com//ringo360/ringoxd.dev-v2/issues/4 'スマホ向けヘッダー') in [ringo360/ringoxd.dev-v2](https://github.com/ringo360/ringoxd.dev-v2)  
 `[06/24 21:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/quick-mp4-to-m3u8](https://github.com/ringo360/quick-mp4-to-m3u8)  
 `[06/24 14:21]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#1` in <span title="Private Repo">`🔒ringo360/Translator`</span>  
 `[06/24 14:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/Translator`</span>  
@@ -42,10 +43,10 @@ Please visit [my page](https://ringoxd.dev/)!
 `[06/24 11:12]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/quick-mp4-to-m3u8](https://github.com/ringo360/quick-mp4-to-m3u8)  
 `[06/24 11:12]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/quick-mp4-to-m3u8/tree/main) in [ringo360/quick-mp4-to-m3u8](https://github.com/ringo360/quick-mp4-to-m3u8)  
 `[06/24 02:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [TeamSekai/Sekai.Global](https://github.com/TeamSekai/Sekai.Global)  
-`[06/24 02:11]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#4`](https://github.com//TeamSekai/Sekai.Global/issues/4 'グローバルチャットの機構作成') in [TeamSekai/Sekai.Global](https://github.com/TeamSekai/Sekai.Global)  
 
 <details><summary>Show More</summary>
 
+`[06/24 02:11]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#4`](https://github.com//TeamSekai/Sekai.Global/issues/4 'グローバルチャットの機構作成') in [TeamSekai/Sekai.Global](https://github.com/TeamSekai/Sekai.Global)  
 `[06/24 02:11]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#3`](https://github.com//TeamSekai/Sekai.Global/issues/3 'カスタマイズ可能にする(グローバルチャットのチャンネル名など)') in [TeamSekai/Sekai.Global](https://github.com/TeamSekai/Sekai.Global)  
 `[06/24 02:11]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#2`](https://github.com//TeamSekai/Sekai.Global/issues/2 'Init (Discordへのログインまで)') in [TeamSekai/Sekai.Global](https://github.com/TeamSekai/Sekai.Global)  
 `[06/24 02:08]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//TeamSekai/Sekai.Global/issues/1 'Todo') in [TeamSekai/Sekai.Global](https://github.com/TeamSekai/Sekai.Global)  
@@ -230,9 +231,7 @@ Please visit [my page](https://ringoxd.dev/)!
 `[06/02 12:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)  
 `[06/02 09:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jcs224/hono_sessions](https://github.com/jcs224/hono_sessions)  
 `[06/02 09:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [shinosaki/hono-kv-session](https://github.com/shinosaki/hono-kv-session)  
-`[06/02 08:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/bio-workers`</span>  
-`[06/02 04:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Strangerrrs/Raven-bS](https://github.com/Strangerrrs/Raven-bS)  
-`[06/02 02:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/ringoxd.dev-v2](https://github.com/ringo360/ringoxd.dev-v2)  
+`[06/02 08:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/bio-workers`</span>  
 
 </details>
 <!--END_SECTION:activity-->
