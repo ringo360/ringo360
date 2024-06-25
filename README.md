@@ -33,6 +33,7 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[06/25 04:07]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#2`](https://github.com//ringo360/quick-mp4-to-m3u8/issues/2 'サムネイル作成') in [ringo360/quick-mp4-to-m3u8](https://github.com/ringo360/quick-mp4-to-m3u8)  
 `[06/25 00:49]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//ringo360/quick-mp4-to-m3u8/issues/1 'todo: output時のファイル名をかえる') in [ringo360/quick-mp4-to-m3u8](https://github.com/ringo360/quick-mp4-to-m3u8)  
 `[06/24 23:25]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#4`](https://github.com//ringo360/ringoxd.dev-v2/issues/4 'スマホ向けヘッダー') in [ringo360/ringoxd.dev-v2](https://github.com/ringo360/ringoxd.dev-v2)  
 `[06/24 21:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/quick-mp4-to-m3u8](https://github.com/ringo360/quick-mp4-to-m3u8)  
@@ -42,10 +43,10 @@ Please visit [my page](https://ringoxd.dev/)!
 `[06/24 14:02]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/Translator`</span>  
 `[06/24 13:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [ringo360/quick-mp4-to-m3u8](https://github.com/ringo360/quick-mp4-to-m3u8)  
 `[06/24 11:12]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/quick-mp4-to-m3u8](https://github.com/ringo360/quick-mp4-to-m3u8)  
-`[06/24 11:12]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/quick-mp4-to-m3u8/tree/main) in [ringo360/quick-mp4-to-m3u8](https://github.com/ringo360/quick-mp4-to-m3u8)  
 
 <details><summary>Show More</summary>
 
+`[06/24 11:12]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/quick-mp4-to-m3u8/tree/main) in [ringo360/quick-mp4-to-m3u8](https://github.com/ringo360/quick-mp4-to-m3u8)  
 `[06/24 02:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [TeamSekai/Sekai.Global](https://github.com/TeamSekai/Sekai.Global)  
 `[06/24 02:11]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#4`](https://github.com//TeamSekai/Sekai.Global/issues/4 'グローバルチャットの機構作成') in [TeamSekai/Sekai.Global](https://github.com/TeamSekai/Sekai.Global)  
 `[06/24 02:11]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#3`](https://github.com//TeamSekai/Sekai.Global/issues/3 'カスタマイズ可能にする(グローバルチャットのチャンネル名など)') in [TeamSekai/Sekai.Global](https://github.com/TeamSekai/Sekai.Global)  
@@ -231,7 +232,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[06/02 13:46]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/my-notes`</span>  
 `[06/02 12:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)  
 `[06/02 09:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jcs224/hono_sessions](https://github.com/jcs224/hono_sessions)  
-`[06/02 09:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [shinosaki/hono-kv-session](https://github.com/shinosaki/hono-kv-session)  
 
 </details>
 <!--END_SECTION:activity-->
