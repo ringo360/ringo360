@@ -33,7 +33,7 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
-`[06/30 11:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/selfbot`</span>  
+`[06/30 11:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ringo360/selfbot`</span>  
 `[06/30 09:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [itorr/homo](https://github.com/itorr/homo)  
 `[06/30 00:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Niek/chatgpt-web](https://github.com/Niek/chatgpt-web)  
 `[06/29 14:25]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#1` in <span title="Private Repo">`🔒ringo360/QuickJoiner`</span>  
@@ -231,7 +231,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[06/06 12:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [LiteLDev/LeviLamina](https://github.com/LiteLDev/LeviLamina)  
 `[06/05 23:00]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1095`](https://github.com//nexe/nexe/issues/1095 'Error: Cannot find module \'node:util\'') in [nexe/nexe](https://github.com/nexe/nexe)  
 `[06/05 14:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/ringoxd.dev-v2](https://github.com/ringo360/ringoxd.dev-v2)  
-`[06/05 12:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/my-notes`</span>  
 
 </details>
 <!--END_SECTION:activity-->
