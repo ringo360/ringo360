@@ -230,7 +230,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[06/06 13:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bdsx/bdsx](https://github.com/bdsx/bdsx)  
 `[06/06 12:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [LiteLDev/LeviScript](https://github.com/LiteLDev/LeviScript)  
 `[06/06 12:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lippkg/lip](https://github.com/lippkg/lip)  
-`[06/06 12:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [LiteLDev/LeviLamina](https://github.com/LiteLDev/LeviLamina)  
 
 </details>
 <!--END_SECTION:activity-->
