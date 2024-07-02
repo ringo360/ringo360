@@ -33,6 +33,8 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[07/02 08:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ryokr/MeowBot](https://github.com/ryokr/MeowBot)  
+`[07/02 08:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [WerWolv/ImHex](https://github.com/WerWolv/ImHex)  
 `[07/01 13:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [ringo360/DC-MessageLogger](https://github.com/ringo360/DC-MessageLogger)  
 `[07/01 04:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/ringoxd.dev-v2](https://github.com/ringo360/ringoxd.dev-v2)  
 `[06/30 11:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ringo360/selfbot`</span>  
@@ -41,11 +43,11 @@ Please visit [my page](https://ringoxd.dev/)!
 `[06/29 14:25]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#1` in <span title="Private Repo">`🔒ringo360/QuickJoiner`</span>  
 `[06/29 13:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [xNaCly/tokenchecker-website](https://github.com/xNaCly/tokenchecker-website)  
 `[06/29 08:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in <span title="Private Repo">`🔒ringo360/QuickJoiner`</span>  
-`[06/29 07:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Euro-pol/turnaround-api](https://github.com/Euro-pol/turnaround-api)  
-`[06/29 07:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Body-Alhoha/turnaround](https://github.com/Body-Alhoha/turnaround)  
 
 <details><summary>Show More</summary>
 
+`[06/29 07:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Euro-pol/turnaround-api](https://github.com/Euro-pol/turnaround-api)  
+`[06/29 07:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Body-Alhoha/turnaround](https://github.com/Body-Alhoha/turnaround)  
 `[06/29 00:41]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/QuickJoiner`</span>  
 `[06/29 00:41]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/QuickJoiner`</span>  
 `[06/26 10:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [evex-dev/hono.go](https://github.com/evex-dev/hono.go)  
@@ -228,8 +230,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[06/07 04:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EdamAme-x/nextyping](https://github.com/EdamAme-x/nextyping)  
 `[06/06 15:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/ringoxd.dev-v2](https://github.com/ringo360/ringoxd.dev-v2)  
 `[06/06 13:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [bdsx/bdsx](https://github.com/bdsx/bdsx)  
-`[06/06 12:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [LiteLDev/LeviScript](https://github.com/LiteLDev/LeviScript)  
-`[06/06 12:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [lippkg/lip](https://github.com/lippkg/lip)  
 
 </details>
 <!--END_SECTION:activity-->
