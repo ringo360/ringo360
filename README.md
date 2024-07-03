@@ -33,6 +33,7 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[07/03 04:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [yusukebe/pico](https://github.com/yusukebe/pico)  
 `[07/02 23:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [AnIdiotsGuide/discordjs-bot-guide](https://github.com/AnIdiotsGuide/discordjs-bot-guide)  
 `[07/02 23:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [abalabahaha/eris](https://github.com/abalabahaha/eris)  
 `[07/02 23:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ikasan777/.bot`</span>  
@@ -42,10 +43,10 @@ Please visit [my page](https://ringoxd.dev/)!
 `[07/02 08:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ryokr/MeowBot](https://github.com/ryokr/MeowBot)  
 `[07/02 08:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [WerWolv/ImHex](https://github.com/WerWolv/ImHex)  
 `[07/01 13:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [ringo360/DC-MessageLogger](https://github.com/ringo360/DC-MessageLogger)  
-`[07/01 04:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/ringoxd.dev-v2](https://github.com/ringo360/ringoxd.dev-v2)  
 
 <details><summary>Show More</summary>
 
+`[07/01 04:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/ringoxd.dev-v2](https://github.com/ringo360/ringoxd.dev-v2)  
 `[06/30 11:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ringo360/selfbot`</span>  
 `[06/30 09:59]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [itorr/homo](https://github.com/itorr/homo)  
 `[06/30 00:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Niek/chatgpt-web](https://github.com/Niek/chatgpt-web)  
@@ -227,7 +228,7 @@ Please visit [my page](https://ringoxd.dev/)!
 `[06/08 08:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [PrismarineJS/bedrock-protocol](https://github.com/PrismarineJS/bedrock-protocol)  
 `[06/08 08:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [honojs/starter](https://github.com/honojs/starter)  
 `[06/08 08:53]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [diggadoodoo/discord.js-moderation-bot](https://github.com/diggadoodoo/discord.js-moderation-bot)  
-`[06/08 05:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ringo360/dmap-spammer`</span>  
+`[06/08 05:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/dmap-spammer`</span>  
 
 </details>
 <!--END_SECTION:activity-->
