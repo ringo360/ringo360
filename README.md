@@ -229,7 +229,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[06/08 03:11]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/dmap-spammer`</span>  
 `[06/07 08:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [17teen/Discord-Mass-DM-Tool](https://github.com/17teen/Discord-Mass-DM-Tool)  
 `[06/07 08:02]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ddf8196/bgfx-mcbe](https://github.com/ddf8196/bgfx-mcbe)  
-`[06/07 08:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [1-Rasky-1/bgfx-mcbe](https://github.com/1-Rasky-1/bgfx-mcbe)  
 
 </details>
 <!--END_SECTION:activity-->
