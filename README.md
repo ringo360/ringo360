@@ -33,6 +33,8 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[07/06 12:36]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/User-Watcher`</span>  
+`[07/06 12:36]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/User-Watcher`</span>  
 `[07/06 10:57]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Harukotokoto/25h_at_discord](https://github.com/Harukotokoto/25h_at_discord) to [ringo360/25h_at_discord](https://github.com/ringo360/25h_at_discord)  
 `[07/06 10:51]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#64`](https://github.com//Harukotokoto/25h_at_discord/issues/64 'ライセンスを明記しなさい') in [Harukotokoto/25h_at_discord](https://github.com/Harukotokoto/25h_at_discord)  
 `[07/06 10:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/vpngate-checker](https://github.com/ringo360/vpngate-checker)  
@@ -41,11 +43,11 @@ Please visit [my page](https://ringoxd.dev/)!
 `[07/06 10:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ringo360/Verify`</span>  
 `[07/06 10:17]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#3104`](https://github.com//honojs/hono/issues/3104 '(@hono/node-server) I can\'t close web server') in [honojs/hono](https://github.com/honojs/hono)  
 `[07/04 13:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ringo360/Verify`</span>  
-`[07/04 09:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Xumpxs/Xum-Logger](https://github.com/Xumpxs/Xum-Logger)  
-`[07/03 09:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/Verify`</span>  
 
 <details><summary>Show More</summary>
 
+`[07/04 09:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Xumpxs/Xum-Logger](https://github.com/Xumpxs/Xum-Logger)  
+`[07/03 09:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/Verify`</span>  
 `[07/03 04:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css)  
 `[07/03 04:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [yusukebe/pico](https://github.com/yusukebe/pico)  
 `[07/02 23:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [AnIdiotsGuide/discordjs-bot-guide](https://github.com/AnIdiotsGuide/discordjs-bot-guide)  
@@ -229,7 +231,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[06/09 03:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [VolmitSoftware/Iris](https://github.com/VolmitSoftware/Iris)  
 `[06/08 18:04]` <img alt="🏷" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/release.png" align="top" height="18"> Released `1.0.0` in <span title="Private Repo">`🔒ringo360/quicksender`</span>  
 `[06/08 18:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/quicksender`</span>  
-`[06/08 17:30]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [george0st/wcons](https://github.com/george0st/wcons)  
 
 </details>
 <!--END_SECTION:activity-->
