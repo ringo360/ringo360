@@ -33,6 +33,9 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[07/10 04:02]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on `#5` in <span title="Private Repo">`🔒ikasan777/.bot`</span>  
+`[07/10 04:02]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#5` in <span title="Private Repo">`🔒ikasan777/.bot`</span>  
+`[07/10 03:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ikasan777/.bot`</span>  
 `[07/09 23:49]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on `#4` in <span title="Private Repo">`🔒ikasan777/.bot`</span>  
 `[07/09 23:48]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#4` in <span title="Private Repo">`🔒ikasan777/.bot`</span>  
 `[07/09 23:27]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#1` in <span title="Private Repo">`🔒ikasan777/.bot`</span>  
@@ -40,12 +43,12 @@ Please visit [my page](https://ringoxd.dev/)!
 `[07/09 07:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[07/09 04:21]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//ringo360/vpngate-checker/issues/1 '精度を高める') in [ringo360/vpngate-checker](https://github.com/ringo360/vpngate-checker)  
 `[07/08 18:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Vencord/Vencloud](https://github.com/Vencord/Vencloud)  
-`[07/08 11:41]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3104`](https://github.com//honojs/hono/issues/3104 '(@hono/node-server) I can\'t close web server') in [honojs/hono](https://github.com/honojs/hono)  
-`[07/08 01:59]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3104`](https://github.com//honojs/hono/issues/3104 '(@hono/node-server) I can\'t close web server') in [honojs/hono](https://github.com/honojs/hono)  
-`[07/08 01:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/hono-i3104](https://github.com/ringo360/hono-i3104)  
 
 <details><summary>Show More</summary>
 
+`[07/08 11:41]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3104`](https://github.com//honojs/hono/issues/3104 '(@hono/node-server) I can\'t close web server') in [honojs/hono](https://github.com/honojs/hono)  
+`[07/08 01:59]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3104`](https://github.com//honojs/hono/issues/3104 '(@hono/node-server) I can\'t close web server') in [honojs/hono](https://github.com/honojs/hono)  
+`[07/08 01:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/hono-i3104](https://github.com/ringo360/hono-i3104)  
 `[07/08 01:55]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/hono-i3104/tree/main) in [ringo360/hono-i3104](https://github.com/ringo360/hono-i3104)  
 `[07/08 01:54]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/hono-i3104](https://github.com/ringo360/hono-i3104)  
 `[07/07 16:42]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3104`](https://github.com//honojs/hono/issues/3104 '(@hono/node-server) I can\'t close web server') in [honojs/hono](https://github.com/honojs/hono)  
@@ -228,10 +231,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[06/13 07:35]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
 `[06/13 07:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[06/13 00:48]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#7`](https://github.com//ringo360/wakeup-and-sleep-app/issues/7 '(フロントエンド) ちゃんとpostする') in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
-`[06/12 14:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `8` commits in [ringo360/ringoxd.dev-v2](https://github.com/ringo360/ringoxd.dev-v2)  
-`[06/12 04:10]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#3`](https://github.com//ringo360/ringoxd.dev-v2/issues/3 '(/products) つくったものリスト') in [ringo360/ringoxd.dev-v2](https://github.com/ringo360/ringoxd.dev-v2)  
-`[06/12 04:09]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#2`](https://github.com//ringo360/ringoxd.dev-v2/issues/2 '(/clock) アナログ・デジタル時計') in [ringo360/ringoxd.dev-v2](https://github.com/ringo360/ringoxd.dev-v2)  
-`[06/12 04:09]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//ringo360/ringoxd.dev-v2/issues/1 '(/) プロフィール') in [ringo360/ringoxd.dev-v2](https://github.com/ringo360/ringoxd.dev-v2)  
 
 </details>
 <!--END_SECTION:activity-->
