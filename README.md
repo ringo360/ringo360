@@ -33,6 +33,25 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[07/14 01:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
+`[07/14 01:41]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#5` in <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
+`[07/14 01:41]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `bugfix/closelisteners` in <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
+`[07/14 01:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
+`[07/14 01:35]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#4` in <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
+`[07/14 01:34]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `feature/graceful-shutdown` from <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
+`[07/14 01:34]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#3` in <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
+`[07/14 01:34]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue `#1` in <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
+`[07/14 01:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
+`[07/14 01:34]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#3` in <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
+
+<details><summary>Show More</summary>
+
+`[07/14 01:29]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `clean/move-files-and-rewrite` in <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
+`[07/14 01:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
+`[07/14 01:18]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feature/graceful-shutdown` in <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
+`[07/14 01:17]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on `#2` in <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
+`[07/14 01:17]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue `#2` in <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
+`[07/14 01:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
 `[07/13 15:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/SimpleDos`</span>  
 `[07/13 15:25]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/SimpleDos`</span>  
 `[07/13 15:25]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/SimpleDos`</span>  
@@ -43,9 +62,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[07/12 10:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/mayasv`</span>  
 `[07/12 10:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/yamatomc`</span>  
 `[07/12 10:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/mayasv`</span>  
-
-<details><summary>Show More</summary>
-
 `[07/12 10:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
 `[07/12 10:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/yamatomc`</span>  
 `[07/12 08:43]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#2` in <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
@@ -173,7 +189,7 @@ Please visit [my page](https://ringoxd.dev/)!
 `[06/20 08:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[06/19 09:35]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [oureveryday/Steam-auto-crack](https://github.com/oureveryday/Steam-auto-crack)  
 `[06/19 08:33]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//ringo360/raknet-scanner/issues/1 'rewrite') in [ringo360/raknet-scanner](https://github.com/ringo360/raknet-scanner)  
-`[06/18 12:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/quicksender-multi`</span>  
+`[06/18 12:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒ringo360/quicksender-multi`</span>  
 `[06/18 09:18]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#15`](https://github.com//TeamSekai/Sekai.CDN/issues/15 'ドラッグ＆ドロップでファイルアップロードできるようにしなさい') in [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
 `[06/18 09:18]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
 `[06/18 09:18]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#21`](https://github.com//TeamSekai/Sekai.CDN/pull/21 'ドラッグ＆ドロップ可能に (#15)') in [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
@@ -225,13 +241,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[06/15 09:30]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#20`](https://github.com//TeamSekai/Sekai.CDN/issues/20 'offsetを指定可能に') in [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
 `[06/15 09:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
 `[06/15 09:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `14` commits in <span title="Private Repo">`🔒TeamSekai/Sekai.Viewer`</span>  
-`[06/15 04:48]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#20`](https://github.com//TeamSekai/Sekai.CDN/issues/20 'offsetを指定可能に') in [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
-`[06/15 04:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `10` commits in [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
-`[06/15 04:18]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#20`](https://github.com//TeamSekai/Sekai.CDN/issues/20 'offsetを指定可能に') in [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
-`[06/15 04:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
-`[06/15 04:17]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#20`](https://github.com//TeamSekai/Sekai.CDN/issues/20 'offsetを指定可能に') in [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
-`[06/15 04:16]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR [`#20`](https://github.com//TeamSekai/Sekai.CDN/pull/20 'offsetを指定可能に') in [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
-`[06/15 04:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
 
 </details>
 <!--END_SECTION:activity-->
