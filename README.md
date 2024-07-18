@@ -252,7 +252,7 @@ Please visit [my page](https://ringoxd.dev/)!
 `[06/17 14:34]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/user-scripts`</span>  
 `[06/17 02:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Jannyboy11/InvSee-plus-plus](https://github.com/Jannyboy11/InvSee-plus-plus)  
 `[06/16 23:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EdamAme-x/niconico-video-db](https://github.com/EdamAme-x/niconico-video-db)  
-`[06/16 14:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in <span title="Private Repo">`🔒ringo360/hono-proxy`</span>  
+`[06/16 14:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in <span title="Private Repo">`🔒ringo360/hono-proxy`</span>  
 
 </details>
 <!--END_SECTION:activity-->
