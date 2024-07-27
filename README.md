@@ -257,7 +257,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[06/20 14:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
 `[06/20 14:21]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR [`#22`](https://github.com//TeamSekai/Sekai.CDN/pull/22 'HTML要素でダイアログを表現') in [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
 `[06/20 14:21]` <img alt="🔍" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/review.png" align="top" height="18"> Reviewed [`#22`](https://github.com//TeamSekai/Sekai.CDN/pull/22 'HTML要素でダイアログを表現') in [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
-`[06/20 13:56]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/msky-discord-hook-worker](https://github.com/ringo360/msky-discord-hook-worker)  
 
 </details>
 <!--END_SECTION:activity-->
