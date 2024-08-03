@@ -33,7 +33,7 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
-`[08/03 15:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/selfbot`</span>  
+`[08/03 15:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒ringo360/selfbot`</span>  
 `[08/03 11:57]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/simple-vc-joiner](https://github.com/ringo360/simple-vc-joiner)  
 `[08/03 11:57]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/simple-vc-joiner/tree/main) in [ringo360/simple-vc-joiner](https://github.com/ringo360/simple-vc-joiner)  
 `[07/28 09:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EdamAme-x/kukumail.js](https://github.com/EdamAme-x/kukumail.js)  
@@ -255,7 +255,7 @@ Please visit [my page](https://ringoxd.dev/)!
 `[06/22 11:16]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1`](https://github.com//ringo360/ringoxd.dev-v2/issues/1 '(/) プロフィール') in [ringo360/ringoxd.dev-v2](https://github.com/ringo360/ringoxd.dev-v2)  
 `[06/22 11:15]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3`](https://github.com//ringo360/ringoxd.dev-v2/issues/3 '(/products) つくったものリスト') in [ringo360/ringoxd.dev-v2](https://github.com/ringo360/ringoxd.dev-v2)  
 `[06/22 11:15]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#3`](https://github.com//ringo360/ringoxd.dev-v2/issues/3 '(/products) つくったものリスト') in [ringo360/ringoxd.dev-v2](https://github.com/ringo360/ringoxd.dev-v2)  
-`[06/22 09:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `19` commits in <span title="Private Repo">`🔒ringo360/selfbot`</span>  
+`[06/22 09:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `11` commits in <span title="Private Repo">`🔒ringo360/selfbot`</span>  
 
 </details>
 <!--END_SECTION:activity-->
