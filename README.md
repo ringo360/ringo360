@@ -33,6 +33,7 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[08/04 07:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/selfbot`</span>  
 `[08/04 03:37]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/js-icmp-ping/tree/main) in [ringo360/js-icmp-ping](https://github.com/ringo360/js-icmp-ping)  
 `[08/04 03:37]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/js-icmp-ping](https://github.com/ringo360/js-icmp-ping)  
 `[08/03 15:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in <span title="Private Repo">`🔒ringo360/selfbot`</span>  
@@ -42,10 +43,10 @@ Please visit [my page](https://ringoxd.dev/)!
 `[07/27 06:04]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/rps-watcher-rewrite/tree/main) in [ringo360/rps-watcher-rewrite](https://github.com/ringo360/rps-watcher-rewrite)  
 `[07/27 06:04]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/rps-watcher-rewrite](https://github.com/ringo360/rps-watcher-rewrite)  
 `[07/26 15:50]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/cloudflare-ip-checker](https://github.com/ringo360/cloudflare-ip-checker)  
-`[07/26 15:50]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/cloudflare-ip-checker/tree/main) in [ringo360/cloudflare-ip-checker](https://github.com/ringo360/cloudflare-ip-checker)  
 
 <details><summary>Show More</summary>
 
+`[07/26 15:50]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/cloudflare-ip-checker/tree/main) in [ringo360/cloudflare-ip-checker](https://github.com/ringo360/cloudflare-ip-checker)  
 `[07/26 13:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nvm-sh/nvm](https://github.com/nvm-sh/nvm)  
 `[07/26 08:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/ecchi-videos`</span>  
 `[07/25 16:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [samuelthomas2774/nxapi](https://github.com/samuelthomas2774/nxapi)  
@@ -257,7 +258,7 @@ Please visit [my page](https://ringoxd.dev/)!
 `[06/22 11:16]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1`](https://github.com//ringo360/ringoxd.dev-v2/issues/1 '(/) プロフィール') in [ringo360/ringoxd.dev-v2](https://github.com/ringo360/ringoxd.dev-v2)  
 `[06/22 11:15]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3`](https://github.com//ringo360/ringoxd.dev-v2/issues/3 '(/products) つくったものリスト') in [ringo360/ringoxd.dev-v2](https://github.com/ringo360/ringoxd.dev-v2)  
 `[06/22 11:15]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#3`](https://github.com//ringo360/ringoxd.dev-v2/issues/3 '(/products) つくったものリスト') in [ringo360/ringoxd.dev-v2](https://github.com/ringo360/ringoxd.dev-v2)  
-`[06/22 09:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒ringo360/selfbot`</span>  
+`[06/22 09:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/selfbot`</span>  
 
 </details>
 <!--END_SECTION:activity-->
