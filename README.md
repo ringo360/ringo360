@@ -258,7 +258,7 @@ Please visit [my page](https://ringoxd.dev/)!
 `[06/24 02:08]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//TeamSekai/Sekai.Global/issues/1 'Todo') in [TeamSekai/Sekai.Global](https://github.com/TeamSekai/Sekai.Global)  
 `[06/24 02:04]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [TeamSekai/Sekai.Global](https://github.com/TeamSekai/Sekai.Global)  
 `[06/24 02:04]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/TeamSekai/Sekai.Global/tree/main) in [TeamSekai/Sekai.Global](https://github.com/TeamSekai/Sekai.Global)  
-`[06/23 14:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒ringo360/ecchi-videos`</span>  
+`[06/23 14:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/ecchi-videos`</span>  
 
 </details>
 <!--END_SECTION:activity-->
