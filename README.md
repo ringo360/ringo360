@@ -258,7 +258,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[06/29 08:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in <span title="Private Repo">`🔒ringo360/QuickJoiner`</span>  
 `[06/29 07:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Euro-pol/turnaround-api](https://github.com/Euro-pol/turnaround-api)  
 `[06/29 07:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Body-Alhoha/turnaround](https://github.com/Body-Alhoha/turnaround)  
-`[06/29 00:41]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/QuickJoiner`</span>  
 
 </details>
 <!--END_SECTION:activity-->
