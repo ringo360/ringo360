@@ -260,7 +260,7 @@ Please visit [my page](https://ringoxd.dev/)!
 `[07/02 08:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [WerWolv/ImHex](https://github.com/WerWolv/ImHex)  
 `[07/01 13:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [ringo360/DC-MessageLogger](https://github.com/ringo360/DC-MessageLogger)  
 `[07/01 04:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/ringoxd.dev-v2](https://github.com/ringo360/ringoxd.dev-v2)  
-`[06/30 11:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/selfbot`</span>  
+`[06/30 11:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/selfbot`</span>  
 
 </details>
 <!--END_SECTION:activity-->
