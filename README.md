@@ -264,7 +264,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[07/03 09:15]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/Verify`</span>  
 `[07/03 04:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sindresorhus/github-markdown-css](https://github.com/sindresorhus/github-markdown-css)  
 `[07/03 04:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [yusukebe/pico](https://github.com/yusukebe/pico)  
-`[07/02 23:21]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [AnIdiotsGuide/discordjs-bot-guide](https://github.com/AnIdiotsGuide/discordjs-bot-guide)  
 
 </details>
 <!--END_SECTION:activity-->
