@@ -33,7 +33,7 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
-`[08/20 06:29]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
+`[08/20 07:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
 `[08/20 00:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[08/19 23:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [discordjs/RPC](https://github.com/discordjs/RPC)  
 `[08/19 08:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jpwinsup/blog](https://github.com/jpwinsup/blog)  
@@ -261,7 +261,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[07/06 12:36]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/User-Watcher`</span>  
 `[07/06 12:36]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/User-Watcher`</span>  
 `[07/06 10:57]` <img alt="🍴" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/fork.png" align="top" height="18"> Forked [Harukotokoto/25h_at_discord](https://github.com/Harukotokoto/25h_at_discord) to [ringo360/25h_at_discord](https://github.com/ringo360/25h_at_discord)  
-`[07/06 10:51]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#64`](https://github.com//Harukotokoto/25h_at_discord/issues/64 'ライセンスを明記しなさい') in [Harukotokoto/25h_at_discord](https://github.com/Harukotokoto/25h_at_discord)  
 
 </details>
 <!--END_SECTION:activity-->
