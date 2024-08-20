@@ -33,6 +33,7 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[08/19 23:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [discordjs/RPC](https://github.com/discordjs/RPC)  
 `[08/19 08:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jpwinsup/blog](https://github.com/jpwinsup/blog)  
 `[08/19 08:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
 `[08/19 08:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
@@ -42,10 +43,10 @@ Please visit [my page](https://ringoxd.dev/)!
 `[08/16 05:51]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#7`](https://github.com//ringo360/wakeup-and-sleep-frontend/issues/7 '睡眠時間の目標を決められるようにする') in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
 `[08/16 05:37]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#6`](https://github.com//ringo360/wakeup-and-sleep-frontend/issues/6 '誤った操作の取り消し') in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
 `[08/16 05:28]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#5`](https://github.com//ringo360/wakeup-and-sleep-frontend/issues/5 'String contains non ISO-8859-1 code point.') in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
-`[08/16 05:10]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#4`](https://github.com//ringo360/wakeup-and-sleep-frontend/issues/4 'ログインページの垢作成ボタンの位置') in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
 
 <details><summary>Show More</summary>
 
+`[08/16 05:10]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#4`](https://github.com//ringo360/wakeup-and-sleep-frontend/issues/4 'ログインページの垢作成ボタンの位置') in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
 `[08/16 04:58]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#9`](https://github.com//ringo360/wakeup-and-sleep-app/issues/9 'Tasks') in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[08/16 04:57]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#9`](https://github.com//ringo360/wakeup-and-sleep-app/issues/9 'Tasks') in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[08/16 04:55]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#11`](https://github.com//ringo360/wakeup-and-sleep-app/issues/11 'ユーザー登録画面の作成') in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
@@ -262,7 +263,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[07/06 10:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/vpngate-checker](https://github.com/ringo360/vpngate-checker)  
 `[07/06 10:25]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/vpngate-checker/tree/main) in [ringo360/vpngate-checker](https://github.com/ringo360/vpngate-checker)  
 `[07/06 10:25]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/vpngate-checker](https://github.com/ringo360/vpngate-checker)  
-`[07/06 10:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ringo360/Verify`</span>  
 
 </details>
 <!--END_SECTION:activity-->
