@@ -33,6 +33,7 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[08/21 08:58]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//ringo360/SimpleDos/issues/1 'いけないんだ:angry:') in [ringo360/SimpleDos](https://github.com/ringo360/SimpleDos)  
 `[08/21 08:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [ringo360/quickDeleter](https://github.com/ringo360/quickDeleter)  
 `[08/21 04:09]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/quickDeleter](https://github.com/ringo360/quickDeleter)  
 `[08/21 04:09]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/quickDeleter/tree/main) in [ringo360/quickDeleter](https://github.com/ringo360/quickDeleter)  
@@ -42,10 +43,10 @@ Please visit [my page](https://ringoxd.dev/)!
 `[08/19 08:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jpwinsup/blog](https://github.com/jpwinsup/blog)  
 `[08/19 08:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
 `[08/19 08:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
-`[08/18 15:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dejvokep/safe-net](https://github.com/dejvokep/safe-net)  
 
 <details><summary>Show More</summary>
 
+`[08/18 15:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [dejvokep/safe-net](https://github.com/dejvokep/safe-net)  
 `[08/17 14:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/selfbot`</span>  
 `[08/16 05:52]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#8`](https://github.com//ringo360/wakeup-and-sleep-frontend/issues/8 '朝食のチェックボックス+コメント') in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
 `[08/16 05:51]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#7`](https://github.com//ringo360/wakeup-and-sleep-frontend/issues/7 '睡眠時間の目標を決められるようにする') in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
@@ -256,7 +257,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[07/08 01:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/hono-i3104](https://github.com/ringo360/hono-i3104)  
 `[07/08 01:55]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/hono-i3104/tree/main) in [ringo360/hono-i3104](https://github.com/ringo360/hono-i3104)  
 `[07/08 01:54]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/hono-i3104](https://github.com/ringo360/hono-i3104)  
-`[07/07 16:42]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#3104`](https://github.com//honojs/hono/issues/3104 '(@hono/node-server) I can\'t close web server') in [honojs/hono](https://github.com/honojs/hono)  
 
 </details>
 <!--END_SECTION:activity-->
