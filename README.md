@@ -33,6 +33,8 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[08/22 08:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
+`[08/22 08:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
 `[08/22 08:01]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[08/22 07:58]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
 `[08/22 07:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
@@ -41,11 +43,11 @@ Please visit [my page](https://ringoxd.dev/)!
 `[08/21 08:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [ringo360/quickDeleter](https://github.com/ringo360/quickDeleter)  
 `[08/21 04:09]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/quickDeleter](https://github.com/ringo360/quickDeleter)  
 `[08/21 04:09]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/quickDeleter/tree/main) in [ringo360/quickDeleter](https://github.com/ringo360/quickDeleter)  
-`[08/20 08:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
-`[08/20 00:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 
 <details><summary>Show More</summary>
 
+`[08/20 08:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
+`[08/20 00:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[08/19 23:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [discordjs/RPC](https://github.com/discordjs/RPC)  
 `[08/19 08:14]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [jpwinsup/blog](https://github.com/jpwinsup/blog)  
 `[08/19 08:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
@@ -253,7 +255,7 @@ Please visit [my page](https://ringoxd.dev/)!
 `[07/09 23:48]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#4` in <span title="Private Repo">`🔒ikasan777/.bot`</span>  
 `[07/09 23:27]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#1` in <span title="Private Repo">`🔒ikasan777/.bot`</span>  
 `[07/09 09:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒ringo360/User-Watcher`</span>  
-`[07/09 07:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
+`[07/09 07:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 
 </details>
 <!--END_SECTION:activity-->
