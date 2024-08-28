@@ -33,6 +33,7 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[08/28 16:23]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/purge-all](https://github.com/ringo360/purge-all)  
 `[08/28 14:51]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/purge-all](https://github.com/ringo360/purge-all)  
 `[08/28 14:51]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/purge-all/tree/main) in [ringo360/purge-all](https://github.com/ringo360/purge-all)  
 `[08/28 14:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
@@ -42,10 +43,10 @@ Please visit [my page](https://ringoxd.dev/)!
 `[08/27 08:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[08/26 23:00]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sarperavci/CloudflareBypassForScraping](https://github.com/sarperavci/CloudflareBypassForScraping)  
 `[08/26 06:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [zen-browser/desktop](https://github.com/zen-browser/desktop)  
-`[08/24 13:42]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//ringo360/SimpleDos/issues/1 'いけないんだ:angry:') in [ringo360/SimpleDos](https://github.com/ringo360/SimpleDos)  
 
 <details><summary>Show More</summary>
 
+`[08/24 13:42]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1`](https://github.com//ringo360/SimpleDos/issues/1 'いけないんだ:angry:') in [ringo360/SimpleDos](https://github.com/ringo360/SimpleDos)  
 `[08/24 13:41]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [1-Rasky-1/kansibot-rewrite](https://github.com/1-Rasky-1/kansibot-rewrite)  
 `[08/24 05:39]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#9`](https://github.com//ringo360/wakeup-and-sleep-frontend/issues/9 '起床・睡眠・朝食ボタンを用意する + 手動で日付を入力可能にする') in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
 `[08/24 03:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [crashmax-dev/fireworks-js](https://github.com/crashmax-dev/fireworks-js)  
@@ -265,8 +266,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[07/12 10:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/yamatomc`</span>  
 `[07/12 10:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/mayasv`</span>  
 `[07/12 10:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/bdsx-customized`</span>  
-`[07/12 10:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/yamatomc`</span>  
-`[07/12 08:43]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#2` in <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
 
 </details>
 <!--END_SECTION:activity-->
