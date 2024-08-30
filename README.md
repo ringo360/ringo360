@@ -33,7 +33,7 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
-`[08/30 07:00]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
+`[08/30 07:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[08/30 06:46]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
 `[08/29 16:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [SkidderMC/FDPClient](https://github.com/SkidderMC/FDPClient)  
 `[08/29 14:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `12` commits in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
@@ -264,8 +264,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[07/14 01:18]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feature/graceful-shutdown` in <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
 `[07/14 01:17]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on `#2` in <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
 `[07/14 01:17]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue `#2` in <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
-`[07/14 01:16]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
-`[07/13 15:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/SimpleDos`</span>  
 
 </details>
 <!--END_SECTION:activity-->
