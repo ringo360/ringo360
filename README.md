@@ -33,7 +33,7 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
-`[09/01 04:38]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/raknet-scanner](https://github.com/ringo360/raknet-scanner)  
+`[09/01 04:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/raknet-scanner](https://github.com/ringo360/raknet-scanner)  
 `[08/30 16:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/purge-all](https://github.com/ringo360/purge-all)  
 `[08/30 07:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
 `[08/30 07:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
@@ -261,7 +261,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[07/14 01:34]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#3` in <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
 `[07/14 01:34]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue `#1` in <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
 `[07/14 01:34]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
-`[07/14 01:34]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#3` in <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
 
 </details>
 <!--END_SECTION:activity-->
