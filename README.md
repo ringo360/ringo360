@@ -260,7 +260,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[07/14 01:41]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `bugfix/closelisteners` in <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
 `[07/14 01:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
 `[07/14 01:35]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#4` in <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
-`[07/14 01:34]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `feature/graceful-shutdown` from <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
 
 </details>
 <!--END_SECTION:activity-->
