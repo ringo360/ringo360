@@ -33,6 +33,8 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[09/06 06:13]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/websocket-test](https://github.com/ringo360/websocket-test)  
+`[09/06 06:13]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/websocket-test/tree/main) in [ringo360/websocket-test](https://github.com/ringo360/websocket-test)  
 `[09/05 22:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mirielnet/web](https://github.com/mirielnet/web)  
 `[09/04 12:53]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on `#1` in <span title="Private Repo">`🔒NaeCqde/okazuri_bot`</span>  
 `[09/04 12:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒NaeCqde/okazuri_bot`</span>  
@@ -41,11 +43,11 @@ Please visit [my page](https://ringoxd.dev/)!
 `[09/02 16:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in <span title="Private Repo">`🔒NaeCqde/okazuri_bot`</span>  
 `[09/01 11:17]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/mc-status-cli/tree/main) in [ringo360/mc-status-cli](https://github.com/ringo360/mc-status-cli)  
 `[09/01 11:17]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/mc-status-cli](https://github.com/ringo360/mc-status-cli)  
-`[09/01 07:47]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feature/add-sites` in <span title="Private Repo">`🔒NaeCqde/okazuri_bot`</span>  
-`[09/01 04:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/raknet-scanner](https://github.com/ringo360/raknet-scanner)  
 
 <details><summary>Show More</summary>
 
+`[09/01 07:47]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `feature/add-sites` in <span title="Private Repo">`🔒NaeCqde/okazuri_bot`</span>  
+`[09/01 04:48]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/raknet-scanner](https://github.com/ringo360/raknet-scanner)  
 `[08/30 16:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/purge-all](https://github.com/ringo360/purge-all)  
 `[08/30 07:54]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
 `[08/30 07:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
@@ -258,8 +260,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[07/14 01:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
 `[07/14 01:44]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#6` in <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
 `[07/14 01:44]` <img alt="✅" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/pr-open.png" align="top" height="18"> Opened PR `#6` in <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
-`[07/14 01:43]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `clean/move-files-and-rewrite` from <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
-`[07/14 01:43]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#5` in <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
 
 </details>
 <!--END_SECTION:activity-->
