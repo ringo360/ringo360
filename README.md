@@ -33,6 +33,8 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[09/09 11:26]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#8`](https://github.com//ringo360/wakeup-and-sleep-frontend/issues/8 '朝食のチェックボックス+コメント') in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
+`[09/09 11:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
 `[09/09 06:25]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#14`](https://github.com//ringo360/wakeup-and-sleep-app/issues/14 'GET /v1/sleepで渡すデータをサーバーサイドで処理する') in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[09/09 02:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#8`](https://github.com//ringo360/wakeup-and-sleep-frontend/issues/8 '朝食のチェックボックス+コメント') in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
 `[09/09 02:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#8`](https://github.com//ringo360/wakeup-and-sleep-frontend/issues/8 '朝食のチェックボックス+コメント') in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
@@ -41,11 +43,11 @@ Please visit [my page](https://ringoxd.dev/)!
 `[09/07 06:39]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/antifilter-instance`</span>  
 `[09/06 06:13]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/websocket-test](https://github.com/ringo360/websocket-test)  
 `[09/06 06:13]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/websocket-test/tree/main) in [ringo360/websocket-test](https://github.com/ringo360/websocket-test)  
-`[09/05 22:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mirielnet/web](https://github.com/mirielnet/web)  
-`[09/04 12:53]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on `#1` in <span title="Private Repo">`🔒NaeCqde/okazuri_bot`</span>  
 
 <details><summary>Show More</summary>
 
+`[09/05 22:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mirielnet/web](https://github.com/mirielnet/web)  
+`[09/04 12:53]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on `#1` in <span title="Private Repo">`🔒NaeCqde/okazuri_bot`</span>  
 `[09/04 12:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒NaeCqde/okazuri_bot`</span>  
 `[09/04 04:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/selfbot`</span>  
 `[09/03 23:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [RustScan/RustScan](https://github.com/RustScan/RustScan)  
@@ -258,8 +260,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[07/14 02:03]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on `#7` in <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
 `[07/14 02:00]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on `#7` in <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
 `[07/14 01:53]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on `#7` in <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
-`[07/14 01:52]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on `#7` in <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
-`[07/14 01:51]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `bugfix/perplexity-api-400` in <span title="Private Repo">`🔒ikasan777/discord-bot-gemini-main`</span>  
 
 </details>
 <!--END_SECTION:activity-->
