@@ -33,6 +33,7 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[09/15 17:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/latency-test](https://github.com/ringo360/latency-test)  
 `[09/15 17:41]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/ringo360/latency-test/tree/master) in [ringo360/latency-test](https://github.com/ringo360/latency-test)  
 `[09/15 17:41]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/latency-test](https://github.com/ringo360/latency-test)  
 `[09/15 10:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/Quick-VCNuker`</span>  
@@ -42,10 +43,10 @@ Please visit [my page](https://ringoxd.dev/)!
 `[09/15 07:26]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒TeamOasisMC/Website`</span>  
 `[09/15 07:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/Java_tamesi](https://github.com/ringo360/Java_tamesi)  
 `[09/14 23:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [DevLeoko/AdvancedBan](https://github.com/DevLeoko/AdvancedBan)  
-`[09/14 23:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TheNewEconomy/EconomyCore](https://github.com/TheNewEconomy/EconomyCore)  
 
 <details><summary>Show More</summary>
 
+`[09/14 23:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TheNewEconomy/EconomyCore](https://github.com/TheNewEconomy/EconomyCore)  
 `[09/14 07:01]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#459`](https://github.com//shalldie/vscode-background/issues/459 '[Bug Report] 最新的code-insider 1.94.0中，插件失效') in [shalldie/vscode-background](https://github.com/shalldie/vscode-background)  
 `[09/13 00:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [reklamajansimiz/diep.io-hacks-cheats-mods](https://github.com/reklamajansimiz/diep.io-hacks-cheats-mods)  
 `[09/13 00:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Walkoud/raidbotdiscord](https://github.com/Walkoud/raidbotdiscord)  
@@ -257,8 +258,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[07/21 11:52]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/SimpleDos`</span>  
 `[07/21 03:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ringo360/static`</span>  
 `[07/20 17:02]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in <span title="Private Repo">`🔒ringo360/Verify`</span>  
-`[07/20 02:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [LaciaRD000/kukumail.go](https://github.com/LaciaRD000/kukumail.go)  
-`[07/19 05:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets)  
 
 </details>
 <!--END_SECTION:activity-->
