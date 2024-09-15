@@ -33,6 +33,7 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[09/15 10:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/Quick-VCNuker`</span>  
 `[09/15 09:23]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/Quick-VCNuker`</span>  
 `[09/15 09:23]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/Quick-VCNuker`</span>  
 `[09/15 07:26]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `master` in <span title="Private Repo">`🔒TeamOasisMC/Website`</span>  
@@ -42,10 +43,10 @@ Please visit [my page](https://ringoxd.dev/)!
 `[09/14 23:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TheNewEconomy/EconomyCore](https://github.com/TheNewEconomy/EconomyCore)  
 `[09/14 07:01]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#459`](https://github.com//shalldie/vscode-background/issues/459 '[Bug Report] 最新的code-insider 1.94.0中，插件失效') in [shalldie/vscode-background](https://github.com/shalldie/vscode-background)  
 `[09/13 00:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [reklamajansimiz/diep.io-hacks-cheats-mods](https://github.com/reklamajansimiz/diep.io-hacks-cheats-mods)  
-`[09/13 00:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Walkoud/raidbotdiscord](https://github.com/Walkoud/raidbotdiscord)  
 
 <details><summary>Show More</summary>
 
+`[09/13 00:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Walkoud/raidbotdiscord](https://github.com/Walkoud/raidbotdiscord)  
 `[09/12 09:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒ringo360/selfbot`</span>  
 `[09/12 08:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
 `[09/12 06:51]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#7`](https://github.com//ringo360/wakeup-and-sleep-frontend/issues/7 '睡眠時間の目標を決められるようにする') in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
@@ -257,7 +258,7 @@ Please visit [my page](https://ringoxd.dev/)!
 `[07/20 02:15]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [LaciaRD000/kukumail.go](https://github.com/LaciaRD000/kukumail.go)  
 `[07/19 05:52]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [uBlockOrigin/uAssets](https://github.com/uBlockOrigin/uAssets)  
 `[07/19 01:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ReaQwQ/discord-selfbot-Library](https://github.com/ReaQwQ/discord-selfbot-Library)  
-`[07/18 08:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
+`[07/18 08:12]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 
 </details>
 <!--END_SECTION:activity-->
