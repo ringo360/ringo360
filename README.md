@@ -33,6 +33,8 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[09/19 00:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mirielnet/lisna-web](https://github.com/mirielnet/lisna-web)  
+`[09/18 23:16]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter)  
 `[09/16 07:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
 `[09/16 04:39]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/latency-test](https://github.com/ringo360/latency-test)  
 `[09/15 17:41]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/ringo360/latency-test/tree/master) in [ringo360/latency-test](https://github.com/ringo360/latency-test)  
@@ -41,11 +43,11 @@ Please visit [my page](https://ringoxd.dev/)!
 `[09/15 09:23]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/Quick-VCNuker`</span>  
 `[09/15 09:23]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/Quick-VCNuker`</span>  
 `[09/15 07:26]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `master` in <span title="Private Repo">`🔒TeamOasisMC/Website`</span>  
-`[09/15 07:26]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒TeamOasisMC/Website`</span>  
-`[09/15 07:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/Java_tamesi](https://github.com/ringo360/Java_tamesi)  
 
 <details><summary>Show More</summary>
 
+`[09/15 07:26]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒TeamOasisMC/Website`</span>  
+`[09/15 07:25]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/Java_tamesi](https://github.com/ringo360/Java_tamesi)  
 `[09/14 23:43]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [DevLeoko/AdvancedBan](https://github.com/DevLeoko/AdvancedBan)  
 `[09/14 23:36]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TheNewEconomy/EconomyCore](https://github.com/TheNewEconomy/EconomyCore)  
 `[09/14 07:01]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#459`](https://github.com//shalldie/vscode-background/issues/459 '[Bug Report] 最新的code-insider 1.94.0中，插件失效') in [shalldie/vscode-background](https://github.com/shalldie/vscode-background)  
@@ -255,7 +257,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[07/21 23:11]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `main` from <span title="Private Repo">`🔒ringo360/Verify`</span>  
 `[07/21 23:10]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `dev` in <span title="Private Repo">`🔒ringo360/Verify`</span>  
 `[07/21 23:10]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `stable` in <span title="Private Repo">`🔒ringo360/Verify`</span>  
-`[07/21 23:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/Verify`</span>  
 
 </details>
 <!--END_SECTION:activity-->
