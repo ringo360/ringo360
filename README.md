@@ -33,6 +33,8 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[09/21 14:13]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `master` in <span title="Private Repo">`🔒ringo360/exec-trigger`</span>  
+`[09/21 14:11]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/exec-trigger`</span>  
 `[09/21 13:57]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`feature/discord-notify`](https://github.com/ringo360/f5si-autoupdater/tree/feature/discord-notify) in [ringo360/f5si-autoupdater](https://github.com/ringo360/f5si-autoupdater)  
 `[09/21 13:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#2`](https://github.com//ringo360/f5si-autoupdater/issues/2 'Discordへの通知') in [ringo360/f5si-autoupdater](https://github.com/ringo360/f5si-autoupdater)  
 `[09/21 13:56]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`feature/send-req`](https://github.com/ringo360/f5si-autoupdater/tree/feature/send-req) in [ringo360/f5si-autoupdater](https://github.com/ringo360/f5si-autoupdater)  
@@ -41,11 +43,11 @@ Please visit [my page](https://ringoxd.dev/)!
 `[09/20 08:57]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/ifconfig-edge/tree/main) in [ringo360/ifconfig-edge](https://github.com/ringo360/ifconfig-edge)  
 `[09/20 08:57]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/ifconfig-edge](https://github.com/ringo360/ifconfig-edge)  
 `[09/19 13:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [arkenfox/user.js](https://github.com/arkenfox/user.js)  
-`[09/19 09:23]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/f5si-autoupdater](https://github.com/ringo360/f5si-autoupdater)  
-`[09/19 09:23]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/f5si-autoupdater/tree/main) in [ringo360/f5si-autoupdater](https://github.com/ringo360/f5si-autoupdater)  
 
 <details><summary>Show More</summary>
 
+`[09/19 09:23]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/f5si-autoupdater](https://github.com/ringo360/f5si-autoupdater)  
+`[09/19 09:23]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/f5si-autoupdater/tree/main) in [ringo360/f5si-autoupdater](https://github.com/ringo360/f5si-autoupdater)  
 `[09/19 08:07]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)  
 `[09/19 07:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
 `[09/19 00:01]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [mirielnet/lisna-web](https://github.com/mirielnet/lisna-web)  
