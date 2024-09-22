@@ -33,6 +33,7 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[09/22 16:35]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/Verify`</span>  
 `[09/22 07:14]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1159`](https://github.com//sindresorhus/execa/issues/1159 'How to fix ERR_PACKAGE_PATH_NOT_EXPORTED ?') in [sindresorhus/execa](https://github.com/sindresorhus/execa)  
 `[09/22 07:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/exec-trigger`</span>  
 `[09/22 06:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sindresorhus/execa](https://github.com/sindresorhus/execa)  
@@ -42,10 +43,10 @@ Please visit [my page](https://ringoxd.dev/)!
 `[09/21 14:11]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/exec-trigger`</span>  
 `[09/21 13:57]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`feature/discord-notify`](https://github.com/ringo360/f5si-autoupdater/tree/feature/discord-notify) in [ringo360/f5si-autoupdater](https://github.com/ringo360/f5si-autoupdater)  
 `[09/21 13:57]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#2`](https://github.com//ringo360/f5si-autoupdater/issues/2 'Discordへの通知') in [ringo360/f5si-autoupdater](https://github.com/ringo360/f5si-autoupdater)  
-`[09/21 13:56]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`feature/send-req`](https://github.com/ringo360/f5si-autoupdater/tree/feature/send-req) in [ringo360/f5si-autoupdater](https://github.com/ringo360/f5si-autoupdater)  
 
 <details><summary>Show More</summary>
 
+`[09/21 13:56]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`feature/send-req`](https://github.com/ringo360/f5si-autoupdater/tree/feature/send-req) in [ringo360/f5si-autoupdater](https://github.com/ringo360/f5si-autoupdater)  
 `[09/21 13:55]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//ringo360/f5si-autoupdater/issues/1 '(私的利用のための)外部サーバーとの連携') in [ringo360/f5si-autoupdater](https://github.com/ringo360/f5si-autoupdater)  
 `[09/21 13:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [ringo360/f5si-autoupdater](https://github.com/ringo360/f5si-autoupdater)  
 `[09/20 08:57]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/ifconfig-edge/tree/main) in [ringo360/ifconfig-edge](https://github.com/ringo360/ifconfig-edge)  
@@ -255,7 +256,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[07/25 16:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [samuelthomas2774/nxapi](https://github.com/samuelthomas2774/nxapi)  
 `[07/25 13:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒ringo360/GuildWatcher`</span>  
 `[07/25 12:21]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/GuildWatcher`</span>  
-`[07/25 12:21]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/GuildWatcher`</span>  
 
 </details>
 <!--END_SECTION:activity-->
