@@ -33,6 +33,7 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[09/22 06:04]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [sindresorhus/execa](https://github.com/sindresorhus/execa)  
 `[09/22 03:59]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`master`](https://github.com/ringo360/djs-docs/tree/master) in [ringo360/djs-docs](https://github.com/ringo360/djs-docs)  
 `[09/22 03:59]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/djs-docs](https://github.com/ringo360/djs-docs)  
 `[09/21 14:13]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `master` in <span title="Private Repo">`🔒ringo360/exec-trigger`</span>  
@@ -42,10 +43,10 @@ Please visit [my page](https://ringoxd.dev/)!
 `[09/21 13:56]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`feature/send-req`](https://github.com/ringo360/f5si-autoupdater/tree/feature/send-req) in [ringo360/f5si-autoupdater](https://github.com/ringo360/f5si-autoupdater)  
 `[09/21 13:55]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//ringo360/f5si-autoupdater/issues/1 '(私的利用のための)外部サーバーとの連携') in [ringo360/f5si-autoupdater](https://github.com/ringo360/f5si-autoupdater)  
 `[09/21 13:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [ringo360/f5si-autoupdater](https://github.com/ringo360/f5si-autoupdater)  
-`[09/20 08:57]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/ifconfig-edge/tree/main) in [ringo360/ifconfig-edge](https://github.com/ringo360/ifconfig-edge)  
 
 <details><summary>Show More</summary>
 
+`[09/20 08:57]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/ifconfig-edge/tree/main) in [ringo360/ifconfig-edge](https://github.com/ringo360/ifconfig-edge)  
 `[09/20 08:57]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/ifconfig-edge](https://github.com/ringo360/ifconfig-edge)  
 `[09/19 13:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [arkenfox/user.js](https://github.com/arkenfox/user.js)  
 `[09/19 09:23]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/f5si-autoupdater](https://github.com/ringo360/f5si-autoupdater)  
@@ -255,7 +256,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[07/25 12:21]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/GuildWatcher`</span>  
 `[07/25 04:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/SimpleBot`</span>  
 `[07/25 00:59]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/miq-api`</span>  
-`[07/25 00:59]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/miq-api`</span>  
 
 </details>
 <!--END_SECTION:activity-->
