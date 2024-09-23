@@ -256,7 +256,7 @@ Please visit [my page](https://ringoxd.dev/)!
 `[07/26 13:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [nvm-sh/nvm](https://github.com/nvm-sh/nvm)  
 `[07/26 08:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/ecchi-videos`</span>  
 `[07/25 16:38]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [samuelthomas2774/nxapi](https://github.com/samuelthomas2774/nxapi)  
-`[07/25 13:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ringo360/GuildWatcher`</span>  
+`[07/25 13:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/GuildWatcher`</span>  
 
 </details>
 <!--END_SECTION:activity-->
