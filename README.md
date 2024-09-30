@@ -33,6 +33,8 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[09/30 02:44]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/Simplest-Dos`</span>  
+`[09/30 02:44]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/Simplest-Dos`</span>  
 `[09/30 01:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ringo360/Verify`</span>  
 `[09/30 00:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [VectorClient/Releases](https://github.com/VectorClient/Releases)  
 `[09/29 13:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ysdragon/StreamBot](https://github.com/ysdragon/StreamBot)  
@@ -41,11 +43,11 @@ Please visit [my page](https://ringoxd.dev/)!
 `[09/24 14:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Kolhax/Vape-V4-Crack](https://github.com/Kolhax/Vape-V4-Crack)  
 `[09/24 14:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1159`](https://github.com//sindresorhus/execa/issues/1159 'How do I fix ERR_PACKAGE_PATH_NOT_EXPORTED ?') in [sindresorhus/execa](https://github.com/sindresorhus/execa)  
 `[09/24 14:11]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1159`](https://github.com//sindresorhus/execa/issues/1159 'How do I fix ERR_PACKAGE_PATH_NOT_EXPORTED ?') in [sindresorhus/execa](https://github.com/sindresorhus/execa)  
-`[09/24 14:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/exec-trigger](https://github.com/ringo360/exec-trigger)  
-`[09/24 06:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
 
 <details><summary>Show More</summary>
 
+`[09/24 14:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/exec-trigger](https://github.com/ringo360/exec-trigger)  
+`[09/24 06:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
 `[09/23 15:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ringo360/Verify`</span>  
 `[09/23 14:06]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1159`](https://github.com//sindresorhus/execa/issues/1159 'How do I fix ERR_PACKAGE_PATH_NOT_EXPORTED ?') in [sindresorhus/execa](https://github.com/sindresorhus/execa)  
 `[09/23 02:10]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hUwUtao/Iris](https://github.com/hUwUtao/Iris)  
@@ -259,8 +261,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[08/04 03:37]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/js-icmp-ping](https://github.com/ringo360/js-icmp-ping)  
 `[08/03 15:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in <span title="Private Repo">`🔒ringo360/selfbot`</span>  
 `[08/03 11:57]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/simple-vc-joiner](https://github.com/ringo360/simple-vc-joiner)  
-`[08/03 11:57]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/simple-vc-joiner/tree/main) in [ringo360/simple-vc-joiner](https://github.com/ringo360/simple-vc-joiner)  
-`[07/28 09:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EdamAme-x/kukumail.js](https://github.com/EdamAme-x/kukumail.js)  
 
 </details>
 <!--END_SECTION:activity-->
