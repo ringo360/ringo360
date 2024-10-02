@@ -33,7 +33,7 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
-`[10/02 09:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/Rust-HelloWorld](https://github.com/ringo360/Rust-HelloWorld)  
+`[10/02 09:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/Rust-HelloWorld](https://github.com/ringo360/Rust-HelloWorld)  
 `[10/02 08:17]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/Rust-HelloWorld/tree/main) in [ringo360/Rust-HelloWorld](https://github.com/ringo360/Rust-HelloWorld)  
 `[10/02 08:17]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/Rust-HelloWorld](https://github.com/ringo360/Rust-HelloWorld)  
 `[10/02 07:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/djs-docs](https://github.com/ringo360/djs-docs)  
@@ -264,7 +264,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[08/04 08:34]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [YimMenu/YimMenu](https://github.com/YimMenu/YimMenu)  
 `[08/04 07:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/selfbot`</span>  
 `[08/04 03:37]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/js-icmp-ping/tree/main) in [ringo360/js-icmp-ping](https://github.com/ringo360/js-icmp-ping)  
-`[08/04 03:37]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/js-icmp-ping](https://github.com/ringo360/js-icmp-ping)  
 
 </details>
 <!--END_SECTION:activity-->
