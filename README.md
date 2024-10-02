@@ -33,6 +33,7 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[10/02 07:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/djs-docs](https://github.com/ringo360/djs-docs)  
 `[10/01 11:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [NaeCqde/email-worker-discord](https://github.com/NaeCqde/email-worker-discord)  
 `[09/30 04:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ringo360/Simplest-Dos`</span>  
 `[09/30 02:44]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/Simplest-Dos`</span>  
@@ -42,10 +43,10 @@ Please visit [my page](https://ringoxd.dev/)!
 `[09/29 13:08]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ysdragon/StreamBot](https://github.com/ysdragon/StreamBot)  
 `[09/26 05:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [TKperson/Nuking-Discord-Server-Bot-Nuke-Bot](https://github.com/TKperson/Nuking-Discord-Server-Bot-Nuke-Bot)  
 `[09/25 05:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [VadimBoev/FlappyBird](https://github.com/VadimBoev/FlappyBird)  
-`[09/24 14:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Kolhax/Vape-V4-Crack](https://github.com/Kolhax/Vape-V4-Crack)  
 
 <details><summary>Show More</summary>
 
+`[09/24 14:28]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Kolhax/Vape-V4-Crack](https://github.com/Kolhax/Vape-V4-Crack)  
 `[09/24 14:11]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#1159`](https://github.com//sindresorhus/execa/issues/1159 'How do I fix ERR_PACKAGE_PATH_NOT_EXPORTED ?') in [sindresorhus/execa](https://github.com/sindresorhus/execa)  
 `[09/24 14:11]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#1159`](https://github.com//sindresorhus/execa/issues/1159 'How do I fix ERR_PACKAGE_PATH_NOT_EXPORTED ?') in [sindresorhus/execa](https://github.com/sindresorhus/execa)  
 `[09/24 14:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/exec-trigger](https://github.com/ringo360/exec-trigger)  
@@ -261,7 +262,7 @@ Please visit [my page](https://ringoxd.dev/)!
 `[08/04 07:22]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒ringo360/selfbot`</span>  
 `[08/04 03:37]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/js-icmp-ping/tree/main) in [ringo360/js-icmp-ping](https://github.com/ringo360/js-icmp-ping)  
 `[08/04 03:37]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/js-icmp-ping](https://github.com/ringo360/js-icmp-ping)  
-`[08/03 15:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in <span title="Private Repo">`🔒ringo360/selfbot`</span>  
+`[08/03 15:41]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒ringo360/selfbot`</span>  
 
 </details>
 <!--END_SECTION:activity-->
