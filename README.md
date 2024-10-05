@@ -33,6 +33,7 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[10/05 08:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/CDN-v2`</span>  
 `[10/03 12:42]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [skick1234/DisTube](https://github.com/skick1234/DisTube)  
 `[10/03 04:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EndstoneMC/endstone](https://github.com/EndstoneMC/endstone)  
 `[10/02 12:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/djs-tutorial](https://github.com/ringo360/djs-tutorial)  
@@ -42,10 +43,10 @@ Please visit [my page](https://ringoxd.dev/)!
 `[10/02 08:17]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/Rust-HelloWorld/tree/main) in [ringo360/Rust-HelloWorld](https://github.com/ringo360/Rust-HelloWorld)  
 `[10/02 08:17]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/Rust-HelloWorld](https://github.com/ringo360/Rust-HelloWorld)  
 `[10/02 07:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/djs-docs](https://github.com/ringo360/djs-docs)  
-`[10/01 11:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [NaeCqde/email-worker-discord](https://github.com/NaeCqde/email-worker-discord)  
 
 <details><summary>Show More</summary>
 
+`[10/01 11:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [NaeCqde/email-worker-discord](https://github.com/NaeCqde/email-worker-discord)  
 `[09/30 04:09]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ringo360/Simplest-Dos`</span>  
 `[09/30 02:44]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/Simplest-Dos`</span>  
 `[09/30 02:44]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/Simplest-Dos`</span>  
@@ -264,7 +265,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[08/06 00:45]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/packet.js`</span>  
 `[08/06 00:45]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/packet.js`</span>  
 `[08/05 14:47]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#5`](https://github.com//ringo360/ringoxd.dev-v2/issues/5 'cssを修正しなさい') in [ringo360/ringoxd.dev-v2](https://github.com/ringo360/ringoxd.dev-v2)  
-`[08/05 12:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [takejohn/paiga](https://github.com/takejohn/paiga)  
 
 </details>
 <!--END_SECTION:activity-->
