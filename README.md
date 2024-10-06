@@ -33,6 +33,8 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[10/06 09:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Team-BTMC/osu-radio](https://github.com/Team-BTMC/osu-radio)  
+`[10/06 09:03]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [otoneko1102/discord-userapp](https://github.com/otoneko1102/discord-userapp)  
 `[10/05 19:03]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in <span title="Private Repo">`🔒TeamSekai/Sekai.Viewer`</span>  
 `[10/05 17:50]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue `#1` in <span title="Private Repo">`🔒TeamSekai/Sekai.Viewer`</span>  
 `[10/05 17:50]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒TeamSekai/Sekai.Viewer`</span>  
@@ -41,11 +43,11 @@ Please visit [my page](https://ringoxd.dev/)!
 `[10/03 04:39]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [EndstoneMC/endstone](https://github.com/EndstoneMC/endstone)  
 `[10/02 12:05]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/djs-tutorial](https://github.com/ringo360/djs-tutorial)  
 `[10/02 11:24]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [elviswolcott/seti-icons](https://github.com/elviswolcott/seti-icons)  
-`[10/02 10:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hatoo/oha](https://github.com/hatoo/oha)  
-`[10/02 09:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/Rust-HelloWorld](https://github.com/ringo360/Rust-HelloWorld)  
 
 <details><summary>Show More</summary>
 
+`[10/02 10:09]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hatoo/oha](https://github.com/hatoo/oha)  
+`[10/02 09:27]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/Rust-HelloWorld](https://github.com/ringo360/Rust-HelloWorld)  
 `[10/02 08:17]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/Rust-HelloWorld/tree/main) in [ringo360/Rust-HelloWorld](https://github.com/ringo360/Rust-HelloWorld)  
 `[10/02 08:17]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/Rust-HelloWorld](https://github.com/ringo360/Rust-HelloWorld)  
 `[10/02 07:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/djs-docs](https://github.com/ringo360/djs-docs)  
@@ -257,8 +259,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[08/07 10:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
 `[08/07 10:06]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 `[08/07 06:39]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#9`](https://github.com//ringo360/wakeup-and-sleep-app/issues/9 'Tasks') in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
-`[08/07 06:37]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#9`](https://github.com//ringo360/wakeup-and-sleep-app/issues/9 'Tasks') in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
-`[08/07 06:33]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#9`](https://github.com//ringo360/wakeup-and-sleep-app/issues/9 'Tasks') in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 
 </details>
 <!--END_SECTION:activity-->
