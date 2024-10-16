@@ -33,6 +33,7 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[10/16 01:40]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//ringo360/CDN-v2/issues/1 'offsetの追加') in [ringo360/CDN-v2](https://github.com/ringo360/CDN-v2)  
 `[10/15 10:03]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/web-player](https://github.com/ringo360/web-player)  
 `[10/15 10:03]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/web-player/tree/main) in [ringo360/web-player](https://github.com/ringo360/web-player)  
 `[10/15 08:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [ringo360/canvas-asobi](https://github.com/ringo360/canvas-asobi)  
@@ -42,10 +43,10 @@ Please visit [my page](https://ringoxd.dev/)!
 `[10/12 11:59]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/1kb/tree/main) in [ringo360/1kb](https://github.com/ringo360/1kb)  
 `[10/12 06:18]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [iiordanov/remote-desktop-clients](https://github.com/iiordanov/remote-desktop-clients)  
 `[10/11 09:19]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [addi00000/empyrean](https://github.com/addi00000/empyrean)  
-`[10/11 00:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)  
 
 <details><summary>Show More</summary>
 
+`[10/11 00:57]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)  
 `[10/10 05:24]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/isSafeURL](https://github.com/ringo360/isSafeURL)  
 `[10/10 05:24]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/isSafeURL/tree/main) in [ringo360/isSafeURL](https://github.com/ringo360/isSafeURL)  
 `[10/10 05:23]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [ccbikai/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong](https://github.com/ccbikai/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong)  
@@ -264,7 +265,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[08/08 14:55]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
 `[08/08 13:22]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [GrinZero/node-network-devtools](https://github.com/GrinZero/node-network-devtools)  
 `[08/08 05:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
-`[08/08 04:51]` <img alt="❌" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/delete.png" align="top" height="18"> Deleted `bugifx/wrong-button-text` from [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
 
 </details>
 <!--END_SECTION:activity-->
