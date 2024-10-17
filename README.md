@@ -33,6 +33,8 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[10/17 11:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/CDN-v2](https://github.com/ringo360/CDN-v2)  
+`[10/17 11:17]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2`](https://github.com//ringo360/CDN-v2/issues/2 'init.tsをつくる') in [ringo360/CDN-v2](https://github.com/ringo360/CDN-v2)  
 `[10/17 04:25]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#2`](https://github.com//ringo360/CDN-v2/issues/2 'init.tsをつくる') in [ringo360/CDN-v2](https://github.com/ringo360/CDN-v2)  
 `[10/17 04:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/CDN-v2](https://github.com/ringo360/CDN-v2)  
 `[10/17 02:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [TeamSekai/.github](https://github.com/TeamSekai/.github)  
@@ -41,11 +43,11 @@ Please visit [my page](https://ringoxd.dev/)!
 `[10/17 02:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [TeamSekai/Sekai.Viewer](https://github.com/TeamSekai/Sekai.Viewer)  
 `[10/17 02:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[10/16 01:40]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//ringo360/CDN-v2/issues/1 'offsetの追加') in [ringo360/CDN-v2](https://github.com/ringo360/CDN-v2)  
-`[10/15 10:03]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/web-player](https://github.com/ringo360/web-player)  
-`[10/15 10:03]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/web-player/tree/main) in [ringo360/web-player](https://github.com/ringo360/web-player)  
 
 <details><summary>Show More</summary>
 
+`[10/15 10:03]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/web-player](https://github.com/ringo360/web-player)  
+`[10/15 10:03]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/web-player/tree/main) in [ringo360/web-player](https://github.com/ringo360/web-player)  
 `[10/15 08:14]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [ringo360/canvas-asobi](https://github.com/ringo360/canvas-asobi)  
 `[10/14 23:48]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [takejohn/aiscript-engine](https://github.com/takejohn/aiscript-engine)  
 `[10/12 12:20]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/1kb](https://github.com/ringo360/1kb)  
@@ -262,8 +264,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[08/10 14:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [yuru7/udev-gothic](https://github.com/yuru7/udev-gothic)  
 `[08/10 00:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Meliox/PVE-mods](https://github.com/Meliox/PVE-mods)  
 `[08/09 15:07]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`feature/block-non-xff-req`](https://github.com/TeamSekai/Sekai.CDN/tree/feature/block-non-xff-req) in [TeamSekai/Sekai.CDN](https://github.com/TeamSekai/Sekai.CDN)  
-`[08/09 03:49]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `15` commits in <span title="Private Repo">`🔒ringo360/Verify`</span>  
-`[08/09 03:49]` <img alt="🎉" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/merge.png" align="top" height="18"> Merged PR `#1` in <span title="Private Repo">`🔒ringo360/Verify`</span>  
 
 </details>
 <!--END_SECTION:activity-->
