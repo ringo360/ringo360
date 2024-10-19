@@ -33,6 +33,7 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[10/19 09:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/CDN-v2](https://github.com/ringo360/CDN-v2)  
 `[10/19 08:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vercel/hyper](https://github.com/vercel/hyper)  
 `[10/17 11:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/CDN-v2](https://github.com/ringo360/CDN-v2)  
 `[10/17 11:17]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2`](https://github.com//ringo360/CDN-v2/issues/2 'init.tsをつくる') in [ringo360/CDN-v2](https://github.com/ringo360/CDN-v2)  
@@ -42,10 +43,10 @@ Please visit [my page](https://ringoxd.dev/)!
 `[10/17 02:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [TeamSekai/Sekai.Viewer](https://github.com/TeamSekai/Sekai.Viewer)  
 `[10/17 02:41]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`f466be5`](https://github.com/TeamSekai/Sekai.Viewer/commit/f466be5edaba4c9e93a551bbd6208deb0ba2e4c4#commitcomment-148034846) in [TeamSekai/Sekai.Viewer](https://github.com/TeamSekai/Sekai.Viewer)  
 `[10/17 02:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [TeamSekai/Sekai.Viewer](https://github.com/TeamSekai/Sekai.Viewer)  
-`[10/17 02:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 
 <details><summary>Show More</summary>
 
+`[10/17 02:36]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [TeamSekai/Sekai.Explode](https://github.com/TeamSekai/Sekai.Explode)  
 `[10/16 01:40]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//ringo360/CDN-v2/issues/1 'offsetの追加') in [ringo360/CDN-v2](https://github.com/ringo360/CDN-v2)  
 `[10/15 10:03]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/web-player](https://github.com/ringo360/web-player)  
 `[10/15 10:03]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/web-player/tree/main) in [ringo360/web-player](https://github.com/ringo360/web-player)  
@@ -263,7 +264,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[08/11 13:16]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/hw`</span>  
 `[08/11 11:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `5` commits in [ringo360/vpngate-checker](https://github.com/ringo360/vpngate-checker)  
 `[08/10 14:26]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [yuru7/udev-gothic](https://github.com/yuru7/udev-gothic)  
-`[08/10 00:29]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [Meliox/PVE-mods](https://github.com/Meliox/PVE-mods)  
 
 </details>
 <!--END_SECTION:activity-->
