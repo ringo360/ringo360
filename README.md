@@ -33,6 +33,9 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[10/21 02:14]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#1` in <span title="Private Repo">`🔒ringo360/uedei-bot`</span>  
+`[10/21 02:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [YimMenu-Lua/Samurais-Scripts](https://github.com/YimMenu-Lua/Samurais-Scripts)  
+`[10/21 02:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [microsoft/BitNet](https://github.com/microsoft/BitNet)  
 `[10/20 09:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/uedei-bot`</span>  
 `[10/20 06:51]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/uedei-bot`</span>  
 `[10/20 06:48]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/uedei-bot`</span>  
@@ -40,12 +43,12 @@ Please visit [my page](https://ringoxd.dev/)!
 `[10/19 08:11]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [vercel/hyper](https://github.com/vercel/hyper)  
 `[10/17 11:17]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/CDN-v2](https://github.com/ringo360/CDN-v2)  
 `[10/17 11:17]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#2`](https://github.com//ringo360/CDN-v2/issues/2 'init.tsをつくる') in [ringo360/CDN-v2](https://github.com/ringo360/CDN-v2)  
-`[10/17 04:25]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#2`](https://github.com//ringo360/CDN-v2/issues/2 'init.tsをつくる') in [ringo360/CDN-v2](https://github.com/ringo360/CDN-v2)  
-`[10/17 04:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/CDN-v2](https://github.com/ringo360/CDN-v2)  
-`[10/17 02:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [TeamSekai/.github](https://github.com/TeamSekai/.github)  
 
 <details><summary>Show More</summary>
 
+`[10/17 04:25]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#2`](https://github.com//ringo360/CDN-v2/issues/2 'init.tsをつくる') in [ringo360/CDN-v2](https://github.com/ringo360/CDN-v2)  
+`[10/17 04:24]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `2` commits in [ringo360/CDN-v2](https://github.com/ringo360/CDN-v2)  
+`[10/17 02:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [TeamSekai/.github](https://github.com/TeamSekai/.github)  
 `[10/17 02:43]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [TeamSekai/Sekai.Viewer](https://github.com/TeamSekai/Sekai.Viewer)  
 `[10/17 02:41]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`f466be5`](https://github.com/TeamSekai/Sekai.Viewer/commit/f466be5edaba4c9e93a551bbd6208deb0ba2e4c4#commitcomment-148034846) in [TeamSekai/Sekai.Viewer](https://github.com/TeamSekai/Sekai.Viewer)  
 `[10/17 02:40]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [TeamSekai/Sekai.Viewer](https://github.com/TeamSekai/Sekai.Viewer)  
@@ -264,8 +267,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[08/11 13:18]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#2` in <span title="Private Repo">`🔒ringo360/hw`</span>  
 `[08/11 13:17]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#1` in <span title="Private Repo">`🔒ringo360/hw`</span>  
 `[08/11 13:16]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/hw`</span>  
-`[08/11 13:16]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/hw`</span>  
-`[08/11 11:04]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/vpngate-checker](https://github.com/ringo360/vpngate-checker)  
 
 </details>
 <!--END_SECTION:activity-->
