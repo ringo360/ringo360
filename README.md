@@ -33,6 +33,7 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[10/22 05:16]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#5` in <span title="Private Repo">`🔒ringo360/uedei-bot`</span>  
 `[10/22 04:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [voids-top/docs](https://github.com/voids-top/docs)  
 `[10/22 04:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [omonukko/pix-chan-for-ts-js](https://github.com/omonukko/pix-chan-for-ts-js)  
 `[10/22 04:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [taka-4602/Pix-Chan](https://github.com/taka-4602/Pix-Chan)  
@@ -42,10 +43,10 @@ Please visit [my page](https://ringoxd.dev/)!
 `[10/21 02:22]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#2` in <span title="Private Repo">`🔒ringo360/uedei-bot`</span>  
 `[10/21 02:14]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#1` in <span title="Private Repo">`🔒ringo360/uedei-bot`</span>  
 `[10/21 02:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [YimMenu-Lua/Samurais-Scripts](https://github.com/YimMenu-Lua/Samurais-Scripts)  
-`[10/21 02:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [microsoft/BitNet](https://github.com/microsoft/BitNet)  
 
 <details><summary>Show More</summary>
 
+`[10/21 02:05]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [microsoft/BitNet](https://github.com/microsoft/BitNet)  
 `[10/20 09:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/uedei-bot`</span>  
 `[10/20 06:51]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/uedei-bot`</span>  
 `[10/20 06:48]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository <span title="Private Repo">`🔒ringo360/uedei-bot`</span>  
@@ -266,7 +267,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[08/13 07:45]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ringo360/selfbot`</span>  
 `[08/13 05:59]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ringo360/User-Watcher`</span>  
 `[08/13 04:07]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/SimpleDos](https://github.com/ringo360/SimpleDos)  
-`[08/12 03:40]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch `main` in <span title="Private Repo">`🔒ringo360/CDN-v2`</span>  
 
 </details>
 <!--END_SECTION:activity-->
