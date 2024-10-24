@@ -33,6 +33,8 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[10/24 07:33]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/discordpy-test/tree/main) in [ringo360/discordpy-test](https://github.com/ringo360/discordpy-test)  
+`[10/24 07:33]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/discordpy-test](https://github.com/ringo360/discordpy-test)  
 `[10/24 06:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub)  
 `[10/23 23:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/purge-all](https://github.com/ringo360/purge-all)  
 `[10/23 13:23]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#6` in <span title="Private Repo">`🔒ringo360/uedei-bot`</span>  
@@ -41,11 +43,11 @@ Please visit [my page](https://ringoxd.dev/)!
 `[10/22 07:25]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [end3r/Gamedev-Canvas-workshop](https://github.com/end3r/Gamedev-Canvas-workshop)  
 `[10/22 07:13]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in [ringo360/canvas-asobi](https://github.com/ringo360/canvas-asobi)  
 `[10/22 05:16]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#5` in <span title="Private Repo">`🔒ringo360/uedei-bot`</span>  
-`[10/22 04:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [voids-top/docs](https://github.com/voids-top/docs)  
-`[10/22 04:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [omonukko/pix-chan-for-ts-js](https://github.com/omonukko/pix-chan-for-ts-js)  
 
 <details><summary>Show More</summary>
 
+`[10/22 04:45]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [voids-top/docs](https://github.com/voids-top/docs)  
+`[10/22 04:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [omonukko/pix-chan-for-ts-js](https://github.com/omonukko/pix-chan-for-ts-js)  
 `[10/22 04:44]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [taka-4602/Pix-Chan](https://github.com/taka-4602/Pix-Chan)  
 `[10/21 13:21]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/uedei-bot`</span>  
 `[10/21 02:31]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue `#4` in <span title="Private Repo">`🔒ringo360/uedei-bot`</span>  
@@ -261,8 +263,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[08/17 14:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/selfbot`</span>  
 `[08/16 05:52]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#8`](https://github.com//ringo360/wakeup-and-sleep-frontend/issues/8 '朝食のチェックボックス+コメント') in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
 `[08/16 05:51]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#7`](https://github.com//ringo360/wakeup-and-sleep-frontend/issues/7 '睡眠時間の目標を決められるようにする') in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
-`[08/16 05:37]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#6`](https://github.com//ringo360/wakeup-and-sleep-frontend/issues/6 '誤った操作の取り消し') in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
-`[08/16 05:28]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#5`](https://github.com//ringo360/wakeup-and-sleep-frontend/issues/5 'String contains non ISO-8859-1 code point.') in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
 
 </details>
 <!--END_SECTION:activity-->
