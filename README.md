@@ -33,6 +33,7 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[10/26 13:58]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [AgibotTech/agibot_x1_train](https://github.com/AgibotTech/agibot_x1_train)  
 `[10/25 00:51]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)  
 `[10/25 00:47]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb)  
 `[10/24 13:26]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/uedei-bot`</span>  
@@ -42,10 +43,10 @@ Please visit [my page](https://ringoxd.dev/)!
 `[10/24 07:51]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/discordpy-test](https://github.com/ringo360/discordpy-test)  
 `[10/24 07:40]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Opened issue [`#1`](https://github.com//ringo360/discordpy-test/issues/1 'flake8 check failed') in [ringo360/discordpy-test](https://github.com/ringo360/discordpy-test)  
 `[10/24 07:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/discordpy-test](https://github.com/ringo360/discordpy-test)  
-`[10/24 07:33]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/discordpy-test/tree/main) in [ringo360/discordpy-test](https://github.com/ringo360/discordpy-test)  
 
 <details><summary>Show More</summary>
 
+`[10/24 07:33]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/discordpy-test/tree/main) in [ringo360/discordpy-test](https://github.com/ringo360/discordpy-test)  
 `[10/24 07:33]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/discordpy-test](https://github.com/ringo360/discordpy-test)  
 `[10/24 06:40]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub)  
 `[10/23 23:28]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/purge-all](https://github.com/ringo360/purge-all)  
@@ -263,7 +264,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[08/21 04:09]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/quickDeleter](https://github.com/ringo360/quickDeleter)  
 `[08/21 04:09]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/quickDeleter/tree/main) in [ringo360/quickDeleter](https://github.com/ringo360/quickDeleter)  
 `[08/20 08:11]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
-`[08/20 00:53]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/wakeup-and-sleep-app](https://github.com/ringo360/wakeup-and-sleep-app)  
 
 </details>
 <!--END_SECTION:activity-->
