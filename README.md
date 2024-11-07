@@ -33,6 +33,7 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
+`[11/07 12:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ringo360/uedei-bot`</span>  
 `[11/07 08:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [ringo360/bj-web](https://github.com/ringo360/bj-web)  
 `[11/03 09:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in <span title="Private Repo">`🔒ringo360/uedei-bot`</span>  
 `[11/02 16:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [aforensics/HiddenVM](https://github.com/aforensics/HiddenVM)  
@@ -42,10 +43,10 @@ Please visit [my page](https://ringoxd.dev/)!
 `[10/31 12:49]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [antfu-collective/ni](https://github.com/antfu-collective/ni)  
 `[10/31 08:10]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in [ringo360/bj-web](https://github.com/ringo360/bj-web)  
 `[10/29 23:37]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in <span title="Private Repo">`🔒ringo360/uedei-bot`</span>  
-`[10/29 08:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/bj-web](https://github.com/ringo360/bj-web)  
 
 <details><summary>Show More</summary>
 
+`[10/29 08:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in [ringo360/bj-web](https://github.com/ringo360/bj-web)  
 `[10/29 06:55]` <img alt="➕" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-repo.png" align="top" height="18"> Created repository [ringo360/bj-web](https://github.com/ringo360/bj-web)  
 `[10/29 06:55]` <img alt="📂" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/create-branch.png" align="top" height="18"> Created branch [`main`](https://github.com/ringo360/bj-web/tree/main) in [ringo360/bj-web](https://github.com/ringo360/bj-web)  
 `[10/27 13:30]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in <span title="Private Repo">`🔒ringo360/uedei-bot`</span>  
@@ -264,7 +265,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[08/22 23:09]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#5`](https://github.com//ringo360/wakeup-and-sleep-frontend/issues/5 'String contains non ISO-8859-1 code point.') in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
 `[08/22 14:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wheremyfoodat/Panda3DS](https://github.com/wheremyfoodat/Panda3DS)  
 `[08/22 13:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/quickDeleter](https://github.com/ringo360/quickDeleter)  
-`[08/22 13:33]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4)  
 
 </details>
 <!--END_SECTION:activity-->
