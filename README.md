@@ -33,7 +33,7 @@ Please visit [my page](https://ringoxd.dev/)!
 
 # Activity <3
 <!--START_SECTION:activity-->
-`[11/07 12:33]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `3` commits in <span title="Private Repo">`🔒ringo360/uedei-bot`</span>  
+`[11/07 12:42]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `4` commits in <span title="Private Repo">`🔒ringo360/uedei-bot`</span>  
 `[11/07 08:08]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `7` commits in [ringo360/bj-web](https://github.com/ringo360/bj-web)  
 `[11/03 09:57]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `6` commits in <span title="Private Repo">`🔒ringo360/uedei-bot`</span>  
 `[11/02 16:55]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [aforensics/HiddenVM](https://github.com/aforensics/HiddenVM)  
@@ -264,7 +264,6 @@ Please visit [my page](https://ringoxd.dev/)!
 `[08/22 23:09]` <img alt="🗣" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/comment.png" align="top" height="18"> Commented on [`#5`](https://github.com//ringo360/wakeup-and-sleep-frontend/issues/5 'String contains non ISO-8859-1 code point.') in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
 `[08/22 23:09]` <img alt="❗️" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/issue.png" align="top" height="18"> Closed issue [`#5`](https://github.com//ringo360/wakeup-and-sleep-frontend/issues/5 'String contains non ISO-8859-1 code point.') in [ringo360/wakeup-and-sleep-frontend](https://github.com/ringo360/wakeup-and-sleep-frontend)  
 `[08/22 14:12]` <img alt="⭐" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/star.png" align="top" height="18"> Starred [wheremyfoodat/Panda3DS](https://github.com/wheremyfoodat/Panda3DS)  
-`[08/22 13:44]` <img alt="📝" src="https://github.com/cheesits456/github-activity-readme/raw/master/icons/commit.png" align="top" height="18"> Made `1` commit in [ringo360/quickDeleter](https://github.com/ringo360/quickDeleter)  
 
 </details>
 <!--END_SECTION:activity-->
